@@ -29,11 +29,11 @@ navbar-links:
     - Meet the team for 2016: "meet-the-team-for-2016"
   News: "News"
   Events: 
-    - Upcoming Events:"upcoming-events"
-    - Past Events:"past-events"
+    - Upcoming Events: "upcoming-events"
+    - Past Events: "past-events"
   Gallery: 
-    - Photos:"photos"
-    - Videos:"videos"
+    - Photos: "photos"
+    - Videos: "videos"
   Membership: "membership" 
   Sponsors: "sponsors"
   Links: "links"
