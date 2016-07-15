@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About KAOC History
+title: About KAOC
 subtitle: KAOC is a registered non-profit organization.
 ---
 ![my movie](https://raw.githubusercontent.com/kaoc/kaoc.github.io/master/img/aboutKAOC.png)
