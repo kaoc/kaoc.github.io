@@ -3,9 +3,8 @@ layout: page
 title: Presidents Desk
 subtitle:
 bigimg:
-  - "/img/big-imgs/costa-rica-house.jpeg" : ""
-  - "/img/big-imgs/grouse-grind.jpeg" : ""
-  - "/img/aboutKAOC.png" : ""
+  - "/img/big-imgs/Backwater_Stretches_123.jpg" : "Backwaters"
+  - "/img/big-imgs/aboutKAOC.png" : "Collage"
 ---
 
 
