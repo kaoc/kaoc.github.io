@@ -6,7 +6,6 @@ bigimg:
   - "/img/big-imgs/Backwater_Stretches_123.jpg" : "Backwaters"
   - "/img/big-imgs/aboutKAOC.png" : "Collage"
 ---
-
 |Role	                 |Name	                        |Email                         |
 |------------------------|------------------------------|------------------------------|
 |President	             |Thomas John	                |President@ColorKerala.org     |
