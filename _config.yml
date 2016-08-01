@@ -28,17 +28,17 @@ navbar-links:
     - President's Desk: "02-presidents-desk"
     - Meet the team for 2016: "03-meet-the-team-for-2016"
     - Past Committees: "04-past-committees"
-  News: "04-News"
+  News: "05-News"
   Events: 
-    - Upcoming Events: "05-upcoming-events"
-    - Past Events: "06-past-events"
+    - Upcoming Events: "06-upcoming-events"
+    - Past Events: "07-past-events"
   Gallery: 
-    - Photos: "07-photos-gallery"
-    - Videos: "08-videos-gallery"
-  Membership: "09-membership" 
-  Sponsors: "10-sponsors"
-  Links: "11-links"
-  Contact Us: "12-contact-us"
+    - Photos: "08-photos-gallery"
+    - Videos: "09-videos-gallery"
+  Membership: "10-membership" 
+  Sponsors: "11-sponsors"
+  Links: "12-links"
+  Contact Us: "13-contact-us"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
