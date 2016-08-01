@@ -3,12 +3,10 @@ layout: page
 title: Presidents Desk
 subtitle:
 bigimg:
-  - "/img/big-imgs/Backwater_Stretches_123.jpg" : "Backwaters"
-  - "/img/big-imgs/aboutKAOC.png" : "Collage"
+  - "/img/big-imgs/bigimg1.jpg" : ""
+  - "/img/big-imgs/bigimg2.jpg" : ""
+  - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-
-
-
 Welcome to the website of Kerala Association of Colorado (**KAOC**).  
 I am excited to be a part of the tradition that our parents have bestowed upon us for years. 
 
@@ -17,7 +15,6 @@ I hope to be able to continue the tradition of the Kerala Association of Colorad
 With this goal in mind, this year’s committee will strive to create new events that will peak the interest of the younger generation.
 
 Our mission is to provide a forum to exhibit cultural diversity through the creation, performance, and appreciation of arts.
-
 
 **Thanks**,  
 **Thomas John**

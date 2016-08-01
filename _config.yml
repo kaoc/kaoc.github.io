@@ -24,20 +24,20 @@ description: Fresh ideas & traditional values!
 # List of links in the navigation bar
 navbar-links:
   About:
-    - KAOC History: "about-kaoc-history"
-    - President's Desk: "presidents-desk"
-    - Meet the team for 2016: "meet-the-team-for-2016"
-  News: "News"
+    - KAOC History: "01-about-kaoc-history"
+    - President's Desk: "02-presidents-desk"
+    - Meet the team for 2016: "03-meet-the-team-for-2016"
+  News: "04-News"
   Events: 
-    - Upcoming Events: "upcoming-events"
-    - Past Events: "past-events"
+    - Upcoming Events: "05-upcoming-events"
+    - Past Events: "06-past-events"
   Gallery: 
-    - Photos: "photos"
-    - Videos: "videos"
-  Membership: "membership" 
-  Sponsors: "sponsors"
-  Links: "links"
-  Contact Us: "contact-us"
+    - Photos: "07-photos-gallery"
+    - Videos: "08-videos-gallery"
+  Membership: "09-membership" 
+  Sponsors: "10-sponsors"
+  Links: "11-links"
+  Contact Us: "12-contact-us"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)

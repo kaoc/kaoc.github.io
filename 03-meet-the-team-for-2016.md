@@ -3,8 +3,9 @@ layout: page
 title: Meet Our Team
 subtitle: Committee Members for 2016
 bigimg:
-  - "/img/big-imgs/Backwater_Stretches_123.jpg" : "Backwaters"
-  - "/img/big-imgs/aboutKAOC.png" : "Collage"
+  - "/img/big-imgs/bigimg1.jpg" : ""
+  - "/img/big-imgs/bigimg2.jpg" : ""
+  - "/img/big-imgs/bigimg3.jpg" : ""
 ---
 |Role	                 |Name	                        |Email                         |
 |------------------------|------------------------------|------------------------------|
