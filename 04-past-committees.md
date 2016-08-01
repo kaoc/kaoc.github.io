@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Meet Our Team
-subtitle: Committee Members for 2016
+title: Past Committees
+subtitle: Details of KAOC Committees since 2003
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
@@ -10,7 +10,7 @@ bigimg:
 | Year | President	                                                     | Committee Members                                                   |
 |------|-----------------------------------------------------------------|-------------------------------------------------------------|
 | 2015 | ![pic](/img/pres/RobinJohn.jpg)Robin John                       | Ivy George (Vice President), Santhosh George (Treasurer), Thomas Thachanalil (Secretary), Jento Antony (Finance Secretary), Thommy Kodenkandath (Newsletter), Girish S Nair (Event Coordinator), Anthony Olapurath (Event Coordinator), Binoy Ram (Event Coordinator), Binu (Event Coordinator), John George (Sports Coordinator), Dileep Nair (Sports Coordinator), Sanju Jacob (Sports Coordinator), Renju Anand (Cultural Secretary), Keerthanna Jothiraman (Cultural Secretary), Vinovin P Thomas (Web Admin), Vinesh VI (Movie Secretary) <br>**The advisory team:** Vinod Kazhipurath, Merlin Matthew Kunnel, Anjana Gopakumar, Mathew Roy, Philip Joseph, Isaac Palathinkal |
-| 2014 | ![pic](/img/pres/RobinJohn.jpg)Robin John                       | Isaac Palathinkal (Finance Secretary), Philip Joseph (Treasurer), Thomas Thachanalil (Secretary), Girish Nair (Event Coordinator), Thomas Kodenkandath (Newsletter), Mathew Roy (Finance Assistance), Anthony Olapurath (Event Coordinator), Dileep Nair (Sports Coordinator), Renju Anand (Cultural Secretary), Keerthanna Jothiraman (Cultural Secretary), Vinovin Thomas (Web Admin) and Vinesh VI (Movie Secretary) <br>**The advisory team:**Merlin Mathew Kunnel, Anjana Gopakumar and Vinod Kazhipurath |
+| 2014 | ![pic](/img/pres/RobinJohn.jpg)Robin John                       | Isaac Palathinkal (Finance Secretary), Philip Joseph (Treasurer), Thomas Thachanalil (Secretary), Girish Nair (Event Coordinator), Thomas Kodenkandath (Newsletter), Mathew Roy (Finance Assistance), Anthony Olapurath (Event Coordinator), Dileep Nair (Sports Coordinator), Renju Anand (Cultural Secretary), Keerthanna Jothiraman (Cultural Secretary), Vinovin Thomas (Web Admin) and Vinesh VI (Movie Secretary) <br>**The advisory team:** Merlin Mathew Kunnel, Anjana Gopakumar and Vinod Kazhipurath |
 | 2013 | ![pic](/img/pres/JiluJacob.jpg)Jilu Jacob                       | Tiffany John (Cultural Secretary), Tintu Mehra (Treasurer), Stanley Philip, Abin Muckom, Paul Paret, Jerry Johnson, Jeena Joy, Berin Vattappillil, Shaila Mathai |
 | 2012 | ![pic](/img/pres/MohanaKrishnan.jpg)Mohana Krishnan             | Bindu Kurien (Cultural Secretary), Vineetha Menon (Treasurer), Vinod Kazhipurath, Annie Jacob, Merlin Kunnel, Manoj Sebastian, Predheep Nair, Manu Chacko, Asish Thomas, Abin Muckom |
 | 2011 | ![pic](/img/pres/KrishKrishnan.jpg)Krish Krishnan               | Thommy Kodankandath (Vice President),Vinod Kazhipurath(General Secretary) ,Vineeta Menon (Treasurer) , Vinesh Unnithan (Web Master), Ajay Menon ( Cultural Secretary), Aneesh John ( Youth Coordinator), Ginesh George ( Youth Coordinator) |
