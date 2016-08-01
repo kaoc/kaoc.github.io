@@ -1,4 +1,4 @@
----\
+---
 layout: page
 title: Meet Our Team
 subtitle: Committee Members for 2016
