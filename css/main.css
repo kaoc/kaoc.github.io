@@ -171,6 +171,7 @@ img {
   .navbar-custom .avatar-container {
     width: 100px;
     margin-top: -50px;
+    margin-left: 222px; 
   }
   
   .navbar-custom .avatar-container  .avatar-img-border {
