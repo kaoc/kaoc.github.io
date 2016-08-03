@@ -31,7 +31,7 @@ navbar-links:
   News: "05-news"
   Events: 
     - Upcoming Events: "06-upcoming-events"
-    - Past Events: "07-past-events"
+    - Past Events: "past-events"
   Gallery: 
     - Photos: "08-photos-gallery"
     - Videos: "09-videos-gallery"
