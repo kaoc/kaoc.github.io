@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Meet Our Team
-subtitle: Committee Members for 2016
+title: Past Events
+subtitle: Community events organized by KAOC
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""

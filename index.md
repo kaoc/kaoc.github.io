@@ -7,4 +7,4 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-![pookalam pic](/img/pookalam.jpg)
+![pookalam-pic](/img/pookalam.jpg)
