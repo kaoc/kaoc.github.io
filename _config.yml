@@ -85,6 +85,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/07-past-events/page:num/"
 
 kramdown:
   input: GFM
