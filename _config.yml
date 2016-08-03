@@ -51,8 +51,8 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Kerala Association of Colorado
-  email: "webmaster@colorkerala.org"
-  facebook: kerala.association.of.colorado  # eg. daattali
+  email: "WebMaster@ColorKerala.org"
+  facebook: Kerala.Association.of.Colorado  # eg. daattali
  
 # Select which links to show in the footer
 footer-links-active:
@@ -67,7 +67,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ColorKerala.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.ColorKerala.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
