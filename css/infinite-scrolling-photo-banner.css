@@ -7,17 +7,17 @@
 }
 .photobanner {
 	height: 150px;
-	width: 165%;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	width: 8400px;
+	margin-top: 9px;
+	margin-bottom: 9px;
 }
 /*keyframe animations*/
 .first {
-	-webkit-animation: bannermove 30s linear infinite;
-	   -moz-animation: bannermove 30s linear infinite;
-	    -ms-animation: bannermove 30s linear infinite;
-	     -o-animation: bannermove 30s linear infinite;
-	        animation: bannermove 30s linear infinite;
+	-webkit-animation: bannermove 70s linear infinite;
+	   -moz-animation: bannermove 70s linear infinite;
+	    -ms-animation: bannermove 70s linear infinite;
+	     -o-animation: bannermove 70s linear infinite;
+	        animation: bannermove 70s linear infinite;
 }
 @keyframes "bannermove" {
  0% {
