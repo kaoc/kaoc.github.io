@@ -7,15 +7,15 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-|Role	                 |Name	                        |Email                         |
-|------------------------|------------------------------|------------------------------|
-|President	             |Thomas John	                |President@ColorKerala.org     |
-|Secretary	             |Siju Chollampat               |Secretary@ColorKerala.org     |
-|Joint Secretary         |Sandeep G.L.                  |info@ColorKerala.org          |
-|Treasurer	             |Murali Janardhanan            |Treasurer@ColorKerala.org     | 
-|Cultural Secretaries    |Smitha Vikram & Asha Thoyakkat|Cultural@ColorKerala.org      |
-|Communications In Charge|Elizabeth Chandy              |Communications@ColorKerala.org|
-|Event Coordinator	     |Premjith A.V.                 |info@ColorKerala.org          |
-|Logistics Coordinator	 |Anthony Olappurath            |info@ColorKerala.org          |
-|Web Admin	             |Abhir Elandasserry            |Webmaster@ColorKerala.org     |
-|Youth Coordinator	     |Sheila Mathayi                |info@ColorKerala.org          |
+|Role	                     |Name	                    |Email                         |
+|---------------------------:|------------------------------|------------------------------|
+|**President**	             |Thomas John	            |president@colorkerala.org     |
+|**Secretary**	             |Siju Chollampat               |secretary@colorkerala.org     |
+|**Joint Secretary**         |Sandeep G.L.                  |info@colorkerala.org          |
+|**Treasurer**	             |Murali Janardhanan            |treasurer@colorkerala.org     | 
+|**Cultural Secretaries**    |Smitha Vikram & Asha Thoyakkat|cultural@colorkerala.org      |
+|**Communications In Charge**|Elizabeth Chandy              |communications@colorkerala.org|
+|**Event Coordinator**	     |Premjith A.V.                 |info@colorkerala.org          |
+|**Logistics Coordinator**   |Anthony Olappurath            |info@colorkerala.org          |
+|**Web Admin**	             |Abhir Elandasserry            |webmaster@colorkerala.org     |
+|**Youth Coordinator**	     |Sheila Mathayi                |info@colorkerala.org          |

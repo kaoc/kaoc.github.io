@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Meet Our Team
-subtitle: Committee Members for 2016
+title: Useful Web Links
+subtitle: 
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-|Role	                 |Name	                        |Email                         |
-|------------------------|------------------------------|------------------------------|
-|President	             |Thomas John	                |President@ColorKerala.org     |
-|Secretary	             |Siju Chollampat               |Secretary@ColorKerala.org     |
-|Joint Secretary         |Sandeep G.L.                  |info@ColorKerala.org          |
-|Treasurer	             |Murali Janardhanan            |Treasurer@ColorKerala.org     | 
-|Cultural Secretaries    |Smitha Vikram & Asha Thoyakkat|Cultural@ColorKerala.org      |
-|Communications In Charge|Elizabeth Chandy              |Communications@ColorKerala.org|
-|Event Coordinator	     |Premjith A.V.                 |info@ColorKerala.org          |
-|Logistics Coordinator	 |Anthony Olappurath            |info@ColorKerala.org          |
-|Web Admin	             |Abhir Elandasserry            |Webmaster@ColorKerala.org     |
-|Youth Coordinator	     |Sheila Mathayi                |info@ColorKerala.org          |
+[Malayalam Calendar](http://malayalam.deepikaglobal.com/calendar/calendar_view.aspx)  
+[Kerala Tourism](http://www.keralatourism.org)  
+[Learn Malayalam Alphabets](http://www.omniglot.com/writing/malayalam.htm)  
+[Malayalam Tutor](http://malayalamtutor.org/)  
+
+**HELP LINE FOR NRIs and PRAVASI MALAYALIS**  
+  NRK Office & Kerala Police are jointly providing the 24 hr HELPLINE
+for all MALAYALI PRAVASIS from ANY COUNTRY to get assistance to resolve
+their problems in Kerala  
+**Phone Numbers: 91-471-2721547 / 2729685 / 2724890 / 2722768**  
+**Email: SPNRI.POL@KERALA.GOV.IN**
+

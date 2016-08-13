@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sling Indian Dance Festival 2016
-subtitle: Varnanjalli - A tribute to the diversity of India
+title: Summer Picnic
+subtitle: Grillin' & Chillin'
 ---
 ![poster of IDF 2016](/img/indian-dance-festival-2016.jpg)  
 **Sling Indian Dance Festival 2016** is the premier platform for all talented Indian dancers in Colorado. This event is open to all residents of Colorado, where it has proven to be an educational insight into the Indian culture and values.

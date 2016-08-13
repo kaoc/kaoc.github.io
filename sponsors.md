@@ -7,15 +7,44 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-|Role	                 |Name	                        |Email                         |
-|------------------------|------------------------------|------------------------------|
-|President	             |Thomas John	                |President@ColorKerala.org     |
-|Secretary	             |Siju Chollampat               |Secretary@ColorKerala.org     |
-|Joint Secretary         |Sandeep G.L.                  |info@ColorKerala.org          |
-|Treasurer	             |Murali Janardhanan            |Treasurer@ColorKerala.org     | 
-|Cultural Secretaries    |Smitha Vikram & Asha Thoyakkat|Cultural@ColorKerala.org      |
-|Communications In Charge|Elizabeth Chandy              |Communications@ColorKerala.org|
-|Event Coordinator	     |Premjith A.V.                 |info@ColorKerala.org          |
-|Logistics Coordinator	 |Anthony Olappurath            |info@ColorKerala.org          |
-|Web Admin	             |Abhir Elandasserry            |Webmaster@ColorKerala.org     |
-|Youth Coordinator	     |Sheila Mathayi                |info@ColorKerala.org          |
+
+<div id="container">
+    <!-- Each image is 350px by 233px -->
+    <div class="photobanner">
+    	<img class="first" src="/img/ads/ad1.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad2.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad3.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad4.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad5.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad6.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad7.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad8.jpg" alt="" height="270" width="370"/>
+	<img src="/img/ads/ad9.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad10.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad11.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad12.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad13.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad14.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad15.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad16.jpg" alt="" height="270" width="370"/>
+	<img src="/img/ads/ad17.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad18.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad19.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad20.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad21.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad22.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad23.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad24.jpg" alt="" height="270" width="370"/>
+	<img src="/img/ads/ad25.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad26.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad27.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad28.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad29.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad30.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad31.jpg" alt="" height="270" width="370"/>
+    	<img src="/img/ads/ad32.jpg" alt="" height="270" width="370"/>
+	<img src="/img/ads/ad33.jpg" alt="" height="270" width="370"/>
+	<img src="/img/ads/ad34.jpg" alt="" height="270" width="370"/>
+	<img src="/img/ads/ad35.jpg" alt="" height="270" width="370"/>
+    </div>
+</div>
