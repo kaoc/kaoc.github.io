@@ -1,0 +1,80 @@
+* {margin: 0; padding: 0;}
+#container {
+	width: 165%;
+	overflow: hidden;
+	background: white;
+	margin-left: -33%;
+}
+.photobanner {
+	height: 155px;
+	width: 9184px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+/*keyframe animations*/
+.first {
+	-webkit-animation: bannermove 99s linear infinite;
+	   -moz-animation: bannermove 99s linear infinite;
+	    -ms-animation: bannermove 99s linear infinite;
+	     -o-animation: bannermove 99s linear infinite;
+	        animation: bannermove 99s linear infinite;
+}
+@keyframes "bannermove" {
+ 0% {
+    margin-left: 0px;
+ }
+ 100% {
+    margin-left: -8064px;
+ }
+}
+@-moz-keyframes bannermove {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -8064px;
+ }
+}
+@-webkit-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -8064px;
+ }
+}
+@-ms-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -8064px;
+ }
+}
+@-o-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -8064px;
+ }
+}
+.photobanner img {
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.photobanner img:hover {
+	-webkit-transform: scale(2.1);
+	-moz-transform: scale(2.1);
+	-o-transform: scale(2.1);
+	-ms-transform: scale(2.1);
+	transform: scale(2.1);
+	cursor: pointer;
+
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+}
