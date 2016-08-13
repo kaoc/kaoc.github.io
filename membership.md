@@ -6,6 +6,7 @@ bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
+  - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association.
 

@@ -6,6 +6,7 @@ bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
+  - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 Welcome to the website of Kerala Association of Colorado (**KAOC**).  
 I am excited to be a part of the tradition that our parents have bestowed upon us for years. 
