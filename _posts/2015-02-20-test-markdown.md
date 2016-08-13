@@ -1,17 +1,8 @@
 ---
 layout: post
-title: Sling Indian Dance Festival 2016
-subtitle: Saturday, April 23rd, 2016
+title: Test markdown
+subtitle: Each post also has a subtitle
 ---
-
-Sling Indian Dance Festival 2016 is the premier platform for all talented Indian dancers in Colorado. This event is open to all residents of Colorado, where it has proven to be an educational insight into the Indian culture and values.
-
-Professional and amateur artists of Colorado perform various Indian dance forms demonstrating the rich cultural heritage of India. This event helps foster a bonding among the diverse community as well as provide a culturally enriching experience.
-
-Kerala Association has been organizing the Indian Dance Festival annually for more than 15 years. This festival has proved to be one of the biggest gatherings of the Indian Community in Colorado.
-
-This event continues to get more popular each year and we are thrilled by the public enthusiasm for the event. From the past years’ experience, we anticipate more than a 200 participants and a 1000 to be entertained this year.
-
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
