@@ -6,11 +6,16 @@ bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
+  - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-[Malayalam Calendar](http://malayalam.deepikaglobal.com/calendar/calendar_view.aspx)  
-[Kerala Tourism](http://www.keralatourism.org)  
-[Learn Malayalam Alphabets](http://www.omniglot.com/writing/malayalam.htm)  
-[Malayalam Tutor](http://malayalamtutor.org/)  
+
+|General Links                                                                        |Kerala Airport Links                                                                 |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|[Malayalam Calendar](http://malayalam.deepikaglobal.com/calendar/calendar_view.aspx) |[Cochin International Airport](http://cial.aero/)                                    |
+|[Kerala Tourism](http://www.keralatourism.org)                                       |[Calicut International Airport](http://www.aai.aero/allAirports/calicut_general.jsp) |
+|[Learn Malayalam Alphabets](http://www.omniglot.com/writing/malayalam.htm)           |[Trivandrum International Airport](http://www.aai.aero/allAirports/thiru_general.jsp)|
+|[Spoken Malayalam Tutor](http://www.pravasimalayalam.com/part1/part1-1.shtml)                                        |                                                                                     |
+
 
 **HELP LINE FOR NRIs and PRAVASI MALAYALIS**  
   NRK Office & Kerala Police are jointly providing the 24 hr HELPLINE
@@ -19,3 +24,10 @@ their problems in Kerala
 **Phone Numbers: 91-471-2721547 / 2729685 / 2724890 / 2722768**  
 **Email: SPNRI.POL@KERALA.GOV.IN**
 
+**Malayalam Newspapers**
+
+[Malayala Manorama](http://www.manoramaonline.com/)
+[Mathrubhumi](http://www.mathrubhumi.com/)
+[Kerala Kaumudi](www.keralakaumudi.com/)
+[Deepika](www.deepika.com)
+[Deshabhimani](www.deshabhimani.com)
