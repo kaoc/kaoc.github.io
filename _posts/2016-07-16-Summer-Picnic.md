@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer Picnic
+title: KAOC Summer Picnic 2016
 subtitle: Grillin' 'n' Chillin'
 ---
 ![poster of IDF 2016](/img/summer-picnic-2016.jpg)    
