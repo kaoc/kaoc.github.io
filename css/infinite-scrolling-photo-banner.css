@@ -19,7 +19,7 @@
 	     -o-animation: bannermove 99s linear infinite;
 	        animation: bannermove 99s linear infinite;
 }
-@keyframes "bannermove" {
+@keyframes bannermove {
  0% {
     margin-left: 0px;
  }
@@ -35,7 +35,7 @@
    margin-left: -8064px;
  }
 }
-@-webkit-keyframes "bannermove" {
+@-webkit-keyframes bannermove {
  0% {
    margin-left: 0px;
  }
@@ -43,7 +43,7 @@
    margin-left: -8064px;
  }
 }
-@-ms-keyframes "bannermove" {
+@-ms-keyframes bannermove {
  0% {
    margin-left: 0px;
  }
@@ -51,7 +51,7 @@
    margin-left: -8064px;
  }
 }
-@-o-keyframes "bannermove" {
+@-o-keyframes bannermove {
  0% {
    margin-left: 0px;
  }
