@@ -10,7 +10,7 @@ bigimg:
 ---
 
 #### Onam Celebrations 2016
-Event will be held on September 24th. The cultural events will be held from 4:00 PM to 7:00 PM followed by Onasadya. We will confirm the venue shortly.
+![Onam 2016 Flyer](/img/KAoC-Onam2016-flyer.jpg)
 
 Below are the program details and registration link.
 
