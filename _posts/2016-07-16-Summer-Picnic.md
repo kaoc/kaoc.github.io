@@ -1,6 +1,6 @@
 ---
 layout: post
-category: past-event
+tag: past-event
 title: KAOC Summer Picnic 2016
 subtitle: Grillin' 'n' Chillin'
 ---
