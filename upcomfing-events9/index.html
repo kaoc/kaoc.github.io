@@ -1,7 +1,31 @@
-<ul>
+---
+layout: page
+title: Past Events
+subtitle: Community events organized by KAOC
+bigimg:
+  - "/img/big-imgs/bigimg1.jpg" : ""
+  - "/img/big-imgs/bigimg2.jpg" : ""
+  - "/img/big-imgs/bigimg3.jpg" : ""
+---
+
+<div class="posts-list">
   {% for post in site.categories.past-event %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Event was held on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry">
+      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+</div>
