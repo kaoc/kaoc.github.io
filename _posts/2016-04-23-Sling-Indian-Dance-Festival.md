@@ -1,5 +1,6 @@
 ---
 layout: post
+category: past-event
 title: Sling Indian Dance Festival 2016
 subtitle: Varnanjalli - A tribute to the diversity of India
 ---
