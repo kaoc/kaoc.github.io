@@ -1,5 +1,6 @@
 ---
 layout: post
+category: past-event
 title: Music Night 2016
 subtitle: Night of music & melody!
 ---
