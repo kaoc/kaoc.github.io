@@ -1,5 +1,6 @@
 ---
 layout: post
+category: past-event
 title: Onam Celebrations 2016
 subtitle: 
 bigimg:
