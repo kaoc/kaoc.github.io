@@ -17,8 +17,7 @@ bigimg:
 ![poster](/img/MJ-flyer-2016.jpg)   
 ![tickets](/img/MJ-tickets-2016.jpg)
 
-**Bring printouts after payments to venue to exchange for tickets!**
-
+#### Bring the proof of purchase to collect the tickets!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="LSN2ZT5V2X6FQ">
