@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Mollywood Jollywood
 subtitle: The Show of the year!
 bigimg:
