@@ -70,7 +70,6 @@ footer-links-active:
 url-pretty: "http://www.ColorKerala.org"   # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
-
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
