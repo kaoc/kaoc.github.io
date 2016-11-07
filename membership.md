@@ -16,6 +16,8 @@ Membership is open to all those who are interested in organizing, participating 
 |Individual Membership | $25              |
 |Guest Entry Fee       | Varies per event |
 
+**Membership for 2016 year is now closed!**
+<!---
 **Pay online below via secure www.paypal.com website.**
 
 > Membership **benefits** include admission to Kerala Association events (around 4 per year), being part of rich cultural organization, supporting and helping the Malayalee and Indian Communities. Membership expires after one year.
@@ -32,4 +34,4 @@ Membership is open to all those who are interested in organizing, participating 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
+--->
