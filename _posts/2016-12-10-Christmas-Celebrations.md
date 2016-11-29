@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-Below are the Christmas Celebrations details:
+Below are the details for Christmas Celebrations: 
 ![Christmas 2016 Flyer](/img/KAoC-Christmas2016-flyer.jpg)
 
 >Tickets will be available for purchase at the venue!
