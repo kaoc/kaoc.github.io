@@ -16,23 +16,19 @@ css: /css/infinite-scrolling-photo-banner.css
   		<article class="post-preview">
     		<a href="{{ post.url | prepend: site.baseurl }}">
 	  	<h2 class="post-title">{{ post.title }}</h2>
-
 	  	{% if post.subtitle %}
 	  	<h3 class="post-subtitle">
 	    	{{ post.subtitle }}
 	  	</h3>
 	  	{% endif %}
     		</a>
-
     		<p class="post-meta">
       			Event will be held on {{ post.date | date: "%B %-d, %Y" }}
     		</p>
-
     		<div class="post-entry">
       		{{ post.content | strip_html | xml_escape | truncatewords: 50 }}
 	  		<a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     		</div>
-
     		{% if post.tags.size > 0 %}
     		<div class="blog-tags">
       		Tags: 
@@ -45,29 +41,27 @@ css: /css/infinite-scrolling-photo-banner.css
       		{% endif %}
     		</div>
     		{% endif %}
-
    		</article>
   		{% endfor %}
 	</div>
-	</div>
-  	<div class="col-md-4"><img src="/img/sponsors/promo1.jpg" alt="" height="170" width="240"/>
-	</div>
+  </div>
+  <div class="col-md-4"><img src="/img/sponsors/promo1.jpg" alt="" height="170" width="240"/>
+  </div>
 </div>
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
-</div>
+	{% if paginator.total_pages > 1 %}
+	<ul class="pager main-pager">
+  	{% if paginator.previous_page %}
+  	<li class="previous">
+    	<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  	</li>
+  	{% endif %}
+  	{% if paginator.next_page %}
+  	<li class="next">
+    	<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  	</li>
+  	{% endif %}
+	</ul>
+	{% endif %}
 <div id="container">
     <!-- Each image is 350px by 233px -->
     <div class="photobanner">
