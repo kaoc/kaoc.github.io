@@ -9,8 +9,13 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
+<style>
+table, tr, td {
+    border: 0px solid black;
+}
+</style>
 <div id="container">
-<table border="0">
+<table>
       <tr>
         <td>
 		<div class="posts-list">
