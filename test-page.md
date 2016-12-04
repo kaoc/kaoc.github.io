@@ -10,7 +10,8 @@ bigimg:
 css: /css/infinite-scrolling-photo-banner.css
 ---
 <div class="row">
-  <div class="col-md-8" class="posts-list">
+  <div class="col-md-8"> 
+  	<div class="posts-list">
   		{% for post in site.tags.upcoming-event %}
   		<article class="post-preview">
     		<a href="{{ post.url | prepend: site.baseurl }}">
@@ -48,14 +49,10 @@ css: /css/infinite-scrolling-photo-banner.css
    		</article>
   		{% endfor %}
 	</div>
-  	<div class="col-md-4"><img src="/img/sponsors/promo1.jpg" alt="" height="170" width="240"/></div>
+	</div>
+  	<div class="col-md-4"><img src="/img/sponsors/promo1.jpg" alt="" height="170" width="240"/>
+	</div>
 </div>
-      
-		
-	
-        
-      
-
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
