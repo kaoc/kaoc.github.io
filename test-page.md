@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
-<div class="container-fluid">
+<div id="container">
 <table>
       <tr>
         <td>
