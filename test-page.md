@@ -10,7 +10,7 @@ bigimg:
 css: /css/infinite-scrolling-photo-banner.css
 ---
 <div id="container">
-<table>
+<table border="0">
       <tr>
         <td>
 		<div class="posts-list">
