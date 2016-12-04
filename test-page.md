@@ -52,7 +52,7 @@ css: /css/infinite-scrolling-photo-banner.css
   		{% endfor %}
 		</div>
 	</td>
-        <td><img src="/img/sponsors/promo1.jpg" alt="" height="155" width="224"/></td>
+        <td><img src="/img/sponsors/promo1.jpg" alt="" height="170" width="240"/></td>
       </tr>
 </table>
 {% if paginator.total_pages > 1 %}
