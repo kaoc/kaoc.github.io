@@ -9,6 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
+<div class="container-fluid">
 <table>
       <tr>
         <td>
@@ -68,6 +69,7 @@ css: /css/infinite-scrolling-photo-banner.css
   {% endif %}
 </ul>
 {% endif %}
+</div>
 <div id="container">
     <!-- Each image is 350px by 233px -->
     <div class="photobanner">
