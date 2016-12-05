@@ -93,7 +93,7 @@ The members shall have the following rights:
 
 5. The President nominated or elected will be invited to form the executive committee.
 
-<html><p align="center"><b>ARTICLE VIII</b></p></html>**
+<html><p align="center"><b>ARTICLE VIII</b></p></html>
 
 <html><p align="center"><b>EXECUTIVE COMMITTEE</b></p></html>
 
