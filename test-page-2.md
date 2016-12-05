@@ -9,8 +9,8 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
-**<p align="center">**ARTICLE I**</p>**
-**<p align="center">ARTICLE I</p>**
+<p align="center">**ARTICLE I**</p>
+<p align="center">ARTICLE I</p>
 
 
 **NAME**
