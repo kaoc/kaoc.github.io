@@ -10,8 +10,7 @@ bigimg:
 css: /css/infinite-scrolling-photo-banner.css
 ---
 <html>
-<p align="center">**ARTICLE I**</p>
-<p align="center">ARTICLE I</p>
+**<p align="center">ARTICLE I</p>**
 </html>
 
 **NAME**
