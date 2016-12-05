@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kerala Association of Colorado
-subtitle: Fresh ideas with traditional values.
+title: DRAFT CORPORATION BY-LAWS
+subtitle:
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
@@ -9,13 +9,11 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
-**DRAFT**  **CORPORATION BYLAWS**
-
-**ARTICLE I**
+-> **ARTICLE I** <-
 
 **NAME**
 
-The name of the organization shall be &quot;KERALA ASSOCIATION OF COLORADO&quot; (KAOC) hereinafter referred to asKAOC or the Association.
+The name of the organization shall be &quot;KERALA ASSOCIATION OF COLORADO&quot; (KAOC) hereinafter referred to as KAOC or the Association.
 
 **ARTICLE II**
 
