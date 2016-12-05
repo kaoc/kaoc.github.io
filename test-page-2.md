@@ -11,19 +11,19 @@ css: /css/infinite-scrolling-photo-banner.css
 ---
 <html><p align="center"><b>ARTICLE I</b></p></html>
 
-**NAME**
+<html><p align="center"><b>NAME</b></p></html>
 
 The name of the organization shall be &quot;KERALA ASSOCIATION OF COLORADO&quot; (KAOC) hereinafter referred to as KAOC or the Association.
 
-**ARTICLE II**
+<html><p align="center"><b>ARTICLE II</b></p></html>
 
-**LOCATION AND ADDRESS**
+<html><p align="center"><b>LOCATION AND ADDRESS</b></p></html>
 
 The location of the organization will be decided from time to time by the Executive Committee until a permanent place for office is established. Based on the agreement by the executive committee of the Association at the time of the writing of these by-laws of the Association, it has been decided that it will be the address of the residence of the current President of the Association.
 
-**ARTICLE III**
+<html><p align="center"><b>ARTICLE III</b></p></html>
 
-**AIMS AND OBJECTIVES**
+<html><p align="center"><b>AIMS AND OBJECTIVES</b></p></html>
 
 The Association shall be conducted as a non-profit, secular and cultural organization and shall:
 
@@ -35,9 +35,9 @@ The Association shall be conducted as a non-profit, secular and cultural organiz
 
 4. Celebrate festivals that are dear to the Keralites.
 
-**ARTICLE IV**
+<html><p align="center"><b>ARTICLE IV</b></p></html>
 
-**DEFINITION OF TERMS HEREINAFTER USED**
+<html><p align="center"><b>DEFINITION OF TERMS HEREINAFTER USED</b></p></html>
 
 1. _Fiscal year_ for the Association shall be from January 1st to December 31st.
 
@@ -49,9 +49,9 @@ The Association shall be conducted as a non-profit, secular and cultural organiz
 
 5. _Association_ is the Kerala Association of Colorado also referred to as KAOC.
 
-**ARTICLE V**
+<html><p align="center"><b>ARTICLE V</b></p></html>
 
-**MEMBERSHIP**
+<html><p align="center"><b>MEMBERSHIP</b></p></html>
 
 1. The membership in the Association will be open to everyone interested in promoting the aims and the objectives of KAOC as defined in Article III above and evidenced by payment of membership fees and to those members who abide by the internal regulations of the association.
 
@@ -65,9 +65,9 @@ The Association shall be conducted as a non-profit, secular and cultural organiz
 
 6. Membership Fees: Annual membership fee shall be; Twenty-Five dollars ($25) for individual and Fifty Dollars ($50) for family. The executive committee may review/revise the fee structure as needed only at the beginning of the fiscal year.
 
-**ARTICLE VI**
+<html><p align="center"><b>ARTICLE VI</b></p></html>
 
-**MEMBER&#39;S RIGHTS**
+<html><p align="center"><b>MEMBERS'S RIGHT</b></p></html>
 
 The members shall have the following rights:
 
@@ -79,9 +79,9 @@ The members shall have the following rights:
 
 4. Have access to view the records, documents and correspondence of the association at the times determined by the executive committee in the presence person(s) responsible.
 
-**ARTICLE VII**
+<html><p align="center"><b>ARTICLE VII</b></p></html>
 
-**ELECTION**
+<html><p align="center"><b>ELECTION</b></p></html>
 
 1. The current Executive Committee will solicit for nominations from the General Body for the office of President, Vice President, Treasurer, Secretary and Joint Secretary.
 
@@ -93,9 +93,9 @@ The members shall have the following rights:
 
 5. The President nominated or elected will be invited to form the executive committee.
 
-**ARTICLE VIII**
+<html><p align="center"><b>ARTICLE VIII</b></p></html>**
 
-**EXECUTIVE COMMITTEE**
+<html><p align="center"><b>EXECUTIVE COMMITTEE</b></p></html>
 
 1.  The Executive Committee shall consist of the President, Vice President, Secretary, Joint Secretary, Treasurer, and up to twelve Executive Committee members.
 2.  The President of the Committtee has be elected by the General Body in accordance with the election procedure mandated in Section VII of the Bylaws.
@@ -113,9 +113,9 @@ The members shall have the following rights:
 14.  The Committtee will keep a record of all login details for online accounts registered under the name of KAOC and hand it over at the end of their term to the succeeding committee.
 15.  ADVISORY COMMITTEE: The Executive committee can form an advisory committee at their discretion and request for distinguished members of KAOC to become members of the Advisory Committee. The Advisory Committee members will hold office for the period co-terminus with that of the Executive Committtee that appointed them.
 
-**ARTICLE XI**
+<html><p align="center"><b>ARTICLE XI</b></p></html>
 
-**DUTIES OF OFFICERS**
+<html><p align="center"><b>DUTIES OF OFFICERS</b></p></html>
 
 1. **President**: The President shall preside over the General Body and the Executive Committee.  
       **i.** The President may cast his or her vote only in case of a tie in either meeting.        
@@ -161,9 +161,9 @@ The members shall have the following rights:
 
 
 
-**ARTICLE X**
+<html><p align="center"><b>ARTICLE X</b></p></html>
 
-**AMENDMENTS**
+<html><p align="center"><b>AMENDMENTS</b></p></html>
 
 1. Any amendments to the Corporation By-laws can be introduced by any member of the Advisory Committee or Executive Committee, or initiated by at least ten percent of the current membership conveyed to the President, in writing, at least fifteen days before the meeting of the General Body. All amendments, must have the approval of two thirds of the members present and voting in the General Body meeting.
 
@@ -171,6 +171,6 @@ The members shall have the following rights:
 
 
 
-**ARTICLE XI**
+<html><p align="center"><b>ARTICLE XI</b></p></html>
 
-**EFFECTIVE DATES FOR BYLAW INCORPORATION &amp; AMENDMENTS**
+<html><p align="center"><b>EFFECTIVE DATES FOR BYLAW INCORPORATION &amp; AMENDMENTS</b></p></html>
