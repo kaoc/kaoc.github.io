@@ -153,9 +153,9 @@ The members shall have the following rights:
 
 8. Any or all members of the Executive Committee may be removed at any time with justifiable cause by a majority vote of the general body. The cause could include but is not limited to the following:  
       **i.** Abstains from four (4) meetings continuously without sufficient cause  
-      **ii** Perceived to have a conflict of interest  
-      **iii** Found misusing his/her authority, or association's funds  
-      **iv** Consistently working against the interests and objectives of the association
+      **ii.** Perceived to have a conflict of interest  
+      **iii.** Found misusing his/her authority, or association's funds  
+      **iv.** Consistently working against the interests and objectives of the association
 
 9. Should any member of the Committee fail to attend four consecutive committee meetings, the Secretary shall issue a show cause notice to the member. The member&#39;s reply shall be discussed in the Committee, and if the Committee determines that the absence is not caused by sickness or by any other just cause, his or her office shall be declared vacant by the President, subject to the approval of the Committee.
 
