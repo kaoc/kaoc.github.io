@@ -120,9 +120,9 @@ The members shall have the following rights:
 **DUTIES OF OFFICERS**
 
 1. **President**: The President shall preside over the General Body and the Executive Committee.
-  1. The President may cast his or her vote only in case of a tie in either meeting.
-  2. The President shall enter into contracts on behalf of the Association only with the approval of the Executive Committee.
-  3. In the event of any office becomes vacant, the President shall appoint a member to fill the vacancy, subject to the approval of the Executive Committee.
+    1. The President may cast his or her vote only in case of a tie in either meeting.
+    2. The President shall enter into contracts on behalf of the Association only with the approval of the Executive Committee.
+    3. In the event of any office becomes vacant, the President shall appoint a member to fill the vacancy, subject to the approval of the Executive Committee.
 
 2. **Vice President**: In the absence of the President, the Vice President shall assume the responsibilities of the President in presiding over the meeting of the General Assembly and the Executive Committee. In the absence of the President and Vice President, the General Assembly or the Executive Committee, may elect a temporary President for that meeting.
 
