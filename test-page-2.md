@@ -119,105 +119,46 @@ The members shall have the following rights:
 
 **DUTIES OF OFFICERS**
 
-1. President: The President shall preside over the General Body and the Executive Committee.
-
-1.
-  1.
+1. **President**: The President shall preside over the General Body and the Executive Committee.
     1. The President may cast his or her vote only in case of a tie in either meeting.
     2. The President shall enter into contracts on behalf of the Association only with the approval of the Executive Committee.
     3. In the event of any office becomes vacant, the President shall appoint a member to fill the vacancy, subject to the approval of the Executive Committee.
 
-1. Vice President: In the absence of the President, the Vice President shall assume the responsibilities of the President in presiding over the meeting of the General Assembly and the Executive Committee. In the absence of the President and Vice President, the General Assembly or the Executive Committee, may elect a temporary President for that meeting.
+2. **Vice President**: In the absence of the President, the Vice President shall assume the responsibilities of the President in presiding over the meeting of the General Assembly and the Executive Committee. In the absence of the President and Vice President, the General Assembly or the Executive Committee, may elect a temporary President for that meeting.
 
-1. Secretary: The Secretary shall be responsible to convene the meetings of the General Body and the Executive Committee in consultation with the President.
-
-1.
-  1.
+3. **Secretary**: The Secretary shall be responsible to convene the meetings of the General Body and the Executive Committee in consultation with the President.
     1. The Secretary shall record and keep the minutes of the General Assembly and Executive Committee meetings.
+    2. The Secretary shall be the spokesperson of the Association and shall assume ownership of all communication on behalf of the Association.
+    3. The Secretary shall file for the periodic report to the office of Colorado Secretary of State before May 31st of the current fiscal year.
+    4. The Secretary shall arrange for the handover all records and accounts including the accounts for Association&#39;s website, and other social media channels when the new Executive Committee assumes office.
+    5. The Secretary shall update contact address and by-law amendments on behalf of the Association.
 
-1.
-  1.
-    1. The Secretary shall be the spokesperson of the Association and shall assume ownership of all communication on behalf of the Association.
+4. **Joint Secretary**: In the absence of the Secretary, the Joint Secretary shall assume the responsibilities of the Secretary. In the absence of the Secretary and Joint Secretary, the General Assembly or the Executive Committee may elect a temporary Secretary for that meeting.
 
-1.
-  1.
-    1. The Secretary shall file for the periodic report to the office of Colorado Secretary of State before May 31st of the current fiscal year.
-
-1.
-  1.
-    1. The Secretary shall arrange for the handover all records and accounts including the accounts for Association&#39;s website, and other social media channels when the new Executive Committee assumes office.
-
-1.
-  1.
-    1. The Secretary shall update contact address and by-law amendments on behalf of the Association.
-
-1. Joint Secretary: In the absence of the Secretary, the Joint Secretary shall assume the responsibilities of the Secretary. In the absence of the Secretary and Joint Secretary, the General Assembly or the Executive Committee may elect a temporary Secretary for that meeting.
-
-1. Treasurer: The Treasurer shall be responsible for all monetary concerns of the Association and shall keep a fair and accurate account of the income and expenditures.
-
-1.
-  1.
+5. **Treasurer**: The Treasurer shall be responsible for all monetary concerns of the Association and shall keep a fair and accurate account of the income and expenditures.
     1. The Treasurer shall deposit in the bank, in the name of the Association, any and all amounts.
+    2. The Treasurer shall keep a register of the members and friends of the Association.
+    3. The Treasurer shall prepare a budget and present it to the Executive Committee.
+    4. If the expenses of the Association exceed Five Hundred Thousand dollars ($500,000), a CPA must be appointed to audit the accounts.
+    5. The Treasurer shall present an itemized statement of account of all income and expenditures on behalf of the Association to the Executive Committee at the beginning of each quarter.
+    6. The President, and the Treasurer shall have the authority to sign checks and shall have access to tools used for bookkeeping. The President may only exercise this authority with the prior knowledge of the Treasurer.
+    7. The Treasurer shall handover all records including Association&#39;s bank account details, check book, and other electronic accounts information when the new Executive Committee assumes office.
+    8. Accounts of expenses incurred during the fiscal year of the current Executive Committee has to be presented to the general body and made available as a document accessible to all members, prior to the next Executive Committee assuming office. At the end of each year, any balance in the checking account in excess of $750.00 shall be transferred to the interest-bearing savings account.
+    9. Treasurer shall comply with the government and/or governmental agency regulations with respect to 501(c)(4) organizations.  The Treasurer will be responsible for filing Form 990-N for the fiscal year he holds office which is due every year by the 15th day of the 5th month after the close of the current fiscal year. The Treasurer shall hand over the login details for the IRS e-filing to the successor of his office.
+    10. In the event of the Treasurer unable to carry out the functions due to a just cause for an extended period, as determined by the Executive Committee, the Executive Committee shall appoint an Executive Committee member as the temporary Treasurer for that period.
 
-1.
-  1.
-    1. The Treasurer shall keep a register of the members and friends of the Association.
+6. **Executive Committee members**: The Executive Committee members individually or collectively carry out the functions of the association by executing decisions taken by the Executive Committee. Each Executive Committee member has one vote. Decisions are taken using a simple majority vote of the Executive Committee.
 
-1.
-  1.
-    1. The Treasurer shall prepare a budget and present it to the Executive Committee.
+7. Any member of the Executive Committee may resign at any time by submitting his/her resignation to the President in writing.
 
-1.
-  1.
-    1. If the expenses of the Association exceed Five Hundred Thousand dollars ($500,000), a CPA must be appointed to audit the accounts.
-
-1.
-  1.
-    1. The Treasurer shall present an itemized statement of account of all income and expenditures on behalf of the Association to the Executive Committee at the beginning of each quarter.
-
-1.
-  1.
-    1. The President, and the Treasurer shall have the authority to sign checks and shall have access to tools used for bookkeeping. The President may only exercise this authority with the prior knowledge of the Treasurer.
-
-1.
-  1.
-    1. The Treasurer shall handover all records including Association&#39;s bank account details, check book, and other electronic accounts information when the new Executive Committee assumes office.
-
-1.
-  1.
-    1. Accounts of expenses incurred during the fiscal year of the current Executive Committee has to be presented to the general body and made available as a document accessible to all members, prior to the next Executive Committee assuming office. At the end of each year, any balance in the checking account in excess of $750.00 shall be transferred to the interest-bearing savings account.
-
-1.
-  1.
-    1. Treasurer shall comply with the government and/or governmental agency regulations with respect to 501(c)(4) organizations.  The Treasurer will be responsible for filing Form 990-N for the fiscal year he holds office which is due every year by the 15th day of the 5th month after the close of the current fiscal year. The Treasurer shall hand over the login details for the IRS e-filing to the successor of his office.
-
-1.
-  1.
-    1. In the event of the Treasurer unable to carry out the functions due to a just cause for an extended period, as determined by the Executive Committee, the Executive Committee shall appoint an Executive Committee member as the temporary Treasurer for that period.
-
-1. Executive Committee members: The Executive Committee members individually or collectively carry out the functions of the association by executing decisions taken by the Executive Committee. Each Executive Committee member has one vote. Decisions are taken using a simple majority vote of the Executive Committee.
-
-1. Any member of the Executive Committee may resign at any time by submitting his/her resignation to the President in writing.
-
-1. Any or all members of the Executive Committee may be removed at any time with justifiable cause by a majority vote of the general body. The cause could include but is not limited to the following:
-
-1.
-  1.
+8. Any or all members of the Executive Committee may be removed at any time with justifiable cause by a majority vote of the general body. The cause could include but is not limited to the following:
     1.  Abstains from four (4) meetings continuously without sufficient cause
+    2. Perceived to have a conflict of interest
+    3. Found misusing his/her authority, or association's funds
+    4. Consistently working against the interests and objectives of the association
 
-1.
-  1.
-    1. Perceived to have a conflict of interest
-
-1.
-  1.
-    1. Found misusing his/her authority, or association&#39;s funds
-
-1.
-  1.
-    1. Consistently working against the interests and objectives of the association
-2. Should any member of the Committee fail to attend four consecutive committee meetings, the Secretary shall issue a show cause notice to the member. The member&#39;s reply shall be discussed in the Committee, and if the Committee determines that the absence is not caused by sickness or by any other just cause, his or her office shall be declared vacant by the President, subject to the approval of the Committee.
-3. Any Committee Member who fails to adhere to the by-laws of KAOC if removed from the Committee subject to disciplinary action will be barred from becoming a Member of all future Committees.
+9. Should any member of the Committee fail to attend four consecutive committee meetings, the Secretary shall issue a show cause notice to the member. The member&#39;s reply shall be discussed in the Committee, and if the Committee determines that the absence is not caused by sickness or by any other just cause, his or her office shall be declared vacant by the President, subject to the approval of the Committee.
+10. Any Committee Member who fails to adhere to the by-laws of KAOC if removed from the Committee subject to disciplinary action will be barred from becoming a Member of all future Committees.
 
 
 
@@ -227,7 +168,7 @@ The members shall have the following rights:
 
 1. Any amendments to the Corporation By-laws can be introduced by any member of the Advisory Committee or Executive Committee, or initiated by at least ten percent of the current membership conveyed to the President, in writing, at least fifteen days before the meeting of the General Body. All amendments, must have the approval of two thirds of the members present and voting in the General Body meeting.
 
-1. All amendments made after the incorporation of the bylaws shall be published in the association&#39;s website and emailed to all the members.
+2. All amendments made after the incorporation of the bylaws shall be published in the association&#39;s website and emailed to all the members.
 
 
 
