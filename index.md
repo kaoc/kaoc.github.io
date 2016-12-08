@@ -9,59 +9,62 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
-<div class="posts-list">
-  {% for post in site.tags.upcoming-event %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Event will be held on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry">
-      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags: 
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
+<div class="row">
+  <div class="col-md-6"> 
+  	<div class="posts-list">
+  		{% for post in site.tags.upcoming-event %}
+  		<article class="post-preview">
+    		<a href="{{ post.url | prepend: site.baseurl }}">
+	  	<h2 class="post-title">{{ post.title }}</h2>
+	  	{% if post.subtitle %}
+	  	<h3 class="post-subtitle">
+	    	{{ post.subtitle }}
+	  	</h3>
+	  	{% endif %}
+    		</a>
+    		<p class="post-meta">
+      			Event will be held on {{ post.date | date: "%B %-d, %Y" }}
+    		</p>
+    		<div class="post-entry">
+      		{{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+	  		<a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    		</div>
+    		{% if post.tags.size > 0 %}
+    		<div class="blog-tags">
+      		Tags: 
+      			{% if site.link-tags %}
+      			{% for tag in post.tags %}
+      			<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+      		{% endfor %}
+      		{% else %}
+        		{{ post.tags | join: ", " }}
+      		{% endif %}
+    		</div>
+    		{% endif %}
+   		</article>
+  		{% endfor %}
+	</div>
+  </div>
+  <div class="col-md-4 col-md-offset-2">
+  	<a href="https://goo.gl/bx2UzC">
+  	   <img src="/img/sponsors/Malayalam-Banner-Roku-Stick.jpg" alt="Sling Banner" height="200" width="250"/>
+	</a>
+  </div>
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+	{% if paginator.total_pages > 1 %}
+	<ul class="pager main-pager">
+  	{% if paginator.previous_page %}
+  	<li class="previous">
+    	<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  	</li>
+  	{% endif %}
+  	{% if paginator.next_page %}
+  	<li class="next">
+    	<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  	</li>
+  	{% endif %}
+	</ul>
+	{% endif %}
 <div id="container">
     <!-- Each image is 350px by 233px -->
     <div class="photobanner">
