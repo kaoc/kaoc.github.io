@@ -45,7 +45,10 @@ css: /css/infinite-scrolling-photo-banner.css
   		{% endfor %}
 	</div>
   </div>
-  <div class="col-md-4 col-md-offset-2"><img src="/img/sponsors/promo1.jpg" alt="" height="200" width="250"/>
+  <div class="col-md-4 col-md-offset-2">
+  	<a href="https://goo.gl/bx2UzC">
+  	   <img src="/img/sponsors/Malayalam-Banner-Roku-Stick.jpg" alt="Sling Banner" height="200" width="250"/>
+	</a>
   </div>
 </div>
 	{% if paginator.total_pages > 1 %}
