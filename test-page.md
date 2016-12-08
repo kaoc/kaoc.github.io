@@ -45,7 +45,7 @@ css: /css/infinite-scrolling-photo-banner.css
   		{% endfor %}
 	</div>
   </div>
-  <div class="col-md-3 col-md-offset-3"><img src="/img/sponsors/promo1.jpg" alt="" height="200" width="250"/>
+  <div class="col-md-4 col-md-offset-1"><img src="/img/sponsors/promo1.jpg" alt="" height="200" width="250"/>
   </div>
 </div>
 	{% if paginator.total_pages > 1 %}
