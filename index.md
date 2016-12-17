@@ -47,7 +47,7 @@ css: /css/infinite-scrolling-photo-banner.css
   </div>
   <div class="col-md-4 col-md-offset-2">
   	<a href="https://goo.gl/bx2UzC">
-  	   <img src="/img/sponsors/Malayalam-Banner-Roku-Stick.jpg" alt="Sling Banner" height="200" width="250"/>
+  	   <img src="/img/sponsors/Malayalam-Banner.jpg" alt="Sling Banner" height="200" width="250"/>
 	</a>
   </div>
 </div>
