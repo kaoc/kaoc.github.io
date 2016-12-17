@@ -10,7 +10,8 @@ bigimg:
 css: /css/infinite-scrolling-photo-banner.css
 ---
 <div class="row">
-  <div class="col-md-6"> 
+  <div class="col-md-6">
+  	No upcoming events at present, please check back later!
   	<div class="posts-list">
   		{% for post in site.tags.upcoming-event %}
   		<article class="post-preview">
