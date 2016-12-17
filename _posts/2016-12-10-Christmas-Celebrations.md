@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Christmas Celebrations 2016
 subtitle:
 bigimg:
