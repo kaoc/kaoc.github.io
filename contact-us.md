@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-subtitle: Phone, email & facebook info. below!
+subtitle: Phone, address & email info. below!
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
@@ -11,10 +11,10 @@ bigimg:
 
 **Contact Info for KAOC President**
 
-Thomas John
+Dinesh Nair
 
-**Address:** 26344 E Otero Dr, Aurora, CO 80016
+**Address:** PO BOX 630841, Highlands Ranch, CO 80163
 
-**Phone:** +1 (303) 717-8596
+**Phone:** +1 (720) 789-0334
 
-**Email:** [info@colorkerala.org](mailto:info@colorkerala.org)
+**Email:** [president@colorkerala.org](mailto:president@colorkerala.org)
