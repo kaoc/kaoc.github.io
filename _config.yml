@@ -26,8 +26,8 @@ navbar-links:
   About:
     - KAOC History: "about-kaoc-history"
     - Draft Bylaws: "bylaws"    
-    - President's Desk: "presidents-desk"
-    - Meet the team for 2016: "meet-the-team-for-2016"
+    #- President's Desk: "presidents-desk"
+    #- Meet the team for 2016: "meet-the-team-for-2016"
     - Past Committees: "past-committees"
   Events: 
     - Upcoming Events: "upcoming-events"
