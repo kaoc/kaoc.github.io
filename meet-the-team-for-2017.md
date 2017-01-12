@@ -16,8 +16,5 @@ bigimg:
 |**Secretary**	             |Thushara Urumbil              |secretary@colorkerala.org     |
 |**Joint Secretary**         |Sreekanth P. Krishnamoorthy   |jointsecretary@colorkerala.org|
 |**Cultural Secretaries**    |Kriss Monson & Sreelakshmi Haridas|cultural@colorkerala.org  |
-|**Event Coordinator**	     |Jeyasankar Nagarajan          |info@colorkerala.org          |
-|**Event Coordinator**	     |Sajeev Purathanamannil        |info@colorkerala.org          |
-|**Event Coordinator**	     |Madhu Purushothaman           |info@colorkerala.org          |
-|**Event Coordinator**	     |Shibu George                  |info@colorkerala.org          |
+|**Event Coordinators**	     |Jeyasankar Nagarajan, Sajeev Purathanamannil, Madhu Purushothaman & Shibu George             |info@colorkerala.org          |
 |**Web Admin**	             |Abhir Elandasserry            |webmaster@colorkerala.org     |
