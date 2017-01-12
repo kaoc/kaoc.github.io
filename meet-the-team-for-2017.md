@@ -14,7 +14,7 @@ bigimg:
 |**Vice President**	         |Dr. Stanley Samuel            |vicepresident@colorkerala.org |
 |**Treasurer**	             |Vishnu Venugopan              |treasurer@colorkerala.org     | 
 |**Secretary**	             |Thushara Urumbil              |secretary@colorkerala.org     |
-|**Joint Secretary**         |Sreekanth P. Krishnamoorthy   |jointsecretary@colorkerala.org|
+|**Joint Secretary**         |Sreekanth Peruvembu Krishnamoorthy   |jointsecretary@colorkerala.org|
 |**Cultural Secretaries**    |Kriss Monson & Sreelakshmi Haridas|cultural@colorkerala.org  |
 |**Event Coordinators**	     |Jeyasankar Nagarajan, Sajeev Purathanamannil, Madhu Purushothaman & Shibu George             |info@colorkerala.org          |
 |**Web Admin**	             |Abhir Elandasserry            |webmaster@colorkerala.org     |
