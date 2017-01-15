@@ -10,12 +10,12 @@ bigimg:
 ---
 |Role	                       |Name	                               |Email                         |
 |---------------------------:|-------------------------------------|------------------------------|
-|**President**	             |Dinesh Nair	                         |president@colorkerala.org     |
-|**Vice President**	         |Dr. Stanley Samuel                   |vicepresident@colorkerala.org |
-|**Treasurer**	             |Vishnu Venugopan                     |treasurer@colorkerala.org     | 
-|**Secretary**	             |Thushara Urumbil                     |secretary@colorkerala.org     |
-|**Joint Secretary**         |Sreekanth Peruvembu Krishnamoorthy   |jointsecretary@colorkerala.org|
-|**Cultural Secretaries**    |Kriss Monson & Sreelakshmi Haridas   |cultural@colorkerala.org      |
-|**Sports Secretary**        |Jeyasankar Nagarajan                 |sports@colorkerala.org        |
-|**Event Coordinators**	     |Sajeev Purathanamannil, Madhu Purushothaman & Shibu George |info@colorkerala.org|
-|**Web Admin**	             |Abhir Elandasserry                   |webmaster@colorkerala.org     |
+|**President**	             |Dinesh Nair	                         |President@ColorKerala.org     |
+|**Vice President**	         |Dr. Stanley Samuel                   |VicePresident@ColorKerala.org |
+|**Treasurer**	             |Vishnu Venugopan                     |Treasurer@ColorKerala.org     | 
+|**Secretary**	             |Thushara Urumbil                     |Secretary@ColorKerala.org     |
+|**Joint Secretary**         |Sreekanth Peruvembu Krishnamoorthy   |JointSecretary@ColorKerala.org|
+|**Cultural Secretaries**    |Kriss Monson & Sreelakshmi Haridas   |Cultural@ColorKerala.org      |
+|**Sports Secretary**        |Jeyasankar Nagarajan                 |Sports@ColorKerala.org        |
+|**Event Coordinators**	     |Sajeev Purathanamannil, Madhu Purushothaman & Shibu George |Info@ColorKerala.org|
+|**Web Admin**	             |Abhir Elandasserry                   |Webmaster@ColorKerala.org     |
