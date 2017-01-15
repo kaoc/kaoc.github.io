@@ -19,7 +19,7 @@ Membership is open to all those who are interested in organizing, participating 
 <!---**Membership for 2016 year is now closed!**--->
 **Pay online below via secure www.paypal.com website.**
 
-> Membership **benefits** include admission to Kerala Association events (around 4 per year), being part of rich cultural organization, supporting and helping the Malayalee and Indian Communities. Membership expires after one year.
+> Membership **benefits** include admission to Kerala Association events (around 4 per year), being part of rich cultural organization, supporting and helping the Malayalee and Indian Communities. Membership expires at the end of calendar year on December 31st, 2017.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
