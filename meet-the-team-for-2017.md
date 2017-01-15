@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 |Role	                       |Name	                               |Email                         |
-|---------------------------:|-------------------------------------|------------------------------|
+|---------------------------:|-------------------------------------|-----------------------------:|
 |**President**	             |Dinesh Nair	                         |President@ColorKerala.org     |
 |**Vice President**	         |Dr. Stanley Samuel                   |VicePresident@ColorKerala.org |
 |**Treasurer**	             |Vishnu Venugopan                     |Treasurer@ColorKerala.org     | 
