@@ -12,14 +12,15 @@ Membership is open to all those who are interested in organizing, participating 
 
 |Membership Type       | Cost             |
 |----------------------|------------------|
-|Family Membership     | $50              |
-|Individual Membership | $25              |
+|Family Membership     | $70              |
+|Individual Membership | $35              |
 |Guest Entry Fee       | Varies per event |
 
 <!---**Membership for 2016 year is now closed!**--->
 **Pay online below via secure www.paypal.com website.**
 
 > Membership **benefits** include admission to Kerala Association events (around 4 per year), being part of rich cultural organization, supporting and helping the Malayalee and Indian Communities. Membership expires after one year.
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="6YYL2BXQM3YPJ">
