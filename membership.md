@@ -15,6 +15,7 @@ Membership is open to all those who are interested in organizing, participating 
 |Family Membership     | $50              |
 |Individual Membership | $25              |
 |Guest Entry Fee       | Varies per event |
+
 <!---**Membership for 2016 year is now closed!**--->
 **Pay online below via secure www.paypal.com website.**
 
