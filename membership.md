@@ -20,12 +20,12 @@ Membership is open to all those who are interested in organizing, participating 
 **Pay online below via secure www.paypal.com website.**
 
 Membership **benefits** include:  
-1. **Free admission** to Kerala Association events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
+1. **Free admission** to association organized events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
 2. **Free delicious food** during Picnic, Onam and Christmas events  
 3. **Access to a great platform** for showcasing talented performances by children & adults  
 4. **Being part of a rich cultural organization** while supporting and helping the Malayalee and Indian Communities  
 5. **Right to vote** in association organized referendums & elections  
-6. **Other discounts** as passed on by our esteemed sponsors  
+6. **Other discounts** as passed on by association's esteemed sponsors  
 
 >Please note that membership expires at the end of calendar year on December 31st, 2017.
 
