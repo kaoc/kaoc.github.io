@@ -19,7 +19,7 @@ Membership is open to all those who are interested in organizing, participating 
 <!---**Membership for 2016 year is now closed!**--->
 **Pay online below via secure www.paypal.com website.**
 
->Membership **benefits** include  
+Membership **benefits** include  
 * **Free admission** to Kerala Association events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas
 * **Free delicious food** during Picnic, Onam and Christmas events
 * **Access to a great platform** for showcasing talented performances by children & adults
@@ -27,7 +27,7 @@ Membership is open to all those who are interested in organizing, participating 
 * **Right to vote** in association organized referendums & elections
 * **Other discounts** as passed on by our esteemed sponsors
 
-Please note that membership expires at the end of calendar year on December 31st, 2017.
+>Please note that membership expires at the end of calendar year on December 31st, 2017.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
