@@ -19,3 +19,6 @@ bigimg:
 |**Sports Secretary**        |Jeyasankar Nagarajan                 |Sports@ColorKerala.org        |
 |**Event Coordinators**	     |Sajeev Purathanamannil, Madhu Purushothaman & Shibu George |Info@ColorKerala.org|
 |**Web Admin**	             |Abhir Elandasserry                   |Webmaster@ColorKerala.org     |
+
+**Team portfolio**
+![Team Portfolio](/img/team2017.jpg)
