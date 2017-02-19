@@ -50,7 +50,7 @@ css: /css/infinite-scrolling-photo-banner.css
   	<!-- <a href="https://goo.gl/bx2UzC">
   	   <img src="/img/sponsors/Malayalam-Banner.jpg" alt="Sling Banner" height="200" width="250"/>
 	</a> -->
-    <img src="/img/sponsors/yuvika-jewelry.jpg" alt="Sling Banner" height="200" width="250"/>
+    <img src="/img/sponsors/yuvika-jewelry.jpg" alt="Sling Banner" height="300" width="500"/>
   </div>
 </div>
 	{% if paginator.total_pages > 1 %}
