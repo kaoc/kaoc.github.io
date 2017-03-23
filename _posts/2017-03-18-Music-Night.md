@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Music Night 2017
 subtitle: Night of music & melody!
 bigimg:
