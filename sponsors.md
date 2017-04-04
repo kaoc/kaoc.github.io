@@ -32,11 +32,8 @@ To more about sponsorship options, contact Dinesh Nair at (720) 789-0334 or at [
 
 <div id="container">
     <div class="photobanner">
-    	<img class="first" src="/img/sponsors/sponsor1.jpg" alt="" height="270" width="370"/>
-    	<img src="/img/sponsors/sponsor2.jpg" alt="" height="270" width="370"/>
-    	<img src="/img/sponsors/sponsor3.jpg" alt="" height="270" width="370"/>
-    	<img src="/img/sponsors/sponsor4.jpg" alt="" height="270" width="370"/>
-    	<img src="/img/sponsors/sponsor5.jpg" alt="" height="270" width="370"/>
+    	<img class="first" src="/img/sponsors/sponsor4.jpg" alt="" height="270" width="370"/>
+       	<img src="/img/sponsors/sponsor5.jpg" alt="" height="270" width="370"/>
     	<img src="/img/sponsors/sponsor6.jpg" alt="" height="270" width="370"/>
     	<img src="/img/sponsors/sponsor7.jpg" alt="" height="270" width="370"/>
     	<img src="/img/sponsors/sponsor8.jpg" alt="" height="270" width="370"/>
