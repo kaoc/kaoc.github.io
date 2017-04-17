@@ -47,8 +47,8 @@ css: /css/infinite-scrolling-photo-banner.css
 	</div>
   </div>
   <div class="col-md-4 col-md-offset-2">
-  	<a href="https://goo.gl/bx2UzC">
-  	   <img src="/img/sponsors/Malayalam-Banner.jpg" alt="Sling Banner" height="200" width="250"/>
+  	<a href="https://smartpress.com">
+  	   <img src="/img/sponsors/smartpress-logo-blue-horizontal-png" alt="Smartpress.com logo"/>
 	</a>
   </div>
 </div>
