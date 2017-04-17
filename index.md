@@ -47,8 +47,8 @@ css: /css/infinite-scrolling-photo-banner.css
 	</div>
   </div>
   <div class="col-md-4 col-md-offset-2">
-  	<a href="https://smartpress.com">
-  	   <img src="/img/sponsors/smartpress-logo-blue-horizontal-png" alt="Smartpress.com logo"/>
+  	<a href="https://smartpress.com">Our digital print online partner!
+  	   <img src="/img/sponsors/smartpress-logo-blue-horizontal-png.png" alt="Smartpress.com logo" height="40" width="240"/>
 	</a>
   </div>
 </div>
