@@ -35,7 +35,7 @@ Come and witness the exquisite spectacles of India!
 
 ## RAFFLE DETAILS
 
-![Qatar Airways Free Air Ticket Raffle](/img/Qatar-tickets-Raffle-Alpine.png)  
+![Qatar Airways Free Air Ticket Raffle](/img/sponsors/Qatar-tickets-Raffle-Alpine.png)  
 Few important Terms and conditions:
 * Valid for travel on Qatar Airways operated flights only, no cash value
 * Black out dates may apply
