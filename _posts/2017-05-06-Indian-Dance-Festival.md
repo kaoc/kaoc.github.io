@@ -32,3 +32,18 @@ Professional and amateur artists of Colorado perform various Indian dance forms 
 This event continues to get more popular each year and we are thrilled by the public enthusiasm for the event. From the past years’ experience, we anticipate more than a 200 participants and a 1000 to be entertained this year. 
 
 Come and witness the exquisite spectacles of India!
+
+## RAFFLE DETAILS
+
+![Qatar Airways Free Air Ticket Raffle](/img/Qatar-tickets-Raffle-Alpine.png)  
+Few important Terms and conditions:
+* Valid for travel on Qatar Airways operated flights only, no cash value
+* Black out dates may apply
+* Does not earn mileage credit
+* Travel must be completed by one year from date of issue
+* Traveller and companion must travel on he same itinerary
+* Changes to the reservation is not allowed
+* Winner is liable for all taxes
+* Other restrictions may apply
+
+
