@@ -41,7 +41,7 @@ Few important Terms and conditions:
 * Black out dates may apply
 * Does not earn mileage credit
 * Travel must be completed by one year from date of issue
-* Traveller and companion must travel on he same itinerary
+* If one person wins both tickets, traveller and companion must travel on the same itinerary
 * Changes to the reservation is not allowed
 * Winner is liable for all taxes
 * Other restrictions may apply
