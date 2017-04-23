@@ -70,10 +70,7 @@ css: /css/infinite-scrolling-photo-banner.css
 <div id="container">
     <!-- Each image is 350px by 233px -->
     <div class="photobanner">
-    	<img class="first" src="/img/sponsors/sponsor1.jpg" alt="" height="155" width="224"/>
-    	<img src="/img/sponsors/sponsor2.jpg" alt="" height="155" width="224"/>
-    	<img src="/img/sponsors/sponsor3.jpg" alt="" height="155" width="224"/>
-    	<img src="/img/sponsors/sponsor4.jpg" alt="" height="155" width="224"/>
+    	<img class="first" src="/img/sponsors/sponsor4.jpg" alt="" height="155" width="224"/>
     	<img src="/img/sponsors/sponsor5.jpg" alt="" height="155" width="224"/>
     	<img src="/img/sponsors/sponsor6.jpg" alt="" height="155" width="224"/>
     	<img src="/img/sponsors/sponsor7.jpg" alt="" height="155" width="224"/>
@@ -106,10 +103,10 @@ css: /css/infinite-scrolling-photo-banner.css
 	<img src="/img/sponsors/sponsor34.jpg" alt="" height="155" width="224"/>
 	<img src="/img/sponsors/sponsor35.jpg" alt="" height="155" width="224"/>
         <!-- REPEAT First 5 sponsors-->	
-	<img src="/img/sponsors/sponsor1.jpg" alt="" height="155" width="224"/>
-    	<img src="/img/sponsors/sponsor2.jpg" alt="" height="155" width="224"/>
-    	<img src="/img/sponsors/sponsor3.jpg" alt="" height="155" width="224"/>
-    	<img src="/img/sponsors/sponsor4.jpg" alt="" height="155" width="224"/>
+	<img src="/img/sponsors/sponsor4.jpg" alt="" height="155" width="224"/>
     	<img src="/img/sponsors/sponsor5.jpg" alt="" height="155" width="224"/>
+    	<img src="/img/sponsors/sponsor6.jpg" alt="" height="155" width="224"/>
+    	<img src="/img/sponsors/sponsor7.jpg" alt="" height="155" width="224"/>
+    	<img src="/img/sponsors/sponsor8.jpg" alt="" height="155" width="224"/>
     </div>
 </div>
