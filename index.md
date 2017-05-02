@@ -25,12 +25,12 @@ css: /css/infinite-scrolling-photo-banner.css
   		{% endfor %}
 	</div>
   </div>
-  <div class="col-md-2 col-md-offset-1">
+  <!-- <div class="col-md-2 col-md-offset-1">
   	Our online printing service partner!
   	<a href="https://smartpress.com">
   	   <img src="/img/sponsors/smartpress-logo-blue-horizontal-png.png" alt="Smartpress.com logo" height="40" width="240"/>
 	</a>
-  </div>
+  </div> -->
 </div>
 	{% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
