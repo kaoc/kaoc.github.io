@@ -14,30 +14,14 @@ css: /css/infinite-scrolling-photo-banner.css
   	<!-- No upcoming events at present, please check back later! -->
   	<div class="posts-list">
   		{% for post in site.tags.upcoming-event %}
-  		<article class="post-preview">
-    		<a href="{{ post.url | prepend: site.baseurl }}">
-				<h3 class="post-title">{{ post.title }} - {{ post.subtitle }}</h3>
-	  	    </a>
-    		<p class="post-meta">
-      			Event will be held on {{ post.date | date: "%B %-d, %Y" }}
-    		</p>
-    		<div class="post-entry">
-      		{{ post.content | strip_html | xml_escape | truncatewords: 9 }}
-	  		<a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    		</div>
-    		{% if post.tags.size > 0 %}
-    		<div class="blog-tags">
-      		Tags: 
-      			{% if site.link-tags %}
-      			{% for tag in post.tags %}
-      			<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      		{% endfor %}
-      		{% else %}
-        		{{ post.tags | join: ", " }}
-      		{% endif %}
-    		</div>
-    		{% endif %}
-   		</article>
+			<article class="post-preview">
+				<a href="{{ post.url | prepend: site.baseurl }}">
+					<h3 class="post-title">{{ post.title }}</h3>
+				</a>
+				<p class="post-meta">
+					Event will be held on {{ post.date | date: "%B %-d, %Y" }}
+				</p>
+			</article>
   		{% endfor %}
 	</div>
   </div>
