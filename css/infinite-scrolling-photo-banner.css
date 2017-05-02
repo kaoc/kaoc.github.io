@@ -1,23 +1,23 @@
 * {margin: 0; padding: 0;}
 #container {
 	width: 165%;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	background: white;
 	margin-left: -33%;
 }
 .photobanner {
 	height: 425px;
 	width: 9625px;
-	margin-top: 90px;
-	margin-bottom: 90px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 /*keyframe animations*/
 .first {
-	-webkit-animation: bannermove 67s linear infinite;
-	   -moz-animation: bannermove 67s linear infinite;
-	    -ms-animation: bannermove 67s linear infinite;
-	     -o-animation: bannermove 67s linear infinite;
-	        animation: bannermove 67s linear infinite;
+	-webkit-animation: bannermove 35s linear infinite;
+	   -moz-animation: bannermove 35s linear infinite;
+	    -ms-animation: bannermove 35s linear infinite;
+	     -o-animation: bannermove 35s linear infinite;
+	        animation: bannermove 35s linear infinite;
 }
 @keyframes bannermove {
  0% {
@@ -67,11 +67,11 @@
 	transition: all 0.5s ease;
 }
 .photobanner img:hover {
-	-webkit-transform: scale(2.1);
-	-moz-transform: scale(2.1);
-	-o-transform: scale(2.1);
-	-ms-transform: scale(2.1);
-	transform: scale(2.1);
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
 	cursor: pointer;
 
 	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
