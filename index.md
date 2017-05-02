@@ -10,24 +10,19 @@ bigimg:
 css: /css/infinite-scrolling-photo-banner.css
 ---
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
   	<div class="posts-list">
   		{% for post in site.tags.upcoming-event %}
   		<article class="post-preview">
     		<a href="{{ post.url | prepend: site.baseurl }}">
-	  	<h2 class="post-title">{{ post.title }}</h2>
-	  	{% if post.subtitle %}
-	  	<h3 class="post-subtitle">
-	    	{{ post.subtitle }}
-	  	</h3>
-	  	{% endif %}
-    		</a>
+				<h3 class="post-title">{{ post.title }} - {{ post.subtitle }}</h3>
+	  	    </a>
     		<p class="post-meta">
       			Event will be held on {{ post.date | date: "%B %-d, %Y" }}
     		</p>
     		<div class="post-entry">
-      		{{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+      		{{ post.content | strip_html | xml_escape | truncatewords: 9 }}
 	  		<a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     		</div>
     		{% if post.tags.size > 0 %}
@@ -46,7 +41,7 @@ css: /css/infinite-scrolling-photo-banner.css
   		{% endfor %}
 	</div>
   </div>
-  <div class="col-md-4 col-md-offset-2">
+  <div class="col-md-2 col-md-offset-1">
   	Our online printing service partner!
   	<a href="https://smartpress.com">
   	   <img src="/img/sponsors/smartpress-logo-blue-horizontal-png.png" alt="Smartpress.com logo" height="40" width="240"/>

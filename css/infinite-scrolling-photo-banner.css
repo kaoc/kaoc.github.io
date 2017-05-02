@@ -6,25 +6,25 @@
 	margin-left: -33%;
 }
 .photobanner {
-	height: 155px;
-	width: 9184px;
-	margin-top: 80px;
-	margin-bottom: 80px;
+	height: 425px;
+	width: 9625px;
+	margin-top: 90px;
+	margin-bottom: 90px;
 }
 /*keyframe animations*/
 .first {
-	-webkit-animation: bannermove 99s linear infinite;
-	   -moz-animation: bannermove 99s linear infinite;
-	    -ms-animation: bannermove 99s linear infinite;
-	     -o-animation: bannermove 99s linear infinite;
-	        animation: bannermove 99s linear infinite;
+	-webkit-animation: bannermove 67s linear infinite;
+	   -moz-animation: bannermove 67s linear infinite;
+	    -ms-animation: bannermove 67s linear infinite;
+	     -o-animation: bannermove 67s linear infinite;
+	        animation: bannermove 67s linear infinite;
 }
 @keyframes bannermove {
  0% {
     margin-left: 0px;
  }
  100% {
-    margin-left: -8064px;
+    margin-left: -8525px;
  }
 }
 @-moz-keyframes bannermove {
@@ -32,7 +32,7 @@
    margin-left: 0px;
  }
  100% {
-   margin-left: -8064px;
+   margin-left: -8525px;
  }
 }
 @-webkit-keyframes bannermove {
@@ -40,7 +40,7 @@
    margin-left: 0px;
  }
  100% {
-   margin-left: -8064px;
+   margin-left: -8525px;
  }
 }
 @-ms-keyframes bannermove {
@@ -48,7 +48,7 @@
    margin-left: 0px;
  }
  100% {
-   margin-left: -8064px;
+   margin-left: -8525px;
  }
 }
 @-o-keyframes bannermove {
@@ -56,7 +56,7 @@
    margin-left: 0px;
  }
  100% {
-   margin-left: -8064px;
+   margin-left: -8525px;
  }
 }
 .photobanner img {
