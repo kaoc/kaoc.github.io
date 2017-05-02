@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Esteemed Sponsors
-subtitle: A BIG Thanks to our 2016 sponsors!
+subtitle: A BIG Thanks to our 2017 sponsors!
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
@@ -33,7 +33,7 @@ To more about sponsorship options, contact Dinesh Nair at (720) 789-0334 or at [
 <div id="container">
 	{% for image in site.static_files %}
 		{% if image.path contains 'sponsors/2017' %}
-			<img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+			<img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="425" width="275"/>
 		{% endif %}
 	{% endfor %}
 </div>
