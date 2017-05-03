@@ -40,13 +40,13 @@ Come and witness the exquisite spectacles of India!
 
 ![Qatar Airways Free Air Ticket Raffle](/img/sponsors/Qatar-tickets-Raffle-Alpine.png)  
 Few important Terms and conditions:
-* Valid for travel on Qatar Airways operated flights only, no cash value
-* Black out dates may apply
-* Does not earn mileage credit
-* Travel must be completed by one year from date of issue
-* If one person wins both tickets, traveller and companion must travel on the same itinerary
-* Changes to the reservation is not allowed
-* Winner is liable for all taxes
-* Other restrictions may apply
+* Valid for travel on Qatar Airways operated flights only, no cash value.
+* Black out dates may apply.
+* Does not earn mileage credit.
+* Travel must be completed by one year from date of issue.
+* Traveller and companion must travel on he same itinerary.
+* Changes to the reservation is not allowed.
+* Winner is liable for all taxes.
+* Other restrictions may apply.
 
 
