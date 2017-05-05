@@ -13,8 +13,8 @@ bigimg:
 <input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
 <table>
 <tr><td><input type="hidden" name="on0" value="Quantity can be changed later on PayPal site.">Quantity can be changed later on PayPal site.</td></tr><tr><td><select name="os0">
-	<option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
-	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option>
+	<!-- <option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
+	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option>-->
 	<option value="10 years & older">10 years & older $12.00 USD</option>
 	<option value="Kids 5 to 10 years">Kids 5 to 10 years $6.00 USD</option>
 </select> </td></tr>
