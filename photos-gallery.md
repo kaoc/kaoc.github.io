@@ -8,6 +8,9 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
+Indian Dance Festival 2017 (Ritu) Album  
+[![Indian Dance Festival 2017](/img/thumbnail-IDF2017.png)](https://drive.google.com/embeddedfolderview?id=0B_ScqNBjmixOMFY2YXVJcGJVMjA#grid)
+
 Music Night 2017 Album  
 [![Music Night 2017](/img/thumbnail-musicnight2017.png)](https://drive.google.com/embeddedfolderview?id=0B_ScqNBjmixOeWdqUFB0cEpnYVk#grid)
 

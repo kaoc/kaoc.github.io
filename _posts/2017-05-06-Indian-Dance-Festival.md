@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: 18th Indian Dance Festival 2017
 subtitle: Ritu, A season For Dance
 bigimg:
