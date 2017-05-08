@@ -14,5 +14,8 @@ Indian Dance Festival 2017 (Ritu) Album
 Music Night 2017 Album  
 [![Music Night 2017](/img/thumbnail-musicnight2017.png)](https://drive.google.com/embeddedfolderview?id=0B_ScqNBjmixOeWdqUFB0cEpnYVk#grid)
 
+Indian Dance Festival 2016 (Varnanjali) Album  
+[![Indian Dance Festival 2016](/img/thumbnail-IDF2016.png)](https://onedrive.live.com/?authkey=%21AE4EvLhNCKyTa00&v=photos&id=367C640D3C8678A0%211193&cid=367C640D3C8678A0)
+
 Music Night 2016 Album  
 [![Music Night 2016](/img/thumbnail-musicnight2016.png)](https://drive.google.com/embeddedfolderview?id=0B6YpFgDplYT-Mk5PclF6cGI3eG8#grid)
