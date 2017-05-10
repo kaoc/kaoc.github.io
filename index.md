@@ -13,7 +13,7 @@ css: /css/infinite-scrolling-photo-banner.css
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
   	<div class="posts-list">
-  		{% for post in site.tags.upcoming-event %}
+  		{% for post in site.tags.upcoming-event reversed %}
 			<article class="post-preview">
 				<a href="{{ post.url | prepend: site.baseurl }}">
 					<h3 class="post-title">{{ post.title }}</h3>
