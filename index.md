@@ -58,7 +58,7 @@ css: /css/infinite-scrolling-photo-banner.css
         <!-- REPEAT First few sponsors-->	
 		{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2017/0' %}
-				<img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/>
+				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
 			{% endif %}
 		{% endfor %}
     </div>
