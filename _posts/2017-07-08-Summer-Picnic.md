@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
 An afternoon of delicious food and entertaining games for adults and kids alike!
-Stay tuned for more details! Our **Annual Summer Picnic 2016** for KAOC members only.
+Stay tuned for more details!
 
 ![poster of Picnic 2017](/img/summer-picnic-2017.jpg)    
 
