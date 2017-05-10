@@ -1,0 +1,12 @@
+---
+layout: page
+title: Sports Corner
+subtitle: 
+bigimg:
+  - "/img/big-imgs/bigimg1.jpg" : ""
+  - "/img/big-imgs/bigimg2.jpg" : ""
+  - "/img/big-imgs/bigimg3.jpg" : ""
+  - "/img/big-imgs/bigimg4.jpg" : ""
+---
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGoW3xmSFdAU1ADxj-w3YhgrHGc976uNRafWgGj4UdrTZ2TQ/viewform?embedded=true" width="900" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
