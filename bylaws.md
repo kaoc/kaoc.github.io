@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DRAFT CORPORATION BY-LAWS
+title: CORPORATION BY-LAWS
 subtitle:
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""

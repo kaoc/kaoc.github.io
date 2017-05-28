@@ -25,7 +25,7 @@ description: Fresh ideas & traditional values!
 navbar-links:
   About:
     - KAOC History: "about-kaoc-history"
-    - Draft Bylaws: "bylaws"    
+    - Bylaws: "bylaws"    
     #- President's Desk: "presidents-desk"
     - Meet the team for 2017: "meet-the-team-for-2017"
     - Past Committees: "past-committees"
