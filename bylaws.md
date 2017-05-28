@@ -174,3 +174,5 @@ The members shall have the following rights:
 <html><p align="center"><b>ARTICLE XI</b></p></html>
 
 <html><p align="center"><b>EFFECTIVE DATES FOR BYLAW INCORPORATION &amp; AMENDMENTS</b></p></html>
+
+1. Saturday, May 27th, 2017 - Bylaws finalized.
