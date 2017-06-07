@@ -63,7 +63,7 @@ The Association shall be conducted as a non-profit, secular and cultural organiz
 
 5. Individual Membership: Applicable for single individual above the age of eighteen. The individual member will be entitled to one vote.
 
-6. Membership Fees: The executive committee may review/revise the fee structure as needed only at the beginning of the fiscal year.
+6. Membership Fees: The executive committee may review/revise the fee structure as needed only at the beginning of the fiscal year. For the current year's membership prices, please check the membership section on the website.
 
 <html><p align="center"><b>ARTICLE VI</b></p></html>
 
