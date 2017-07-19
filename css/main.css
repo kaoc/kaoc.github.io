@@ -220,7 +220,7 @@ img {
     text-align: center;
   }  
   .navbar-custom .nav .navlinks-container:hover {
-    background: #eee;
+    background: #ecc482;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
