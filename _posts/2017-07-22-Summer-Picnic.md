@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: KAOC Summer Picnic 2017
 subtitle: Grillin' 'n' Chillin'
 bigimg:
