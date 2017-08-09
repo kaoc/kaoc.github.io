@@ -16,4 +16,4 @@ bigimg:
 
 "കാത്തിരിപ്പിന്റെ ഓണം കേരള  അസോസിയേഷൻ ഓഫ്  കൊളോറാഡോയ്ക്ക്  ഒപ്പം..."
 
-![Onam 2016 Flyer](/img/KAoC-Onam2016-flyer.jpg)
+![Onam 2016 Flyer](/img/KAoC-Onam2017-flyer.jpg)
