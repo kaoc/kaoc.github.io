@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Onam Celebrations 2017
 subtitle: 
 bigimg:
