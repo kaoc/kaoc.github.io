@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 |Designation                   |Name	                               |Email                         |
-|:-----------------------------:|-------------------------------------|-----------------------------:|
+|:-----------------------------:|:-------------------------------------:|-----------------------------:|
 |**President**	               |Priya Murali                         |President@ColorKerala.org     |
 |**Vice President**	           |Bijosh Gopi                          |VicePresident@ColorKerala.org |
 |**Treasurer**	               |Lucy Thomas                          |Treasurer@ColorKerala.org     | 
