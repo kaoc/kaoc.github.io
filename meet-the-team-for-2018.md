@@ -15,9 +15,12 @@ bigimg:
 |**Treasurer**	             |Lucy Thomas                          |Treasurer@ColorKerala.org     | 
 |**Secretary**	             |Sreekanth Peruvembu Krishnamoorthy   |Secretary@ColorKerala.org     |
 |**Joint Secretary**         |Anand Kuruvakkat                     |JointSecretary@ColorKerala.org|
-|**Cultural Secretaries**    |Preetha Sayuj & sindhya sudheer      |Cultural@ColorKerala.org      |
-|**Sports Secretary**        |                                     |Sports@ColorKerala.org        |
-|**Event Coordinators**	     |Monson Xavier, Anuroopa Pai M, Fabin Xavier & Unni Sivasankar |Info@ColorKerala.org|
+|**Cultural Secretary**      |Preetha Sayuj                        |Cultural@ColorKerala.org      |
+|**Cultural Secretary**      |sindhya sudheer                      |Cultural@ColorKerala.org      |
+|**Sports Secretary**        | Unni Sivasankar                     |Sports@ColorKerala.org        |
+|**Executive Comittee**	     |Monson Xavier                        |Info@ColorKerala.org|
+|**Executive Comittee**	     |Anuroopa Pai M                       |Info@ColorKerala.org|
+|**Executive Comittee**	     |Fabin Xavier                         |Info@ColorKerala.org|
 |**Web Admin**	             |Sandeep G L                          |Webmaster@ColorKerala.org     |
 
 
