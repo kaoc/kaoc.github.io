@@ -11,10 +11,10 @@ bigimg:
 
 **Contact Info for KAOC President**
 
-Dinesh Nair
+Priya Murali
 
 **Address:** PO BOX 630841, Highlands Ranch, CO 80163
 
-**Phone:** +1 (720) 789-0334
+**Phone:** +1 (303) 506-1949
 
 **Email:** [president@colorkerala.org](mailto:president@colorkerala.org)
