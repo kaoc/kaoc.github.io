@@ -12,7 +12,7 @@ Major events are the Indian Dance Festival, Onam & Christmas Celebrations. Onam 
 
 >These events are not possible without the support of **our generous Sponsors below!**
 
-To more about sponsorship options, contact Dinesh Nair at (720) 789-0334 or at [president@colorkerala.org](mailto:president@colorkerala.org)
+To more about sponsorship options, contact Priya Murali at (303) 506-1949 or at [president@colorkerala.org](mailto:president@colorkerala.org)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
