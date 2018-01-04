@@ -28,7 +28,7 @@ Membership **benefits** include:
 6. **Other discounts** as passed on by association's esteemed sponsors  
 
 >Please note that membership expires at the end of calendar year on December 31st, 2018. 
-<!--To save on credit card processing costs, we encourage all members to send checks to KAOC, PO BOX 630841, Highlands Ranch, CO 80163.-->
+To save on credit card processing costs, we encourage all members to send checks to KAOC, PO BOX 3411, Parker, CO 80134.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
