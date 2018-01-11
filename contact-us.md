@@ -15,6 +15,4 @@ Priya Murali
 
 **Address:** PO BOX 3411, Parker, CO 80134
 
-**Phone:** +1 (303) 506-1949
-
 **Email:** [president@colorkerala.org](mailto:president@colorkerala.org)
