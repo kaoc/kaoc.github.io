@@ -5,7 +5,7 @@
     <br/>
     <br/>
     <table id="Alankara"> 
-      <td><tr align="center">
+      <td align="center"><tr align="center">
         <img src="img/nataraja.jpg" width="50" height="50" align="center"\>
       </td></tr> 
       <td><tr>
