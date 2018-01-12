@@ -36,9 +36,27 @@ bigimg:
 of slots available per dance form. Your dance form, theme and uniqueness will be
       taken into account for selection.</td></tr>
     <tr><td>8</td><td>A confirmation email will be sent out to the confirmed dance teams by March 15th,
-2018.Once your team is confirmed, every participant / parent of participant, under
-18 years of age, is required to sign a consent form. The link will be sent to the
+2018. <strong> Once your team is confirmed, every participant / parent of participant, under
+      18 years of age, is required to sign a consent form </strong>. The link will be sent to the
       teachers/choreographers and will be available online on the KAOC website.</td></tr>
+    <tr><td>9</td><td> <strong> Kindly note, we will be charging a participation fee of $10.00 from KAOC non-
+members. This is to keep up with the increased costs of venue rentals. No Payments
+will be accepted at the venue. All payments should be made online prior to the
+event. Participant consent form submission date with payment deadline will be April
+      1 st , 2018.</strong></td></tr>
+    <tr><td>10</td><td>MP3s have to be emailed to cultural@colorkerala.org, by April 15th 2018. Kindly
+      ensure that the audio is in MP3 format and is within the given time limit.</td></tr>
+    <tr><td>11</td><td>Audio submissions not received by April 15th, 2018, may result in you losing your
+      slot. Please ensure the quality of the music file prior to sending it.</td></tr>
   </table>
   </td></tr>
 </table>
+<table>
+  <tr><td> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
+    </td></tr>
+</table>
+
+<table>
+  <tr><td> for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
+  <tr><td> for other queries please send a mail to cultural@colorkerala.org</td></tr>
+  </table>
