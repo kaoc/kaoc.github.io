@@ -9,7 +9,7 @@ bigimg:
 ---
 
 <table align="center"> <tr><td align="center"><br/>
-  <img src="/img/idf2018/nataraja.jpg" width="50" height="50" ></td></tr>
+  <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
 
  <tr>
    <td> 
