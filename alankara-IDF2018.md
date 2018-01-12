@@ -7,7 +7,7 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-#h6 testrun 8
+#h6 testrun 9
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
 
@@ -20,7 +20,7 @@ bigimg:
  <br/><br/>
    <strong> <u> Guidelines for the IDF: </u> </strong> 
     </td></tr> 
-  <tr><td>
+  <tr style="border:0" ><td style="border:0" >
   <table align="left"><tr>
   <td>1</td><td>The minimum number of participants for each performance is 3.</td>
   </tr>
