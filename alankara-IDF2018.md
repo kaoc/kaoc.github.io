@@ -8,7 +8,7 @@ bigimg:
   - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
-#h6 test run 19
+#h6 test run 20
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
@@ -18,8 +18,8 @@ bigimg:
   </td></tr>
   <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> The theme for this year is <u> “ALANKARA: BEJEWELED IN ELEGANCE”! </u> Dance to your 
-     hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>
+     <strong> The theme for this year is <u> “ALANKARA: BEJEWELED IN ELEGANCE”! </u> &nbsp &nbsp <i> Dance to your 
+       hearts content, portraying the magnificence of Colors, Costumes and Ornaments </i>. </strong>
   </td></tr>
   <tr style="border:0;background:transparent">
    <td style="border:0"> 
