@@ -21,7 +21,7 @@ bigimg:
   </tr></td>
   <tr><td> <strong> <u> Guidelines for the IDF: </u> </strong> </td></tr>
   <tr><td>
-  <table><tr>
+  <table align="left"><tr>
   <td>1</td><td>The minimum number of participants for each performance is 3.</td>
   </tr>
   <tr>
