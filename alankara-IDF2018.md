@@ -24,7 +24,7 @@ bigimg:
            hearts content, portraying the magnificence of Colors, Costumes and Ornaments </i>.</center> </strong>
   </td></tr>
   <tr style="border:0;background:transparent">
-   <td style="border:0"> 
+   <td style="border:0"> <br/><br/><br/>
    <strong> <u> Guidelines for the IDF: </u> </strong> 
     </td></tr> 
   <tr style="border:0" ><td style="border:0" >
