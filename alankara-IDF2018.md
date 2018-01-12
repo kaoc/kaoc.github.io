@@ -18,7 +18,7 @@ bigimg:
   </td></tr>
   <tr style="border:0;background:transparent">
    <td style="border:0"> 
-       <strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your 
+     <strong> The theme for this year is <u> “ALANKARA: BEJEWELED IN ELEGANCE”! </u> Dance to your 
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>
   </td></tr>
   <tr style="border:0;background:transparent">
@@ -63,7 +63,7 @@ event. Participant consent form submission date with payment deadline will be Ap
 <br/><br/>
 <table>
   <tr style="border:0;background:transparent">
-   <td style="border:0">  for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
+   <td style="border:0">  for any technical issue please send a mail to <u> webmaster@colorkerala.org </u></td></tr>
   <tr style="border:0;background:transparent">
-   <td style="border:0">  for other queries please send a mail to cultural@colorkerala.org</td></tr>
+    <td style="border:0">  for other queries please send a mail to <u> cultural@colorkerala.org </u></td></tr>
   </table>
