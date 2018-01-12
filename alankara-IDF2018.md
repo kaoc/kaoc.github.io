@@ -1,5 +1,5 @@
 ---
-layout : idf2018_lyt
+layout : page
 title: IDF 2018 - Alankara
 bigimg:
   - "/img/idf2018/bigimgs/Dances-of-India.jpg" : ""
