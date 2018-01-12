@@ -57,8 +57,8 @@ event. Participant consent form submission date with payment deadline will be Ap
       slot. Please ensure the quality of the music file prior to sending it.</td></tr>
   </table>
   </td></tr>
-   <br/><br/>
-  <tr style="border:0" ><td style="border:0" > Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
+   
+  <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
     </td></tr>
 </table>
 <br/><br/>
