@@ -7,13 +7,13 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-#h6 testrun 12
+#h6 testrun 13
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 <center></strong>
+     <strong> <center>WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </center></strong>
      <br/><br/>
        <strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your 
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>
