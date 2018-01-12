@@ -35,6 +35,10 @@ bigimg:
       before March 1st, 2018 </strong>. Please register as soon as possible. We have limited number
 of slots available per dance form. Your dance form, theme and uniqueness will be
       taken into account for selection.</td></tr>
+    <tr><td>8</td><td>A confirmation email will be sent out to the confirmed dance teams by March 15th,
+2018.Once your team is confirmed, every participant / parent of participant, under
+18 years of age, is required to sign a consent form. The link will be sent to the
+      teachers/choreographers and will be available online on the KAOC website.</td></tr>
   </table>
   </td></tr>
 </table>
