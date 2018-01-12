@@ -20,4 +20,12 @@ bigimg:
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>
   </tr></td>
   <tr><td> <strong> <u> Guidelines for the IDF: </u> </strong> </td></tr>
+  <tr>
+  <td>1</td><td>The minimum number of participants for each performance is 3.</td>
+  </tr>
+  <tr>
+  <td>2</td><td>All participants MUST be 10 years or older as of March 1st, 2018. Parents of participants (less than 18 years) are requested to confirm the age in the online registration.</td>
+  </tr>
+  <tr> <td>3</td><td>The maximum duration allowed for each dance performance is 6 minutes. </td> </tr>
+  
 </table>
