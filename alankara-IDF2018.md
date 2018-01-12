@@ -8,10 +8,10 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 #h6 testrun 7
-<table align="center" style="border:0"> <tr><td align="center" style="border:0"><br/>
+<table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
 
- <tr>
+ <tr style="border:0">
    <td style="border:0"> 
      <strong> WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </strong>
      <br/><br/>
@@ -52,11 +52,11 @@ event. Participant consent form submission date with payment deadline will be Ap
   </td></tr>
 </table>
 <table>
-  <tr><td> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
+  <tr style="border:0" ><td style="border:0" > Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
     </td></tr>
 </table>
 
 <table>
-  <tr><td> for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
-  <tr><td> for other queries please send a mail to cultural@colorkerala.org</td></tr>
+  <tr style="border:0" ><td style="border:0" > for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
+  <tr style="border:0" ><td style="border:0"> for other queries please send a mail to cultural@colorkerala.org</td></tr>
   </table>
