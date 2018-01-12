@@ -8,8 +8,8 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 
-<table align="center"> <tr> <table align="center"><tr>
-  <img src="/img/idf2018/nataraja.jpg" width="50" height="50" ></tr>
+<table align="center"> <tr> <table align="center"><tr><td>
+  <img src="/img/idf2018/nataraja.jpg" width="50" height="50" ></td></tr>
   </tr>
  <tr>
    <td> 
