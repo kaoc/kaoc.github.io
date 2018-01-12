@@ -7,9 +7,9 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-#h6 testrun 15
+#h6 testrun 16
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
-  <center><img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></center></td></tr>
+  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
@@ -55,11 +55,11 @@ event. Participant consent form submission date with payment deadline will be Ap
   </table>
   </td></tr>
   <tr style="border:0;background:transparent">
-   <td style="border:0"> <br\><br\>
+   <td style="border:0"> <br/><br/>
   <tr style="border:0" ><td style="border:0" > Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
     </td></tr>
 </table>
-<br\><br\>
+<br/><br/>
 <table>
   <tr style="border:0;background:transparent">
    <td style="border:0">  for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
