@@ -12,13 +12,13 @@ bigimg:
   <td align="center"><img src="/img/idf2018/nataraja.jpg" width="50" height="50" > </td>
   </tr>
  <tr>
-   <td> <strong> WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </strong></td>
+   <td background-color: #ffffff> <strong> WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </strong></td>
   </tr>
  <tr>
-   <td><strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your <br/>
+   <td background-color: #ffffff><strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your <br/>
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>  </td>
   </tr>
-  <tr><td> <strong> <u> Guidelines for the IDF: </u> </strong> </td></tr>
+  <tr><td background-color: #ffffff> <strong> <u> Guidelines for the IDF: </u> </strong> </td></tr>
   <tr><td>
   <table align="left"><tr>
   <td>1</td><td>The minimum number of participants for each performance is 3.</td>
