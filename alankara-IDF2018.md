@@ -7,7 +7,7 @@ bigimg:
   - "/img/idf2018/bigimgs/bhangra.jpg" : ""
   - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
 ---
-#h6 testrun 18
+#h6 testrun 19
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
