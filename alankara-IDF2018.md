@@ -27,6 +27,9 @@ bigimg:
   <td>2</td><td>All participants MUST be 10 years or older as of March 1st, 2018. Parents of participants (less than 18 years) are requested to confirm the age in the online registration.</td>
   </tr>
   <tr> <td>3</td><td>The maximum duration allowed for each dance performance is 6 minutes. </td> </tr>
+    <tr><td>4</td><td>Costumes must have modest neckline and lengths.</td></tr>
+    <tr><td>5</td><td>Maximum of 1 performance per participant.</td></tr>
+    <tr><td>6</td><td>Maximum of 2 dances by the same choreographer.</td></tr>
   </table>
   </td></tr>
 </table>
