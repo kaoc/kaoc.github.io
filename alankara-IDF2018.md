@@ -17,6 +17,6 @@ bigimg:
    <strong>The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your <br/>
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments.</strong>
   </tr></td>
-  <tr><td> <strong> <u>Guidelines for the IDF:</u> </strong></tr></td>
+  <tr><td> <strong> <u> Guidelines for the IDF: </u> </strong> </tr></td>
 </table>
 
