@@ -6,6 +6,7 @@ bigimg:
   - "/img/idf2018/bigimgs/Image1.jpg" : ""
   - "/img/idf2018/bigimgs/bhangra.jpg" : ""
   - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
+  - "/img/idf2018/bigimgs/daily247.jpg"
 ---
 #h6 test run 19
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
@@ -13,7 +14,7 @@ bigimg:
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </center></strong>
+     <strong> <center>WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </center></strong><br/><br/><br/>
   </td></tr>
   <tr style="border:0;background:transparent">
    <td style="border:0"> 
