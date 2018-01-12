@@ -31,6 +31,10 @@ bigimg:
     <tr><td>4</td><td>Costumes must have modest neckline and lengths.</td></tr>
     <tr><td>5</td><td>Maximum of 1 performance per participant.</td></tr>
     <tr><td>6</td><td>Maximum of 2 dances by the same choreographer.</td></tr>
+    <tr><td>7</td><td> <strong> All Teacher/Choreographer registration forms should be submitted online, on or
+      before March 1st, 2018 </strong>. Please register as soon as possible. We have limited number
+of slots available per dance form. Your dance form, theme and uniqueness will be
+      taken into account for selection.</td></tr>
   </table>
   </td></tr>
 </table>
