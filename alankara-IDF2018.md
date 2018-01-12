@@ -7,17 +7,21 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-#h6 testrun 14
+#h6 testrun 15
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
      <strong> <center>WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </center></strong>
-     <br/><br/>
+  </td></tr>
+  <tr style="border:0;background:transparent">
+   <td style="border:0"> 
        <strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your 
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>
- <br/><br/>
+  </td></tr>
+  <tr style="border:0;background:transparent">
+   <td style="border:0"> 
    <strong> <u> Guidelines for the IDF: </u> </strong> 
     </td></tr> 
   <tr style="border:0" ><td style="border:0" >
@@ -50,15 +54,15 @@ event. Participant consent form submission date with payment deadline will be Ap
       slot. Please ensure the quality of the music file prior to sending it.</td></tr>
   </table>
   </td></tr>
-</table>
-<table>
+  <tr style="border:0;background:transparent">
+   <td style="border:0"> <br\><br\>
   <tr style="border:0" ><td style="border:0" > Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
     </td></tr>
 </table>
-
+<br\><br\>
 <table>
-  <tr style="border:0" ><td style="border:0" > for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
-  </table>
-  <table>
-  <tr style="border:0" ><td style="border:0"> for other queries please send a mail to cultural@colorkerala.org</td></tr>
+  <tr style="border:0;background:transparent">
+   <td style="border:0">  for any technical issue please send a mail to webmaster@colorkerala.org</td></tr>
+  <tr style="border:0;background:transparent">
+   <td style="border:0">  for other queries please send a mail to cultural@colorkerala.org</td></tr>
   </table>
