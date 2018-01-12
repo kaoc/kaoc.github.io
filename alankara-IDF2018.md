@@ -6,7 +6,7 @@
     <br/>
     <table id="Alankara"> 
       <td><tr>
-        <img
+        <img src="img/nataraja.jpg" width="500" height="600"\>
       </td></tr> 
       <td><tr>
       <span style="font-weight:bold">
