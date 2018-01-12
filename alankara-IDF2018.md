@@ -7,9 +7,9 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-#h6 testrun 13
+#h6 testrun 14
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
-  <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
+  <center><img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
