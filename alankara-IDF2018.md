@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: IDF 2018 - Alankara
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
