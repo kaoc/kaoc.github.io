@@ -7,11 +7,11 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-#h6 testrun 10
+#h6 testrun 11
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
 
- <tr style="border:0;background=transparent">
+ <tr style="border:0;background:transparent">
    <td style="border:0"> 
      <strong> <align = "center"> WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </align></strong>
      <br/><br/>
