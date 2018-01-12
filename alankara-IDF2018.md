@@ -5,8 +5,8 @@
     <br/>
     <br/>
     <table id="Alankara"> 
-      <td><tr>
-        <img src="img/nataraja.jpg" width="500" height="600"\>
+      <td><tr align="center">
+        <img src="img/nataraja.jpg" width="20" height="20"\>
       </td></tr> 
       <td><tr>
       <span style="font-weight:bold">
