@@ -7,10 +7,8 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-<style>
-  table,th,td,tr { border : 0px; }
- </style>
-<table align="center"> <tr><td align="center"><br/>
+
+<table align="center" border = "0px"> <tr><td align="center"><br/>
   <img src="/img/idf2018/nataraja.jpg" width="50" height="50" align="center"></td></tr>
 
  <tr>
