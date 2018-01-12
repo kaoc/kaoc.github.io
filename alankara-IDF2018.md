@@ -1,7 +1,7 @@
 <html>
-<head>
-  <title> IDF 2018 - Alankara </title>
- </head>
-<br/>
-<br/>
+  <body>
+  <br/>
+  <br/>
+    Welcome to the Official registration for IDF 2018 - Alankara
+  </body>
 </html>
