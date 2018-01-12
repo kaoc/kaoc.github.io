@@ -15,7 +15,7 @@ bigimg:
    <td> 
      <strong> WELCOME TO KAOC’s 19 TH INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5 th , 2018 </strong>
      <br/>
-       <strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your <br/>
+       <strong> The theme for this year is “ALANKARA: BEJEWELED IN ELEGANCE”! Dance to your 
      hearts content, portraying the magnificence of Colors, Costumes and Ornaments. </strong>
   <br/>
    <strong> <u> Guidelines for the IDF: </u> </strong> 
