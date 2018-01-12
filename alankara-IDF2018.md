@@ -18,7 +18,7 @@ bigimg:
   </td></tr>
   <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> The theme for this year is <u> “ALANKARA: BEJEWELED IN ELEGANCE”! </u> &nbsp &nbsp <i> Dance to your 
+     <strong> The theme for this year is &nbsp &nbsp <u> “ALANKARA: BEJEWELED IN ELEGANCE”! </u> &nbsp &nbsp <i> Dance to your 
        hearts content, portraying the magnificence of Colors, Costumes and Ornaments </i>. </strong>
   </td></tr>
   <tr style="border:0;background:transparent">
