@@ -2,12 +2,13 @@
 layout : page
 title: IDF 2018 - Alankara
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/idf2018/bigimgs/Dances-of-India.jpg" : ""
+  - "/img/idf2018/bigimgs/Image1.jpg" : ""
+  - "/img/idf2018/bigimgs/bhangra.jpg" : ""
+  - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
+  -
 ---
-#h6 testrun 16
+#h6 testrun 17
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
