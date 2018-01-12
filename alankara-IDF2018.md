@@ -6,7 +6,7 @@ bigimg:
   - "/img/idf2018/bigimgs/Image1.jpg" : ""
   - "/img/idf2018/bigimgs/bhangra.jpg" : ""
   - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
-  - "/img/idf2018/bigimgs/daily247.jpg"
+  - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 #h6 test run 19
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
