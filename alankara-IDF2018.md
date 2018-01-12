@@ -2,7 +2,7 @@
 layout : page
 title: IDF 2018 - Alankara
 bigimg:
-  - "/img/idf2018/bigimgs/Dances-of-India.jpg" width="990" height="300": ""
+  - "/img/idf2018/bigimgs/Dances-of-India.jpg" width="990" height="300" : ""
   - "/img/idf2018/bigimgs/Image1.jpg" : ""
   - "/img/idf2018/bigimgs/bhangra.jpg" : ""
   - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
