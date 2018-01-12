@@ -1,4 +1,12 @@
-
+---
+layout: page
+title: IDF 2018 - Alankara
+bigimg:
+  - "/img/big-imgs/bigimg1.jpg" : ""
+  - "/img/big-imgs/bigimg2.jpg" : ""
+  - "/img/big-imgs/bigimg3.jpg" : ""
+  - "/img/big-imgs/bigimg4.jpg" : ""
+---
 <table><tr><td align ="center">
 <img src="img/nataraja.jpg" width="50" height="50" align="center">
   </td></tr>
