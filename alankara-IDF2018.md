@@ -58,7 +58,7 @@ event. Participant consent form submission date with payment deadline will be Ap
   </table>
   </td></tr>
    
-  <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/1sk9kAEU2zz8JRzBqfmXFotlQ4N1obK539QF4O2ZqaGc/prefill">click here</a> for completing your registration
+  <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4tJyKwg4qu2oiXCEughL_QVBwNzV11Nc4F-Db7LyiqF9Kkw/viewform?usp=sf_link">click here</a> for completing your registration
     </td></tr>
 </table>
 <br/><br/>
