@@ -9,14 +9,14 @@ bigimg:
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 ---
-#h4 Test run 10
+#h4 Test run 11
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 19<sup>th</sup> INDIAN DANCE FESTIVAL.The tentative date for the IDF is May 5<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s 19<sup>th</sup> INDIAN DANCE FESTIVAL. &nbsp; The tentative date for the IDF is May 5<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
   </td></tr>
   <tr style="border:0;background:transparent">
    <td style="border:0"> 
