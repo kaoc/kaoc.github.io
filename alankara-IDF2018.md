@@ -9,7 +9,7 @@ bigimg:
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 ---
-#h4 Test run 8
+#h4 Test run 9
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
@@ -59,7 +59,8 @@ event. Participant consent form submission date with payment deadline will be Ap
   </table>
   </td></tr>
    
-  <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4tJyKwg4qu2oiXCEughL_QVBwNzV11Nc4F-Db7LyiqF9Kkw/viewform?usp=sf_link">click here</a> for completing your registration
+  <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
+  <font color="blue"> Teachers/Choreographers please <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4tJyKwg4qu2oiXCEughL_QVBwNzV11Nc4F-Db7LyiqF9Kkw/viewform?usp=sf_link">click here</a> for completing your registration </font>
     </td></tr>
 </table>
 <br/><br/>
