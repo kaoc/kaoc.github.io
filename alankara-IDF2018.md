@@ -68,6 +68,6 @@ event. Participant consent form submission date with payment deadline will be Ap
   <tr style="border:0;background:transparent">
    <td style="border:0"> <sub> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></sub></td></tr>
   <tr style="border:0;background:transparent">
-    <td style="border:0">  <sub>for other queries, please send a mail to <u> cultural@colorkerala.org </u></sub></td></tr>
+    <td style="border:0">  <sub>For other queries, please send a mail to <u> cultural@colorkerala.org </u></sub></td></tr>
   </table>
 
