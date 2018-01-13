@@ -12,7 +12,7 @@ bigimg:
 #h4 Test run 4
 ---
 <!DOCTYPE html>
-{% include header.html type="page" %}
+{% include header.html %}
 
 <body>
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
