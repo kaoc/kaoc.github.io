@@ -9,7 +9,7 @@ bigimg:
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 ---
-#h4 Test run 7
+#h4 Test run 8
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
@@ -65,8 +65,8 @@ event. Participant consent form submission date with payment deadline will be Ap
 <br/><br/>
 <table>
   <tr style="border:0;background:transparent">
-   <td style="border:0">  For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></td></tr>
+   <td style="border:0"> <sub> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></sub></td></tr>
   <tr style="border:0;background:transparent">
-    <td style="border:0">  for other queries, please send a mail to <u> cultural@colorkerala.org </u></td></tr>
-  </tableF
+    <td style="border:0">  <sub>for other queries, please send a mail to <u> cultural@colorkerala.org </u></sub></td></tr>
+  </table>
 
