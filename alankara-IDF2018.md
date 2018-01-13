@@ -1,5 +1,5 @@
 ---
-layout : page
+layout : page_auth_test
 title: IDF 2018 - Alankara
 bigimg:
   - "/img/idf2018/bigimgs/Dances-of-India.jpg" : ""
@@ -8,7 +8,9 @@ bigimg:
   - "/img/idf2018/bigimgs/img2-ramakrishna-taludakar.JPG" : ""
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
-
+---
+#h4 Test run 1
+---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
