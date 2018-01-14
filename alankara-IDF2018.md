@@ -63,8 +63,8 @@ event. <u> Participant consent form submission date with payment deadline will b
   <font color="blue"> <strong>Teachers/Choreographers please <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4tJyKwg4qu2oiXCEughL_QVBwNzV11Nc4F-Db7LyiqF9Kkw/viewform?usp=sf_link">click here</a> for completing your registration. </strong></font>
     </td></tr>
     <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
-  <font color="blue"> <strong>Please click here for participant consent form. </strong></font> <br\>
-  <font color="red"> &nbsp;<sub>this link will be only available after Feb 24<sup>th</suo> 2018</sub> </font>
+  <font color="blue"> <strong>Please click here for participant consent form. </strong></font> <br/>
+  <font color="red" size="8"> &nbsp;this link will be only available after Feb 24<sup>th</sup> 2018 </font>
     </td></tr>
 </table>
 <br/><br/>
