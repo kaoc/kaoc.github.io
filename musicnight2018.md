@@ -1,6 +1,6 @@
 ---
 layout : page_auth_test
-title: IDF 2018 - Alankara
+title: Music Night 2018
 bigimg:
   - "/img/idf2018/bigimgs/Dances-of-India.jpg" : ""
   - "/img/idf2018/bigimgs/Image1.jpg" : ""
@@ -9,7 +9,7 @@ bigimg:
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 ---
-#h4 Test run 1
+#h4 Test run 2
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/mn2018/veena.jpg" width="100" height="100" align="center"></center></td></tr>
