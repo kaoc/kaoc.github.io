@@ -8,7 +8,7 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 3
+#h4 Test run 4
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/mn2018/veena.jpg" width="100" height="100" align="center"></center></td></tr>
@@ -19,7 +19,7 @@ bigimg:
   </td></tr>
   
   <tr style="border:0;background:transparent">
-   <td style="border:0"> <br/><br/><br/>
+   <td style="border:0"> 
    <strong> <u> Guidelines for the Music Night </u> </strong> 
     </td></tr> 
   <tr style="border:0" ><td style="border:0" >
