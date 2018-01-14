@@ -9,7 +9,7 @@ bigimg:
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 ---
-#h4 Test run 11
+#h4 Test run 12
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
@@ -45,14 +45,14 @@ of slots available per dance form. Your dance form, theme and uniqueness will be
       taken into account for selection.</td></tr>
     <tr><td>8</td><td>A confirmation email will be sent out to the confirmed dance teams by February 24<sup>th</sup>,
 2018. <strong> Once your team is confirmed, every participant / parent of participant, under
-      18 years of age, is required to sign a consent form </strong>. This link will be sent to the
+      18 years of age, is required to sign a participant consent form </strong>. This link will be sent to the
       teachers/choreographers and will be available online on the KAOC website.</td></tr>
     <tr><td>9</td><td> <strong> Kindly note, we will be charging a participation fee of $10.00 from KAOC non-
 members. This is to keep up with the increased costs of venue rentals. No Payments
 will be accepted at the venue. All payments should be made online prior to the
-event. Participant consent form submission date with payment deadline will be April
-      15<sup>th</sup> , 2018.</strong></td></tr>
-    <tr><td>10</td><td>MP3s have to be emailed to cultural@colorkerala.org, by April 15<sup>th</sup> 2018. Kindly
+event. <u> Participant consent form submission date with payment deadline will be April
+      15<sup>th</sup> , 2018 </u>.</strong></td></tr>
+    <tr><td>10</td><td>MP3s have to be emailed to cultural@colorkerala.org, by <strong>April 15<sup>th</sup> 2018</strong>. Kindly
       ensure that the audio is in MP3 format and is within the given time limit.</td></tr>
     <tr><td>11</td><td>Audio submissions not received by April 15<sup>th</sup>, 2018, may result in you losing your
       slot. Please ensure the quality of the music file prior to sending it.</td></tr>
@@ -60,7 +60,11 @@ event. Participant consent form submission date with payment deadline will be Ap
   </td></tr>
    
   <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
-  <font color="blue"> <strong>Teachers/Choreographers please <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4tJyKwg4qu2oiXCEughL_QVBwNzV11Nc4F-Db7LyiqF9Kkw/viewform?usp=sf_link">click here</a> for completing your registration </strong></font>
+  <font color="blue"> <strong>Teachers/Choreographers please <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4tJyKwg4qu2oiXCEughL_QVBwNzV11Nc4F-Db7LyiqF9Kkw/viewform?usp=sf_link">click here</a> for completing your registration. </strong></font>
+    </td></tr>
+    <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
+  <font color="blue"> <strong>Please click here for participant consent form. </strong></font> <br\>
+  <font color="red"> &nbsp;<sub>this link will be only available after Feb 24<sup>th</suo> 2018</sub> </font>
     </td></tr>
 </table>
 <br/><br/>
