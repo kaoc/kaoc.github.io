@@ -8,14 +8,14 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 5
+#h4 Test run 6
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/mn2018/veena.jpg" width="200" height="100" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> MUSIC Night. &nbsp; The tentative date for the IDF is March 24<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> MUSIC NIGHT. &nbsp; The tentative date for the IDF is March 24<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
   </td></tr>
   
   <tr style="border:0;background:transparent">
@@ -29,7 +29,7 @@ bigimg:
   </tr>
   <tr> <td>2</td><td>The maximum duration allowed for song is 6 minutes. </td> </tr>
     <tr><td>3</td><td>The maximum duration allowed for music band is 1 Hour.</td></tr>
-    <tr><td>4</td><td>One person can participate max of 2 programs</td></tr>
+    <tr><td>4</td><td>One person can participate in a maximum of 2 programs.</td></tr>
     <tr><td>5</td><td>If we receive too many participants, we may have to shortlist based on: <br/>
      &nbsp;&nbsp;&nbsp;*First come basis and membership status<br/>
      &nbsp;&nbsp;&nbsp;*Team size and age group of participants
