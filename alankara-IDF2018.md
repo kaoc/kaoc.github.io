@@ -9,7 +9,7 @@ bigimg:
   - "/img/idf2018/bigimgs/daily247.jpg" : ""
 ---
 ---
-#h4 Test run 14
+#h4 Test run 15
 ---
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
@@ -64,7 +64,7 @@ event. <u> Participant consent form submission date with payment deadline will b
     </td></tr>
     <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
   <font color="blue"> <strong>Please click here for participant consent form. </strong></font> <br/>
-  <font color="red" size=".5"> &nbsp;this link will be only available after Feb 24<sup>th</sup> 2018 </font>
+  <font color="red" size=".1"> &nbsp;this link will be only available after Feb 24<sup>th</sup> 2018 </font>
     </td></tr>
 </table>
 <br/><br/>
