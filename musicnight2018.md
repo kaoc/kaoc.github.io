@@ -31,10 +31,11 @@ bigimg:
   <tr> <td>2</td><td>The maximum duration allowed for song is 6 minutes. </td> </tr>
     <tr><td>3</td><td>The maximum duration allowed for music band is 1 Hour.</td></tr>
     <tr><td>4</td><td>One person can participate max of 2 programs</td></tr>
-    <tr><td>6</td><td>If we receive too many participants, we may have to shortlist based on: <br/>
+    <tr><td>5</td><td>If we receive too many participants, we may have to shortlist based on: <br/>
      &nbsp;&nbsp;&nbsp;*First come basis and membership status<br/>
      &nbsp;&nbsp;&nbsp;*Team size and age group of participants
      </td></tr>
+    <tr><td>6</td><td>In the registration form please fill the song titles to avoid duplicates (unfilled application will be rejected immediately)</td></tr>
     </table>
   </td></tr>
    
