@@ -8,7 +8,7 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 9
+#h4 Test run 10
 ---
 <div class="scrollmid">
   <table align="right"> <tr style="border:0"><td style="border:0"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100" height="100"> </td></tr>
@@ -31,16 +31,16 @@ bigimg:
   <tr style="border:0" ><td style="border:0" >
   <table align="left">
   <tr>
-  <td>1</td><td>All participants MUST be 13 years or older</td>
+  <td>1</td><td>Participation for the Music night is open only to KAOC members.</td>
   </tr>
-  <tr> <td>2</td><td>The maximum duration allowed for song is 6 minutes. </td> </tr>
-    <tr><td>3</td><td>The maximum duration allowed for music band is 1 Hour.</td></tr>
-    <tr><td>4</td><td>One person can participate in a maximum of 2 programs.</td></tr>
-    <tr><td>5</td><td>If we receive too many participants, we may have to shortlist based on: <br/>
-     &nbsp;&nbsp;&nbsp;*First come basis and membership status<br/>
-     &nbsp;&nbsp;&nbsp;*Team size and age group of participants
+  <tr> <td>2</td><td>Performers should be 13 years or older. </td> </tr>
+    <tr><td>3</td><td>One person can participate in maximum of 2 songs.</td></tr>
+    <tr><td>4</td><td>Maximum time limit :Karaoke - 6 minutes, Music Band - 1 hour</td></tr>
+    <tr><td>5</td><td>The last date for registration will be <strong>February 14<sup>th</sup>,2018</strong>. Confirmed participants will be informed by Feb 28<sup>th</sup>,2018.
      </td></tr>
-    <tr><td>6</td><td>In the registration form please fill the song titles to avoid duplicates (unfilled application will be rejected immediately)</td></tr>
+    <tr><td>6</td><td>Kindly submit the music for the karaoke latest by <strong>March 15<sup>th</sup></strong>,2018 to contact@colorkerala.org.<br/>
+      &nbsp;*Kindly note that registration will not guarantee participation.
+      </td></tr>
     </table>
   </td></tr>
    
