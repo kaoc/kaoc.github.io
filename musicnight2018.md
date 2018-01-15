@@ -28,7 +28,7 @@ bigimg:
    <td style="border:0"> 
    <strong> <u> Guidelines for the Music Night </u> </strong> 
     </td></tr> 
-  <tr style="border:0" ><td style="border:0" >
+  <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" >
   <table align="left">
   <tr>
   <td>1</td><td>Participation for the Music night is open only to KAOC members.</td>
