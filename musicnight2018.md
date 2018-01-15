@@ -8,7 +8,7 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 10
+#h4 Test run 11
 ---
 <div class="scrollmid">
   <table align="right"> <tr style="border:0"><td style="border:0"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100" height="100"> </td></tr>
@@ -17,11 +17,11 @@ bigimg:
 
 
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
-  <center><img src="/img/mn2018/veena.jpg" width="200" height="100" align="center"></center></td></tr>
+  <center><img src="/img/mn2018/music-notes.png" width="200" height="100" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> MUSIC NIGHT. &nbsp; The tentative date for the IDF is March 24<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> MUSIC NIGHT. &nbsp; The tentative date is April 7<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
   </td></tr>
   
   <tr style="border:0;background:transparent">
