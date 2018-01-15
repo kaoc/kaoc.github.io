@@ -38,8 +38,8 @@ bigimg:
     <tr><td>4</td><td>Maximum time limit :Karaoke - 6 minutes, Music Band - 1 hour</td></tr>
     <tr><td>5</td><td>The last date for registration will be <strong>February 14<sup>th</sup>,2018</strong>. Confirmed participants will be informed by Feb 28<sup>th</sup>,2018.
      </td></tr>
-    <tr><td>6</td><td>Kindly submit the music for the karaoke latest by <strong>March 15<sup>th</sup></strong>,2018 to contact@colorkerala.org.<br/>
-      &nbsp;*Kindly note that registration will not guarantee participation.
+    <tr><td>6</td><td>Kindly submit the music for the karaoke latest by <strong>March 15<sup>th</sup>,2018</strong> to contact@colorkerala.org.<br/>
+      &nbsp;<font size="1">*Kindly note that registration will not guarantee participation.</font>
       </td></tr>
     </table>
   </td></tr>
