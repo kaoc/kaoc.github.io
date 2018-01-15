@@ -8,9 +8,9 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 7
+#h4 Test run 8
 ---
-<div class="scrollmid"><table align="right"> <tr style="border:0"><td style="border:0"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100" height="100"\> </tr></td></table> </div>
+<div class="scrollmid"><table align="right"> <tr style="border:0"><td style="border:0"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100" height="100"> </tr></td></table> </div>
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/mn2018/veena.jpg" width="200" height="100" align="center"></center></td></tr>
 
