@@ -8,7 +8,7 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 13
+#h4 Test run 14
 ---
 <div class="scrollmid">
   <table align="right"> <tr style="border:0;background:red"><td style="border:0;background:red" height="100" width="100"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100" height="100"> </td></tr>
@@ -21,7 +21,7 @@ bigimg:
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> MUSIC NIGHT. &nbsp; The tentative date is April 7<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> <img src="/img/mn2018/mnight_text.png" width=100 height=30 >MUSIC NIGHT. &nbsp; The tentative date is April 7<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
   </td></tr>
   
   <tr style="border:0;background:transparent">
