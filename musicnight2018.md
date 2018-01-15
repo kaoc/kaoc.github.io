@@ -8,10 +8,10 @@ bigimg:
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 ---
-#h4 Test run 16
+#h4 Test run 17
 ---
 <div class="scrollmid">
-  <table align="right"> <tr style="border:0;background:red"><td style="border:0;background:red"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100px" height="100px"> </td></tr>
+  <table align="right"> <tr style="border:0;background:transparent"><td style="border:0;background:red"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100px" height="100px"> </td></tr>
   </table> 
   </div>
 
