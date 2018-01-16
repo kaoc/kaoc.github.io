@@ -1,6 +1,5 @@
 ---
 layout : page_auth_test
-title: Music Night 2018
 bigimg:
   - "/img/mn2018/bigimg/Guitar.jpg" : ""
   - "/img/mn2018/bigimg/Keyboard.jpg" : ""
