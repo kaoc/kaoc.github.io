@@ -38,7 +38,7 @@ bigimg:
   </td></tr>
    
   <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
-  <font color="blue"> <strong>Singers/Music bands please  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_0HGOgHMNLfV_3a4pv4hErJw6ElOETkvQDGB0JDPJHFVUCQ/viewform?usp=sf_link">click here</a> for completing your registration </strong></font>
+  <font color="blue"> <strong>Singers/Music bands please  <a href="http://www.colorkerala.org/mn2018_reg/">click here</a> for completing your registration </strong></font>
     </td></tr>
 </table>
 <br/><br/>
