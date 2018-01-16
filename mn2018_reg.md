@@ -1,0 +1,21 @@
+---
+layout : page_auth_test
+bigimg:
+  - "/img/mn2018/bigimg/Guitar.jpg" : ""
+  - "/img/mn2018/bigimg/Keyboard.jpg" : ""
+  - "/img/mn2018/bigimg/Thabala.jpg" : ""
+  - "/img/mn2018/bigimg/drumset.jpg" : ""
+---
+
+
+
+<table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
+  <center><img src="/img/mn2018/music-notes.png" width="200" height="100" align="center"></center></td></tr>
+
+ <tr style="border:0;background:transparent">
+   <td style="border:0"> 
+     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_0HGOgHMNLfV_3a4pv4hErJw6ElOETkvQDGB0JDPJHFVUCQ/viewform?usp=sf_link"
+             height="500" width="200" />
+     </td></tr>
+  </table>
+
