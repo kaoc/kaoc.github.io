@@ -15,7 +15,7 @@ bigimg:
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_0HGOgHMNLfV_3a4pv4hErJw6ElOETkvQDGB0JDPJHFVUCQ/viewform?usp=sf_link"
-             height="500" width="200" />
+             height="500" width="500" />
      </td></tr>
   </table>
 
