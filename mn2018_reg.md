@@ -8,4 +8,10 @@
              height="500" width="750" />
      </td></tr>
   </table>
+  <table>
+  <tr style="border:0;background:transparent">
+   <td style="border:0"> <sub> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></sub></td></tr>
+  <tr style="border:0;background:transparent">
+    <td style="border:0">  <sub>For other queries, please send a mail to <u> contact@colorkerala.org </u></sub></td></tr>
+  </table>
 
