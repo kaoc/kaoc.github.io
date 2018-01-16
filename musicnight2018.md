@@ -7,13 +7,7 @@ bigimg:
   - "/img/mn2018/bigimg/Thabala.jpg" : ""
   - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
----
-#h4 Test run 18
----
-<div class="scrollmid">
-  <table align="right"> <tr style="border:0;background:transparent"><td style="border:0;background:transparent"><img src="/img/mn2018/MusicNightLogo.jpeg" width="100px" height="100px"> </td></tr>
-  </table> 
-  </div>
+
 
 
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
@@ -21,7 +15,7 @@ bigimg:
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> <img src="/img/mn2018/mnight_text.png" width="200" height="30" >. &nbsp; The tentative date is April 7<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> <I> FAMILY </I> <img src="/img/mn2018/mnight_text.png" width="200" height="30" >. &nbsp; The tentative date is April 7<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
   </td></tr>
   
   <tr style="border:0;background:transparent">
