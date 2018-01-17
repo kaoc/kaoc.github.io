@@ -1,8 +1,22 @@
 ---
 layout : page_auth_test
 ---
+<style type="text/css">
+body 
+{
+background-image:url("/img/mn2018/Musicfestivalposter.jpg");
+height: 100%;
+width: 100%;
+position: absolute;
+background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+opacity: 10;
+}
+</style>
 
- 
+ 123
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/mn2018/MusicNightLogo.jpeg" width="500" height="800" align="center"></center></td></tr>
 
