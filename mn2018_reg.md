@@ -16,8 +16,8 @@ opacity: 10;
 }
 </style>
 
- 123
-<table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
+
+<table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
   <center><img src="/img/mn2018/MusicNightLogo.jpeg" width="500" height="800" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
