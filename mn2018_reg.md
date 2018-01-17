@@ -1,6 +1,8 @@
 ---
 layout : page_auth_test
 ---
+
+{% include header.html type="page" %}
 <script>
   body{
   background-image:url("/img/mn2018/Musicfestivalposter.jpg");
