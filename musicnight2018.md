@@ -1,10 +1,5 @@
 ---
 layout : page_auth_test
-bigimg:
-  - "/img/mn2018/bigimg/Guitar.jpg" : ""
-  - "/img/mn2018/bigimg/Keyboard.jpg" : ""
-  - "/img/mn2018/bigimg/Thabala.jpg" : ""
-  - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 
 
@@ -28,7 +23,7 @@ bigimg:
   </tr>
   <tr> <td>2</td><td>Performers should be 13 years or older. </td> </tr>
     <tr><td>3</td><td>One person can participate in maximum of 2 songs.</td></tr>
-    <tr><td>4</td><td>Maximum time limit :Karaoke - 6 minutes, Music Band - 1 hour</td></tr>
+    <tr><td>4</td><td>Maximum time limit :Karoke - 6 minutes, Music Band - 1 hour</td></tr>
     <tr><td>5</td><td>The last date for registration will be <strong>February 14<sup>th</sup>,2018</strong>. Confirmed participants will be informed by Feb 28<sup>th</sup>,2018.
      </td></tr>
     <tr><td>6</td><td>Kindly submit the music for the karaoke latest by <strong>March 15<sup>th</sup>,2018</strong> to contact@colorkerala.org.<br/>
