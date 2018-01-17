@@ -1,14 +1,9 @@
 ---
 layout : page_auth_test
-bigimg:
-  - "/img/mn2018/bigimg/Guitar.jpg" : ""
-  - "/img/mn2018/bigimg/Keyboard.jpg" : ""
-  - "/img/mn2018/bigimg/Thabala.jpg" : ""
-  - "/img/mn2018/bigimg/drumset.jpg" : ""
 ---
 
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
-  <center><img src="/img/mn2018/MusicNightLogo.jpeg" width="200" height="300" align="center"></center></td></tr>
+  <center><img src="/img/mn2018/MusicNightLogo.jpeg" width="500" height="800" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
