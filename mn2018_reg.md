@@ -23,7 +23,7 @@ opacity: 10;
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_0HGOgHMNLfV_3a4pv4hErJw6ElOETkvQDGB0JDPJHFVUCQ/viewform?usp=sf_link"
-             width="999" height="1800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+             width="999" height="1800" frameborder="0" marginheight="0" marginwidth="0" ALLOWTRANSPARENCY="true">Loading...</iframe>
      </td></tr>
   </table>
   <table>
