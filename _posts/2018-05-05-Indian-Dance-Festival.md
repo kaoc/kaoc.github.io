@@ -12,8 +12,8 @@ bigimg:
 body 
 {
 background-image:url("/img/idf2018/bigimgs/IDFLogo.jpeg");
-height: 100%;
-width: 100%;
+height: 10%;
+width: 30%;
 position: absolute;
 background-repeat:no-repeat;
 background-position: center center;
@@ -24,7 +24,7 @@ opacity: 10;
 </style>
 <table align="center" style="border:0"> 
   <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
-<center><img src="/img/idf2018/bigimgs/IDFLogo.jpeg" width="500" height="800" align="center"></center> 
+<center><img src="/img/idf2018/bigimgs/IDFLogo.jpeg" width="200" height="100" align="center"></center> 
     </td></tr>
   <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 For Registration Please <a href="http://www.colorkerala.org/idf2018/"> click here </a>
