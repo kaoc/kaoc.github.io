@@ -12,7 +12,7 @@ background-repeat:no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
-opacity: 10;
+opacity: 0.5;
 }
 </style>
 
