@@ -17,7 +17,7 @@ opacity: 10;
 </style>
 
 
-<table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
+<table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
   <center><img src="/img/mn2018/music-notes.png" width="200" height="100" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
