@@ -8,19 +8,7 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-<style type="text/css">
-body 
-{
-background-image:url("/img/idf2018/bigimgs/IDFLogo.jpeg");
-height: 10%;
-width: 30%;
-position: absolute;
-background-repeat:no-repeat;
-background-position: center center;
-background-attachment: fixed;
-background-size: cover;
-opacity: 10;
-}
+
 </style>
 <table align="center" style="border:0"> 
   <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
