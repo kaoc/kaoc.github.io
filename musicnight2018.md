@@ -1,7 +1,20 @@
 ---
 layout : page_auth_test
 ---
-
+<style type="text/css">
+body 
+{
+background-image:url("/img/mn2018/Musicfestivalposter.jpg");
+height: 100%;
+width: 100%;
+position: absolute;
+background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+opacity: 10;
+}
+</style>
 
 
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
