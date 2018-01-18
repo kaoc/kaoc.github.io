@@ -2,7 +2,6 @@
 layout: post
 tag: past-event
 title: Registration open for Indian Dance Festival 2018
-subtitle: Alankara
 bigimg:
  - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
 ---
