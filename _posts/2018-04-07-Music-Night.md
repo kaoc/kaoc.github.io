@@ -13,7 +13,7 @@ bigimg:
 for registration please <a href="http://www.colorkerala.org/musicnight2018/"> click here </a>
   </td></tr>
   <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
-![poster of Music Night 2018](/img/mn2018/MusicNightLogo.jpeg)  
+<img src="/img/mn2018/MusicNightLogo.jpeg" alt="Music Night 2018 poster" \>  
     </td></tr>
   </table>
 
