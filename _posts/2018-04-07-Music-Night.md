@@ -8,7 +8,20 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
 ---
-
+<style type="text/css">
+body 
+{
+background-image:url("/img/mn2018/Musicfestivalposter.jpg");
+height: 100%;
+width: 100%;
+position: absolute;
+background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+opacity: 10;
+}
+</style>
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 for registration please <a href="http://www.colorkerala.org/musicnight2018/"> click here </a>
   </td></tr>
