@@ -11,7 +11,7 @@ bigimg:
 
 |General Links                                                                        |Kerala Airport Links                                                                 |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|[Malayalam Calendar](http://malayalam.deepikaglobal.com/calendar/calendar_view.aspx) |[Cochin International Airport](http://cial.aero)                                    |
+|[Malayalam Calendar](http://www.prokerala.com/general/calendar/) |[Cochin International Airport](http://cial.aero)                                    |
 |[Kerala Tourism](http://www.keralatourism.org)                                       |[Calicut International Airport](http://www.aai.aero/allAirports/calicut_general.jsp) |
 |[Learn Malayalam Alphabets](http://www.omniglot.com/writing/malayalam.htm)           |[Trivandrum International Airport](http://www.aai.aero/allAirports/thiru_general.jsp)|
 |[Spoken Malayalam Tutor](http://www.pravasimalayalam.com/part1/part1-1.shtml)                                        |                                                                                     |
