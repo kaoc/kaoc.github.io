@@ -21,4 +21,5 @@ bigimg:
 |**Web Admin**	             |Abhir Elandasserry                   |Webmaster@ColorKerala.org     |
 
 **Team portfolio**
+<br\>
 ![Team Portfolio](/img/team2017.jpg)
