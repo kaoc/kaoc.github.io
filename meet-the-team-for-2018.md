@@ -25,3 +25,6 @@ bigimg:
 
 
 
+**Team Portfolio
+![Team Portfolio](/img/kaoc_2018.png)
+
