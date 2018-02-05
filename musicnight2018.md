@@ -22,7 +22,7 @@ opacity: 10;
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s<sup>rd</sup> <I> FAMILY </I> <img src="/img/mn2018/mnight_text.png" width="300" height="50" > April 7<sup>th</sup>,2018 6pm to 9pm </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s <I> FAMILY </I> <img src="/img/mn2018/mnight_text.png" width="300" height="50" > April 7<sup>th</sup>,2018 6pm to 9pm </center></strong><br/><br/><br/>
   </td></tr>
   
   <tr style="border:0;background:transparent">
