@@ -27,5 +27,5 @@ bigimg:
 
 **Team Portfolio**
 <br/>
-![Team Portfolio](/img/kaoc_2018.png)
+![Team Portfolio](/img/kaoc_2018.jpeg)
 
