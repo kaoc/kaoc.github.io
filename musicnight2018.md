@@ -22,7 +22,7 @@ opacity: 10;
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
-     <strong> <center>WELCOME TO KAOC’s 3<sup>rd</sup> <I> FAMILY </I> <img src="/img/mn2018/mnight_text.png" width="300" height="50" >. &nbsp; The date is April 7<sup>th</sup> , 2018 </center></strong><br/><br/><br/>
+     <strong> <center>WELCOME TO KAOC’s<sup>rd</sup> <I> FAMILY </I> <img src="/img/mn2018/mnight_text.png" width="300" height="50" > April 7<sup>th</sup>,2018 6pm to 9pm </center></strong><br/><br/><br/>
   </td></tr>
   
   <tr style="border:0;background:transparent">
@@ -31,15 +31,12 @@ opacity: 10;
     </td></tr> 
   <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" >
   <table align="left">
-  <tr>
-  <td>1</td><td>Participation for the Music night is open only to KAOC members.</td>
-  </tr>
-  <tr> <td>2</td><td>Performers should be 13 years or older. </td> </tr>
-    <tr><td>3</td><td>One person can participate in maximum of 2 songs.</td></tr>
-    <tr><td>4</td><td>Maximum time limit :Karaoke - 6 minutes, Music Band - 1 hour</td></tr>
-    <tr><td>5</td><td>The last date for registration will be <strong>February 21<sup>st</sup>,2018</strong>. Confirmed participants will be informed by Feb 28<sup>th</sup>,2018.
+    <tr> <td>1</td><td>Performers should be 13 years or older. </td> </tr>
+    <tr><td>2</td><td>One person can participate in maximum of 2 songs.</td></tr>
+    <tr><td>3</td><td>Maximum time limit :Karaoke - 6 minutes, Music Band - 1 hour</td></tr>
+    <tr><td>4</td><td>The last date for registration will be <strong>February 21<sup>st</sup>,2018</strong>. Confirmed participants will be informed by Mar 5<sup>th</sup>,2018.
      </td></tr>
-    <tr><td>6</td><td>Kindly submit the music for the karaoke latest by <strong>March 15<sup>th</sup>,2018</strong> to contact@colorkerala.org.<br/>
+    <tr><td>5</td><td>Kindly submit the music for the karaoke latest by <strong>March 18<sup>th</sup>,2018</strong> to contact@colorkerala.org.<br/>
       &nbsp;<font size="1">*Kindly note that registration will not guarantee participation.</font>
       </td></tr>
     </table>
