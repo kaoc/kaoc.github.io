@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: pasted-event
+tag: upcoming-event
 title: Family Music Night 2018
 subtitle: Night of music & melody!
 bigimg:
