@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: closed-event
 title: Registration open for Indian Dance Festival 2018
 bigimg:
  - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
