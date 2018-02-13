@@ -7,10 +7,10 @@ bigimg:
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
  <tr style="border:0;background:transparent">
-  <td><label>Payment required if you are not a Kerala Association Member </label> </td>
+  <td style="border:0;background:transparent"><label>Payment required if you are not a Kerala Association Member </label> </td>
   </tr>
   
- <tr style="border:0;background:transparent"> <td>
+ <tr style="border:0;background:transparent"> <td style="border:0;background:transparent">
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzQe8yunOGKrqIDinYWZ4yLgK-DUQZHloyM5slXDpGEqa7VA/viewform?usp=sf_link" width="999" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
  </td></tr>
   </table>
