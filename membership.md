@@ -16,7 +16,7 @@ Membership is open to all those who are interested in organizing, participating 
 |Individual Membership | $35*   	  |
 |Guest Entry Fee       | Varies per event |
 
-* Due to increase in the fees we are charging $2 extra for Family and $1 extra for Individual while using online payment. To avoid this charge members are most welcome to send Check to the mailing address mentioned below
+>* Due to increase in the fees we are charging $2 extra for Family and $1 extra for Individual while using online payment. To avoid this charge members are most welcome to send Check to the mailing address mentioned below
 <!---**Membership for 2016 year is now closed!**--->
 **Pay online below via secure www.paypal.com website.**
 
