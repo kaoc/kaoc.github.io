@@ -6,8 +6,8 @@ bigimg:
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
   <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 
- <tr style="border:0;background:transparent"><br/><br/><br/><br/>
-  <td style="border:0;background:transparent"><label>Payment required if you are not a Kerala Association Member </label> </td> <td style="border:0;background:transparent"> 
+ <tr style="border:0;background:transparent">
+  <td style="border:0;background:transparent"><br/><br/><br/><br/><label>Payment required if you are not a Kerala Association Member </label> </td> <td style="border:0;background:transparent"> <br/><br/><br/><br/>
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4RTLS9TJ2SJVY">
