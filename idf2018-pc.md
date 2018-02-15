@@ -12,12 +12,6 @@ bigimg:
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzQe8yunOGKrqIDinYWZ4yLgK-DUQZHloyM5slXDpGEqa7VA/viewform?usp=sf_link" width="999" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
  </td></tr>
   </table>
-  <table>
-  <tr style="border:0;background:transparent">
-   <td style="border:0"> <font size="2"> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></font></td></tr>
-  <tr style="border:0;background:transparent">
-    <td style="border:0">  <font size="2">For other queries, please send a mail to <u> cultural@colorkerala.org </u></font></td></tr>
-  </table>
   <table align="center" style="border:0"> <tr style="border:0;background:transparent">
   <td style="border:0;background:transparent"><br/><br/><br/><br/><label>Payment of $10 required for non members </label> </td> <td style="border:0;background:transparent"> <br/><br/><br/><br/>
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -28,3 +22,10 @@ bigimg:
 </form>
    </td>
   </tr></table>
+  <table>
+  <tr style="border:0;background:transparent">
+   <td style="border:0"> <font size="2"> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></font></td></tr>
+  <tr style="border:0;background:transparent">
+    <td style="border:0">  <font size="2">For other queries, please send a mail to <u> cultural@colorkerala.org </u></font></td></tr>
+  </table>
+  
