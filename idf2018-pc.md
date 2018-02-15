@@ -22,6 +22,7 @@ bigimg:
 </form>
    </td>
   </tr></table>
+  <br/><br/><br/>
   <table>
   <tr style="border:0;background:transparent">
    <td style="border:0"> <font size="2"> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></font></td></tr>
