@@ -13,7 +13,7 @@ bigimg:
  </td></tr>
   </table>
   <table align="center" style="border:0"> <tr style="border:0;background:transparent">
-  <td style="border:0;background:transparent"><br/><br/><br/><br/><label>Payment of $10 required for non members </label> </td> <td style="border:0;background:transparent"> <br/><br/><br/><br/>
+  <td style="border:0;background:transparent"><br/><label>Payment of $10 required for non members </label> </td> <td style="border:0;background:transparent"> <br/><br/><br/><br/>
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4RTLS9TJ2SJVY">
