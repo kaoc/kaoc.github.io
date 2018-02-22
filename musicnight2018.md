@@ -43,7 +43,8 @@ opacity: 10;
   </td></tr>
    
   <tr style="border:0;background:transparent" ><td style="border:0;background:transparent" > <br/><br/>
-  <font color="blue"> <strong>Singers/Music bands please  <a href="http://www.colorkerala.org/mn2018_reg/">click here</a> for completing your registration </strong></font>
+  <font color="blue"> <strong>Singers/Music bands please  click here for completing your registration </strong></font><br/>
+  <font color="red" size="2"> &nbsp;Registration is closed, please contact contact@colorkerala.org for additional assistance </font>
     </td></tr>
 </table>
 <br/><br/>
