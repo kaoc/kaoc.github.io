@@ -8,7 +8,7 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-<table style="border:0">
+<table align="center" style="border:0">
 <tr style="border:0"><td style="border:0">Event Name </td><td style="border:0">Date(including Tentative)</td><td style="border:0">Loaction</td></tr>
 <tr style="border:0"><td style="border:0"><strong>Family Music Night 2018</strong></td><td style="border:0">April-07-2018</td><td style="border:0"></td></tr>
 <tr><td style="border:0"><strong>Indian Dance Festival 2018 - Alankara</strong></td><td style="border:0">May-05-2018</td><td style="border:0"></td></tr>
