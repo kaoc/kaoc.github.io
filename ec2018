@@ -8,7 +8,7 @@ bigimg:
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
-|Event Name                     |Date(including Tentative)              |Location                      |
+<!-- |Event Name                     |Date(including Tentative)              |Location                      |
 |:-----------------------------:|:-------------------------------------:|-----------------------------:|
 |**Family Music Night 2018**    | April-07-2018                         |  |
 |**Indian Dance Festival 2018 - Alankara| May-05-2018                   ||
@@ -17,3 +17,13 @@ bigimg:
 |**Christmas 2018 **             |  December-08-2018\*                  ||
 
 ###### *\*Dates are tentative*
+-->
+<table>
+<tr><td>Event Name </td><td>Date(including Tentative)</td><td>Loaction</td></tr>
+<tr><td><strong>Family Music Night 2018</strong></td><td>April-07-2018</td><td></td></tr>
+<tr><td><strong>Indian Dance Festival 2018 - Alankara</strong></td><td>May-05-2018</td><td></td></tr>
+<tr><td><strong>Family Picnic 2018</strong></td><td>July-28-2018*</td><td></td></tr>
+<tr><td><strong>Onam 2018</strong></td><td>September-08-2018*</td><td></td></tr>
+<tr><td><strong>Christmas 2018</strong></td><td>December-08-2018*</td><td></td></tr>
+</table>
+*\*Dates are tentative*
