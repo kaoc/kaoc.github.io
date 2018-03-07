@@ -32,6 +32,7 @@ navbar-links:
   Events: 
     - Upcoming Events: "upcoming-events"
     - Past Events: "past-events"
+    - Event Calendar: "ec2018"
   Gallery: 
     - Photos: "photos-gallery"
     - Videos: "videos-gallery"
