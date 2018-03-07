@@ -14,7 +14,6 @@ bigimg:
  </td></tr>
   </table>
   <table align="center" style="border:0"> <tr style="border:0;background:transparent">
-      </td>
   </tr></table>
   <br/><br/><br/>
   
