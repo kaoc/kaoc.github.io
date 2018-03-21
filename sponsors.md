@@ -32,7 +32,7 @@ To more about sponsorship options, contact Priya Murali at [president@colorkeral
 <br>
 <div id="container">
 	{% for image in site.static_files %}
-		{% if image.path contains 'sponsors/2017' %}
+		{% if image.path contains 'sponsors/2018' %}
 			<img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="425" width="275"/>
 		{% endif %}
 	{% endfor %}
