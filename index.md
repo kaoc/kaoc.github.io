@@ -49,15 +49,15 @@ css: /css/infinite-scrolling-photo-banner.css
 <div id="container">
     <div class="photobanner">
 		{% for image in site.static_files %}
-			{% if image.path contains 'sponsors/2017/02' %}
+			{% if image.path contains 'sponsors/2018/02' %}
 				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
-			{% elsif image.path contains 'sponsors/2017' %}
+			{% elsif image.path contains 'sponsors/2018' %}
 				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
 			{% endif %}
 		{% endfor %}
         <!-- REPEAT First few sponsors-->	
 		{% for image in site.static_files %}
-			{% if image.path contains 'sponsors/2017/0' %}
+			{% if image.path contains 'sponsors/2018/0' %}
 				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
 			{% endif %}
 		{% endfor %}
