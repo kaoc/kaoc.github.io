@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Esteemed Sponsors
-subtitle: A BIG Thanks to our 2017 sponsors!
+subtitle: A BIG Thanks to our sponsors!
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
