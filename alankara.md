@@ -22,6 +22,9 @@ opacity: 10;
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <tr style="border:0"><td align="center" style="border:0">
+	<img src="/img/idf2018/bigimgs/primary-badge.jpg" width="75" height="30"> Presents <img src="/img/idf2018/bigimgs/IDFLogo.jpeg" width="75" height="30">
+	</td></tr>
+<tr style="border:0"><td align="center" style="border:0">
 	<img src="/img/idf2018/alankara_initial .jpg" width="500" height="800" align="center">
 	</td></tr>
 <tr style="border:0"><td align="center" style="border:0">
