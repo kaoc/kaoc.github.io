@@ -16,7 +16,7 @@ background-repeat:no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
-opacity: 4;
+opacity: 1;
 }
 </style>
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
@@ -27,7 +27,7 @@ opacity: 4;
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 	<img src="/img/idf2018/alankara_initial .jpg" width="500" height="800" align="center">
 	</td></tr>
-<tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
+<tr style="border:0"><td align="center" style="border:0">
 Note : You will be charged extra 1 dollar for paypal transactions
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
