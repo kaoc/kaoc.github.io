@@ -13,8 +13,8 @@ height: 100%;
 width: 100%;
 position: absolute;
 background-repeat:no-repeat;
-background-position: center;
-background-attachment: scroll;
+background-position: center center;
+background-attachment: fixed;
 background-size: cover;
 opacity: 1;
 }
