@@ -19,21 +19,21 @@ background-size: cover;
 opacity: 10;
 }
 </style>
-<table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
+<table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
-<tr style="border:0"><td align="center" style="border:0">
+<tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 	<img src="/img/idf2018/bigimgs/primary-badge.jpg" width="75" height="30"> Presents <img src="/img/idf2018/bigimgs/IDFLogo.jpeg" width="75" height="30">
 	</td></tr>
-<tr style="border:0"><td align="center" style="border:0">
+<tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 	<img src="/img/idf2018/alankara_initial .jpg" width="500" height="800" align="center">
 	</td></tr>
-<tr style="border:0"><td align="center" style="border:0">
+<tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 Note : You will be charged extra 1 dollar for paypal transactions
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
 <table>
-<tr><td><input type="hidden" name="on0" value="Quantity can be changed later on PayPal site.">Quantity can be changed later on PayPal site.</td></tr><tr><td><select name="os0">
+<tr style="border:0;background:transparent><td style="border:0;background:transparent><input type="hidden" name="on0" value="Quantity can be changed later on PayPal site.">Quantity can be changed later on PayPal site.</td></tr><tr><td><select name="os0">
 	<option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
 	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option>
 	<option value="10 years & older">10 years & older $12.00 USD</option>
