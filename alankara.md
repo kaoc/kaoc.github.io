@@ -14,7 +14,7 @@ width: 100%;
 position: absolute;
 background-repeat:no-repeat;
 background-position: center center;
-background-attachment: fixed;
+background-attachment: scroll;
 background-size: cover;
 opacity: 1;
 }
