@@ -1,3 +1,11 @@
+---
+layout : page_auth_test
+bigimg:
+   - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
+---
+
+<table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
+ <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
@@ -13,3 +21,4 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+</table>
