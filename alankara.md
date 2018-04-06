@@ -2,6 +2,8 @@
 layout : page_auth_test
 bigimg:
    - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
+   - "/img/idf2018/bigimgs/primary-badge.jpg" : ""
+
 ---
 
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
