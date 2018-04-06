@@ -5,11 +5,24 @@ bigimg:
    - "/img/idf2018/bigimgs/primary-badge.jpg" : ""
 
 ---
-
+<style type="text/css">
+body 
+{
+background-image:url("/img/idf2018/alankara_initial .jpg");
+height: 100%;
+width: 100%;
+position: absolute;
+background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+opacity: 10;
+}
+</style>
 <table align="center" style="border:0"> <tr style="border:0"><td align="center" style="border:0"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <tr style="border:0"><td align="center" style="border:0">
-	<img src="/img/idf2018/alankara_initial .jpg">
+	<img src="/img/idf2018/alankara_initial .jpg" width="500" height="800" align="center">
 	</td></tr>
 <tr style="border:0"><td align="center" style="border:0">
 Note : You will be charged extra 1 dollar for paypal transactions
