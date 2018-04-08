@@ -8,7 +8,7 @@ bigimg:
 <style type="text/css">
 body 
 {
-background-image:url("/img/idf2018/alankara_initial .jpg");
+background-image:url("/img/idf2018/alankara_template.jpg");
 height: 100%;
 width: 100%;
 position: absolute;
@@ -22,9 +22,6 @@ opacity: 1;
 <!-- background-image:url("/img/idf2018/alankara_initial .jpg"); -->
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
-<tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
-	<img src="/img/idf2018/bigimgs/primary-badge.jpg" width="300" height="50"> <font size="5px" style="color:red">Proudly Presents</font>
-	</td></tr>
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 	<center><img src="/img/idf2018/alankara_initial .jpg" width="500" height="800"></center>
 	</td></tr>
