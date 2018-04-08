@@ -43,4 +43,7 @@ Note : You will be charged extra 1 dollar for paypal transactions
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</td></tr>
+<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
+<font style="color:red"><strong> For Registration Please <a href="http://www.colorkerala.org/idf2018/"> click here </a> </strong>	</font>
+</td></tr>	
 </table>
