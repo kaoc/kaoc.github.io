@@ -3,7 +3,8 @@ layout: post
 tag: upcoming-event
 title: Alankara - Indian Dance Festival 2018, presented by Oracle
 bigimg:
- - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
+   - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
+   - "/img/idf2018/bigimgs/primary-badge.jpg" : ""
 ---
 <!--<script type = "text/javascript">
 function ol(){
