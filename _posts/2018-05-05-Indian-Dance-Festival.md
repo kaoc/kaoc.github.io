@@ -8,7 +8,7 @@ bigimg:
 ---
 <script type = "text/javascript">
 function ol(){
-window.location.replace("http://www.colorkerala.org/alankara/");
+window.location.replace("http://www.colorkerala.org/alankara");
 };
 window.onload = ol;
 </script> 
