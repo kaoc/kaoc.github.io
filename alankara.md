@@ -5,7 +5,7 @@ bigimg:
    - "/img/idf2018/bigimgs/primary-badge.jpg" : ""
 
 ---
-<style type="text/css">
+<!--<style type="text/css">
 body 
 {
 background-image:url("/img/idf2018/alankara_template.jpg");
