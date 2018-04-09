@@ -6,12 +6,12 @@ bigimg:
    - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
    - "/img/idf2018/bigimgs/primary-badge.jpg" : ""
 ---
-<!--<script type = "text/javascript">
+<script type = "text/javascript">
 function ol(){
-window.location.replace("http://www.colorkerala.org/idf2018/");
+window.location.replace("http://www.colorkerala.org/alankara/");
 };
 window.onload = ol;
-</script> -->
+</script> 
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
