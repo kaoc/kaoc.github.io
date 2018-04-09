@@ -26,7 +26,7 @@ opacity: 1;
 	<center><img src="/img/idf2018/alankara_initial .jpg" width="500" height="800"></center>
 	</td></tr>
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
-<font style="color:red;background-color:yellow;size:3px"><center>Note : You will be charged extra 1 dollar for paypal transactions</center></font>
+<font style="color:red;background-color:yellow"><center>Note : You will be charged extra 1 dollar for paypal transactions</center></font>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
