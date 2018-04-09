@@ -34,8 +34,8 @@ opacity: 1;
 <tr ><td><input type="hidden" name="on0" value="Quantity can be changed later on PayPal site.">Quantity can be changed later on PayPal site.</td></tr><tr><td><select name="os0">
 	<option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
 	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option>
-	<option value="10 years & older">10 years & older $12.00 USD</option>
-	<option value="Kids 5 to 10 years">Kids 5 to 10 years $6.00 USD</option>
+	<!--<option value="10 years & older">10 years & older $12.00 USD</option>
+	<option value="Kids 5 to 10 years">Kids 5 to 10 years $6.00 USD</option> -->
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
@@ -44,6 +44,6 @@ opacity: 1;
 </form>
 	</td></tr>
 <tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-<font style="color:red;background-color:yellow"><strong> For Registration Please <a href="http://www.colorkerala.org/idf2018/"> click here </a> </strong>	</font>
+<font style="color:red;background-color:yellow"><strong> For Filling the consent form <a href="http://www.colorkerala.org/idf2018/"> click here </a> </strong>	</font>
 </td></tr>	
 </table>
