@@ -1,7 +1,7 @@
 ---
 layout : page_auth_test
 title: Madhuram Malayalam
-subtitle: Malayalam training 
+subtitle: Malayalam classes 
 bigimg:
   - "/img/big-imgs/bigimg1.jpg" : ""
   - "/img/big-imgs/bigimg2.jpg" : ""
