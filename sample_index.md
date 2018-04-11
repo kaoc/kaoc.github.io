@@ -11,9 +11,9 @@ css: css/infinite-scrolling-photo-banner-test.css
 ---
 <h1> trial 14 </h1>
 <table align="left" style="border:0">
-	<col width="500">
-	<col width="800">
-	<tr><td >
+	<col width="300">
+	<col width="1000">
+	<tr style="border:0"><td style="border:0">
 <div class="row">
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
@@ -61,7 +61,7 @@ css: css/infinite-scrolling-photo-banner-test.css
   
 </div>
 
-</td><td> 
+</td><td style="border:0"> 
 <p>	
 	
 Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.
