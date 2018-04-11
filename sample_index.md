@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 12 </h1>
+<h1> trial 13 </h1>
 <table align="left" style="border:0">
 	<col width="500">
 	<col width="800">
@@ -47,6 +47,7 @@ css: infinite-scrolling-photo-banner-test.css
 						</td></tr></table>	
 				{% endif %} 	
 			</article>
+				<br/><br/>
   		{% endfor %}
 	</div>
   </div>
@@ -59,6 +60,18 @@ css: infinite-scrolling-photo-banner-test.css
   </div> -->
   
 </div>
+
+</td><td> 
+<p>	
+	
+Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.
+	</p>
+	<p>
+		
+<strong>KAOC</strong> is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
+	</p>
+</td></tr>
+</table>
 {% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
@@ -73,30 +86,19 @@ css: infinite-scrolling-photo-banner-test.css
   	{% endif %}
 	</ul>
 	{% endif %}
-</td><td> 
-<p>	
-	
-Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.
-	</p>
-	<p>
-		
-<strong>KAOC</strong> is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
-	</p>
-</td></tr>
-<tr><td>
-</td></tr>
-</table>	
 <div id="container">
     <div class="photobanner">
 		{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2018/02' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="180"/></a>
+				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
+			{% elsif image.path contains 'sponsors/2018' %}
+				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
 			{% endif %}
 		{% endfor %}
         <!-- REPEAT First few sponsors-->	
-	    {% for image in site.static_files %}
+		{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2018/0' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="180"/></a>
+				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
 			{% endif %}
 		{% endfor %}
     </div>
