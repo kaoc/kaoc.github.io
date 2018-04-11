@@ -7,9 +7,9 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
-css: css/infinite-scrolling-photo-banner-test.css
+css: /css/infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 14 </h1>
+<h1> trial 15 </h1>
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="1000">
