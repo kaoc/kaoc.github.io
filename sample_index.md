@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 15 </h1>
+<h1> trial 16 </h1>
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="1000">
@@ -71,7 +71,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 <strong>KAOC</strong> is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
 	</p>
 </td></tr>
-</table>
+<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 {% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
@@ -103,4 +103,4 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 		{% endfor %}
     </div>
 </div>
-
+</table>
