@@ -18,7 +18,7 @@ css: infinite-scrolling-photo-banner-test.css
   		{% for post in site.tags.upcoming-event reversed %}
 			<article class="post-preview">
 				<a href="{{ post.url | prepend: site.baseurl }}">
-					<h3 class="post-title">{{ post.title }}</h3>
+					{{ post.title }}
 				</a>
 				<p class="post-meta">
 					Event will be held on {{ post.date | date: "%B %-d, %Y" }}
