@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 3 </h1>
+<h1> trial 4 </h1>
 <table>
 	<tr><td>
 <div class="row">
