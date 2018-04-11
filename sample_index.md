@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 1 </h1>
+<h1> trial 2 </h1>
 <table>
 	<tr><td>
 <div class="row">
@@ -63,6 +63,11 @@ css: infinite-scrolling-photo-banner-test.css
 			{% endif %}
 		{% endfor %}
         <!-- REPEAT First few sponsors-->	
+	    {% for image in site.static_files %}
+			{% if image.path contains 'sponsors/2018/0' %}
+				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="180"/></a>
+			{% endif %}
+		{% endfor %}
     </div>
 </div>
 
