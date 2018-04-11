@@ -9,8 +9,12 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-<h1> trial 26 </h1>
-
+<h1> trial 28 </h1>
+<script>
+img:hover{
+	transform:scale(1.4);
+}	
+</script>
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="1000">
