@@ -52,7 +52,8 @@ css: infinite-scrolling-photo-banner-test.css
 	{% endif %}
 </td><td> About KAOC </td></tr>
 <tr><td>
-	
+</td></tr>
+</table>	
 <div id="container">
     <div class="photobanner">
 		{% for image in site.static_files %}
@@ -70,5 +71,4 @@ css: infinite-scrolling-photo-banner-test.css
 		{% endfor %}
     </div>
 </div>
-</td></tr>
-</table>
+
