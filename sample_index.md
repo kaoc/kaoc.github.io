@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 6 </h1>
+<h1> trial 7 </h1>
 <table>
 	<tr><td>
 <div class="row">
@@ -23,20 +23,20 @@ css: infinite-scrolling-photo-banner-test.css
 				{% else %}	
 				<a href="{{ post.url | prepend: site.baseurl }}">
 				{% endif %}
-					<strong>Event : {{ post.title }}</strong> <br/>
+					<p><strong>Event : {{ post.title }}</strong> <br/></p>
 				</a>
 				<font size="2px">
-					<strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }}
+					<p><strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }}</p>
 				</font>	
 				{% if post.time%}
-					<strong>Time : </strong>{{ post.time }}	<br/>
+					<p><strong>Time : </strong>{{ post.time }}	<br/> </p>
 				{% endif %}
 				{% if post.location %}
-					<strong>Where : </strong> {{ post.location }} <br/>	
+					<p><strong>Where : </strong> {{ post.location }} <br/>	</p>
 				{% endif %} 
 				{% if post.address %}
 					<table align= "left" style="border:0"><tr style="border:0;background:#cccccc"><td style="border:0">
-					<strong>Where : </strong> {{ post.location }} <br/>
+					 {{ post.address }} <br/>
 						</td></tr></table>	
 				{% endif %} 	
 			</article>
