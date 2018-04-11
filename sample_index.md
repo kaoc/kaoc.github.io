@@ -73,6 +73,8 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	</p>
 </td></tr>
 <tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">
+		</td></tr>
+</table>
 {% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
@@ -104,5 +106,4 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 		{% endfor %}
     </div>
 </div>
-	</td></tr>
-</table>
+
