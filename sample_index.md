@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 2 </h1>
+<h1> trial 3 </h1>
 <table>
 	<tr><td>
 <div class="row">
@@ -18,7 +18,12 @@ css: infinite-scrolling-photo-banner-test.css
   	<div class="posts-list">
   		{% for post in site.tags.upcoming-event reversed %}
 			<article class="post-preview">
+				{% if post.redirect_url %}
+				<a href=" {{ post.redirect_url }}">
+				{% else %}	
 				<a href="{{ post.url | prepend: site.baseurl }}">
+				{% endif %}
+				
 					<strong>{{ post.title }}</strong>
 				</a>
 				<p class="post-meta">
