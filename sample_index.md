@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 20 </h1>
+<h1> trial 21 </h1>
 
 <table align="left" style="border:0">
 	<col width="300">
@@ -89,22 +89,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
   	{% endif %}
 	</ul>
 	{% endif %}
-<!--<div id="container">
-    <div class="photobanner"> -->
-<!--		{% for image in site.static_files %}
-			{% if image.path contains 'sponsors/2018/02' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
-			{% elsif image.path contains 'sponsors/2018' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
-			{% endif %}
-		{% endfor %}
-        <!-- REPEAT First few sponsors-->	
-		<!--{% for image in site.static_files %}
-			{% if image.path contains 'sponsors/2018/0' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
-			{% endif %}
-		{% endfor %} -->
-	    {% for image in site.static_files %}
+	 {% for image in site.static_files %}
 	    	<div id="sponsors">
 	    	<marquee behaviour="scroll" direction="left" height="600" scrollamount="3" style="height:600px;width:250px;" width="250px">
 		{% if image.path contains 'sponsors/2018/02' %}
@@ -113,6 +98,6 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 		</marquee>
 			</div>
 	    {% endfor %}
-	    
-    </div>
-<!--</div> -->
+	</td></tr>
+	</table>
+ 
