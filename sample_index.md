@@ -34,10 +34,9 @@ css: infinite-scrolling-photo-banner-test.css
   	   <img src="/img/sponsors/smartpress-logo-blue-horizontal-png.png" alt="Smartpress.com logo" height="40" width="240"/>
 	</a>
   </div> -->
+  
 </div>
-</td><td> About KAOC </td></tr>
-<tr><td>
-	{% if paginator.total_pages > 1 %}
+{% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
   	<li class="previous">
@@ -51,6 +50,9 @@ css: infinite-scrolling-photo-banner-test.css
   	{% endif %}
 	</ul>
 	{% endif %}
+</td><td> About KAOC </td></tr>
+<tr><td>
+	
 <div id="container">
     <div class="photobanner">
 		{% for image in site.static_files %}
