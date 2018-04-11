@@ -9,11 +9,11 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 30 </h1>
 
 <table align="left" style="border:0">
 	<col width="300">
-	<col width="1000">
+	<col width="800">
+	<col width="250">
 	<tr style="border:0"><td style="border:0">
 <div class="row">
   <div class="col-md-8">
@@ -71,13 +71,13 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 		
 <strong>KAOC</strong> is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
 	</p>
-</td></tr>
-<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">
+</td><
+<td style="border:0;background:transparent" colspan="2">
 	<div id="sponsors">
-	    	<marquee behaviour="scroll" direction="left" height="600" scrollamount="3" style="height:600px;width:1300px;" width="800px">
+	    	<marquee behaviour="scroll" direction="up" height="600" scrollamount="3" style="height:600px;width:300px;" width="800px">
 	{% for image in site.static_files %}	    	
 		{% if image.path contains 'sponsors/2018/' %}
-			<a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:200px;width:100px"/></a> &nbsp; &nbsp;
+			<div> <a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:200px;width:100px"/></a> </div>
 	    	{% endif %}
 	{% endfor %}
 	     </marquee> 
