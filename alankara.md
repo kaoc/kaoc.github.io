@@ -1,8 +1,5 @@
 ---
 layout : page_auth_test
-bigimg:
-   - "/img/idf2018/bigimgs/IDFLogo.jpeg" : ""
-   - "/img/idf2018/bigimgs/primary-badge.jpg" : ""
 
 ---
 <!--<style type="text/css">
