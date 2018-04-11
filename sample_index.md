@@ -9,9 +9,11 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 10 </h1>
+<h1> trial 11 </h1>
 <table align="left" style="border:0">
-	<tr><td>
+	<col width="500">
+	<col width="800">
+	<tr><td style:"border:0; width>
 <div class="row">
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
@@ -23,24 +25,24 @@ css: infinite-scrolling-photo-banner-test.css
 				{% else %}	
 				<a href="{{ post.url | prepend: site.baseurl }}">
 				{% endif %}
-					<strong>Event : {{ post.title }}</strong> <br/>
+					<strong>Event : {{ post.title }}</strong> <br\>
 				</a>
 				<font size="2px">
-					<strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }}
+					<strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }} <br\>
 				</font>	
 				{% if post.time%}
 					<font size="2px">
-					<strong>Time : </strong>{{ post.time }}	<br/> 
+					<strong>Time : </strong>{{ post.time }}	<br\> 
 					</font>	
 				{% endif %}
 				{% if post.location %}
 					<font size="2px">
-					<strong>Where : </strong> {{ post.location }} <br/>
+					<strong>Where : </strong> {{ post.location }} <br\>
 					</font>	
 				{% endif %} 
 				{% if post.address %}					
 					<table align= "left" style="border:0"><tr style="border:0;background:#cccccc"><td style="border:0">
-					<font size="1px"> {{ post.address }} </font><br/>
+					<font size="1px"> {{ post.address }} </font><br\>
 						</td></tr></table>	
 				{% endif %} 	
 			</article>
@@ -71,11 +73,15 @@ css: infinite-scrolling-photo-banner-test.css
 	</ul>
 	{% endif %}
 </td><td> 
+<p>	
 	
-Kerala Association of Colorado (**KAOC**) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.<br/>
-
+Kerala Association of Colorado (**KAOC**) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.
+	
+	</p>
+	<p>
+		
 **KAOC** is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
-
+	</p>
 </td></tr>
 <tr><td>
 </td></tr>
