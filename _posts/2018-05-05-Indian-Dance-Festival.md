@@ -2,6 +2,7 @@
 layout: post
 tag: upcoming-event
 title: Alankara - 19th Oracle Indian Dance Festival 2018
+redirect_url: http://www.colorkerala.org/alankara
 ---
 <script type = "text/javascript">
 function ol(){
