@@ -71,7 +71,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 <strong>KAOC</strong> is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
 	</p>
 </td></tr>
-<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
+<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">
 {% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
