@@ -9,8 +9,8 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 19 </h1>
-<div>
+<h1> trial 20 </h1>
+
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="1000">
@@ -73,10 +73,8 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	</p>
 </td></tr>
 <tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">
-		</td></tr>
-</table>
-</div>
-<div>
+		
+
 {% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
@@ -91,9 +89,9 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
   	{% endif %}
 	</ul>
 	{% endif %}
-<div id="container">
-    <div class="photobanner">
-		{% for image in site.static_files %}
+<!--<div id="container">
+    <div class="photobanner"> -->
+<!--		{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2018/02' %}
 				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
 			{% elsif image.path contains 'sponsors/2018' %}
@@ -101,11 +99,20 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 			{% endif %}
 		{% endfor %}
         <!-- REPEAT First few sponsors-->	
-		{% for image in site.static_files %}
+		<!--{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2018/0' %}
 				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="100"/></a>
 			{% endif %}
-		{% endfor %}
+		{% endfor %} -->
+	    {% for image in site.static_files %}
+	    	<div id="sponsors">
+	    	<marquee behaviour="scroll" direction="left" height="600" scrollamount="3" style="height:600px;width:250px;" width="250px">
+		{% if image.path contains 'sponsors/2018/02' %}
+			<div><a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:600px;width:250px" onScroll="transform:scale(1.4)"/></a></div>
+	    	{% endif %}
+		</marquee>
+			</div>
+	    {% endfor %}
+	    
     </div>
-</div>
-</div>
+<!--</div> -->
