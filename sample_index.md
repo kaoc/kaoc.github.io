@@ -13,7 +13,7 @@ css: infinite-scrolling-photo-banner-test.css
 <table align="left" style="border:0">
 	<col width="500">
 	<col width="800">
-	<tr><td style:"border:0; width>
+	<tr><td >
 <div class="row">
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
