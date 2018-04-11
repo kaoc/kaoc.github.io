@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-<h1> trial 28 </h1>
+<h1> trial 29 </h1>
 <script>
 img:hover{
 	transform:scale(1.4);
@@ -81,7 +81,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	    	<marquee behaviour="scroll" direction="left" height="600" scrollamount="3" style="height:600px;width:1300px;" width="800px">
 	{% for image in site.static_files %}	    	
 		{% if image.path contains 'sponsors/2018/' %}
-			<a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:200px;width:100px" onScroll="transform:scale(1.4)"/></a>
+			<a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:200px;width:100px"/></a> &nbsp &nbsp
 	    	{% endif %}
 	{% endfor %}
 	     </marquee> 
