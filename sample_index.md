@@ -55,15 +55,15 @@ css: infinite-scrolling-photo-banner-test.css
     <div class="photobanner">
 		{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2018/02' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
+				<a href="{{ site.baseurl }}{{ image.path }}"><img class="first" src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="180"/></a>
 			{% elsif image.path contains 'sponsors/2018' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
+				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="180"/></a>
 			{% endif %}
 		{% endfor %}
         <!-- REPEAT First few sponsors-->	
 		{% for image in site.static_files %}
 			{% if image.path contains 'sponsors/2018/0' %}
-				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="270"/></a>
+				<a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="200" width="180"/></a>
 			{% endif %}
 		{% endfor %}
     </div>
