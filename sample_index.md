@@ -9,8 +9,8 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 css: /css/infinite-scrolling-photo-banner-test.css
 ---
-<h1> trial 18 </h1>
-
+<h1> trial 19 </h1>
+<div>
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="1000">
@@ -75,6 +75,8 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 <tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">
 		</td></tr>
 </table>
+</div>
+<div>
 {% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
@@ -106,4 +108,4 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 		{% endfor %}
     </div>
 </div>
-
+</div>
