@@ -7,7 +7,7 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
-css: /css/infinite-scrolling-photo-banner-test.css
+
 ---
 <h1> trial 21 </h1>
 
@@ -73,31 +73,15 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	</p>
 </td></tr>
 <tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">
-		
-
-{% if paginator.total_pages > 1 %}
-	<ul class="pager main-pager">
-  	{% if paginator.previous_page %}
-  	<li class="previous">
-    	<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  	</li>
-  	{% endif %}
-  	{% if paginator.next_page %}
-  	<li class="next">
-    	<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  	</li>
-  	{% endif %}
-	</ul>
-	{% endif %}
-	 {% for image in site.static_files %}
-	    	<div id="sponsors">
+	<div id="sponsors">
 	    	<marquee behaviour="scroll" direction="left" height="600" scrollamount="3" style="height:600px;width:250px;" width="250px">
+	{% for image in site.static_files %}	    	
 		{% if image.path contains 'sponsors/2018/02' %}
 			<div><a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:600px;width:250px" onScroll="transform:scale(1.4)"/></a></div>
 	    	{% endif %}
-		</marquee>
+	{% endfor %}
+	    </marquee>
 			</div>
-	    {% endfor %}
 	</td></tr>
 	</table>
  
