@@ -7,8 +7,10 @@ bigimg:
   - "/img/big-imgs/bigimg2.jpg" : ""
   - "/img/big-imgs/bigimg3.jpg" : ""
   - "/img/big-imgs/bigimg4.jpg" : ""
-css: /css/infinite-scrolling-photo-banner.css
+css: infinite-scrolling-photo-banner-test.css
 ---
+<table>
+	<tr><td>
 <div class="row">
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
@@ -25,6 +27,7 @@ css: /css/infinite-scrolling-photo-banner.css
   		{% endfor %}
 	</div>
   </div>
+	
   <!-- <div class="col-md-2 col-md-offset-1">
   	Our online printing service partner!
   	<a href="https://smartpress.com">
@@ -32,6 +35,8 @@ css: /css/infinite-scrolling-photo-banner.css
 	</a>
   </div> -->
 </div>
+</td><td> About KAOC </td></tr>
+<tr><td>
 	{% if paginator.total_pages > 1 %}
 	<ul class="pager main-pager">
   	{% if paginator.previous_page %}
@@ -63,3 +68,5 @@ css: /css/infinite-scrolling-photo-banner.css
 		{% endfor %}
     </div>
 </div>
+</td></tr>
+</table>
