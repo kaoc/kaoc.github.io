@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Kerala Association of Colorado
 subtitle: Fresh ideas with traditional values.
