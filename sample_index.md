@@ -9,12 +9,14 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-
-<table align="left" style="border:0">
+<h2>trial 1</h2>
+<!--<table align="left" style="border:0"> -->
+	<table>
 	<col width="300">
 	<col width="800">
 	<col width="250">
-	<tr style="border:0"><td style="border:0">
+	<!--<tr style="border:0"><td style="border:0">-->
+	<tr><td>
 <div class="row">
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
@@ -26,7 +28,7 @@ bigimg:
 				{% else %}	
 				<a href="{{ post.url | prepend: site.baseurl }}">
 				{% endif %}
-					<font size="2px">
+					<font size="4px">
 						<strong>Event : {{ post.title }}</strong> </font><br/>				
 				</a>
 				<font size="2px">
@@ -62,7 +64,9 @@ bigimg:
   
 </div>
 
-</td><td style="border:0"> 
+</td>
+<!--<td style="border:0"> -->
+<td>
 <font align="left">
 <p>		
 Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.
@@ -74,7 +78,8 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	
 </font>
 </td>
-<td style="border:0;background:transparent" colspan="2">
+<!--<td style="border:0;background:transparent">-->
+<td>
 	<div id="sponsors">
 	    	<marquee behaviour="scroll" direction="up" height="600" scrollamount="3" style="height:600px;width:300px;" width="800px">
 	{% for image in site.static_files %}	    	
