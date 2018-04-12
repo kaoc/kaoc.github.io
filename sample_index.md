@@ -9,6 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
+<h2> test 1 </test>
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="800">
@@ -18,7 +19,9 @@ bigimg:
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
   	<div class="posts-list">
-  		{% for post in site.tags.upcoming-event reversed %}
+		<table align="left" style="border:0">
+		{% for post in site.tags.upcoming-event reversed %}
+			<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 			<article class="post-preview">
 				{% if post.redirect_url %}
 				<a href=" {{ post.redirect_url }}">
@@ -48,7 +51,9 @@ bigimg:
 				{% endif %} 	
 			</article>
 				<br/><br/>
+				</td></tr>
   		{% endfor %}
+				</table>
 	</div>
   </div>
 	
