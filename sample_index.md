@@ -9,9 +9,8 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-<h2> test 3 </h2>
 <table align="left" style="border:0">
-	<col width="300">
+	<col width="400">
 	<col width="800">
 	<col width="250">
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
