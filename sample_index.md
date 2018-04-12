@@ -28,7 +28,7 @@ bigimg:
 				{% else %}	
 				<a href="{{ post.url | prepend: site.baseurl }}">
 				{% endif %}
-					<font size="4px">
+					<font size="3px">
 						<strong>Event : {{ post.title }}</strong> </font><br/>				
 				</a>
 				<font size="2px">
