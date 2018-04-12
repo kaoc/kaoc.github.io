@@ -9,13 +9,13 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-<h2>trial 1</h2>
-<!--<table align="left" style="border:0"> -->
-	<table>
+<h2>trial 2</h2>
+<!-- <table align="left" style="border:0"> -->
+	<table align="left">
 	<col width="300">
 	<col width="800">
 	<col width="250">
-	<!--<tr style="border:0"><td style="border:0">-->
+	<!-- <tr style="border:0"><td style="border:0"> -->
 	<tr><td>
 <div class="row">
   <div class="col-md-8">
@@ -65,7 +65,7 @@ bigimg:
 </div>
 
 </td>
-<!--<td style="border:0"> -->
+<!-- <td style="border:0"> -->
 <td>
 <font align="left">
 <p>		
@@ -78,7 +78,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	
 </font>
 </td>
-<!--<td style="border:0;background:transparent">-->
+<!-- <td style="border:0;background:transparent"> -->
 <td>
 	<div id="sponsors">
 	    	<marquee behaviour="scroll" direction="up" height="600" scrollamount="3" style="height:600px;width:300px;" width="800px">
