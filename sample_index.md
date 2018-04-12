@@ -13,7 +13,7 @@ bigimg:
 	<col width="300">
 	<col width="800">
 	<col width="250">
-	<tr><td style="border:0">
+	<tr style="border:0"><td style="border:0">
 <div class="row">
   <div class="col-md-8">
   	<!-- No upcoming events at present, please check back later! -->
