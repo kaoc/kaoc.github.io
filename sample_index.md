@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-<h2>trial 3</h2>
+<h2>trial 4</h2>
 <table align="left">
 	<col width="300">
 	<col width="800">
@@ -63,14 +63,13 @@ bigimg:
 </div>
 
 </td><td>
-<font align="left">
-<p>		
+<font align="center">
+
 Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cultural organization for Malayalees (‘Malayalam’ speaking people or the people from the South Indian state of Kerala) in Colorado, serving for more than 35 years. It acts as a bedrock for all types of arts and cultural activities for Keralites in Colorado.
-	</p>
-	<p>
+<br/><br/>
 		
 <strong>KAOC</strong> is a registered non-profit organization exempt from taxes and certified per the federal regulations for non profit as a 501(c)(3) organization (Fed ID 84-1530554)
-	</p>
+
 	
 </font>
 </td><td>
