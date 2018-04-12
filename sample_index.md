@@ -14,7 +14,7 @@ bigimg:
 	<col width="300">
 	<col width="800">
 	<col width="250">
-	<tr style="border:0"><td style="border:0;background:light blue"><strong><font size="2px">upcoming events</font></strong></td><td style="border:0;background:transparent"></td><td style="border:0;background:transparent"></td></tr>
+	<tr style="border:0;background:transparent"><td style="border:0;background:light blue"><strong><font size="2px">upcoming events</font></strong></td><td style="border:0;background:transparent"></td><td style="border:0;background:transparent"></td></tr>
 	<tr style="border:0"><td style="border:0;background:transparent">
 <div class="row">
   <div class="col-md-8">
