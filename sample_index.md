@@ -9,7 +9,7 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
-<h2> test 1 </test>
+<h2> test 2 </h2>
 <table align="left" style="border:0">
 	<col width="300">
 	<col width="800">
