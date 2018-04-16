@@ -17,6 +17,15 @@ opacity: 1;
 }
 </style>
 <!-- background-image:url("/img/idf2018/alankara_initial .jpg"); -->
+
+<style type="text/css">
+.floatButton {
+        position:fixed;
+        width:100%;
+        top:40%;
+        left:0;        
+    }
+</style>
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
@@ -41,3 +50,24 @@ opacity: 1;
 </form>
 	</td></tr>
 </table>
+<div class="floatButton">
+<table align="right">
+	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
+	<form name="buyTktIDF" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
+	<input type="hidden" name="os0" value="*Early Bird Pricing* 10 years & older">	
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" value="purchase adult tickets here">
+	</form>
+		</td></tr>
+	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
+	<form name="buyTktIDF" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
+	<input type="hidden" name="os0" value="*Early Bird Pricing* Kids 5 to 10 years">	
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" value="purchase kids tickets here">
+	</form>
+		</td></tr>
+	</table>
