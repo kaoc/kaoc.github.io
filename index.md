@@ -13,7 +13,7 @@ bigimg:
 .floatButton {
         position:fixed;
         width:100%;
-        top:40%;
+        top:80%;
         left:0;        
     }
 </style>
