@@ -71,3 +71,4 @@ opacity: 1;
 	</form>
 		</td></tr>
 	</table>
+	</div>
