@@ -9,6 +9,14 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 
 ---
+<style type="text/css">
+.floatButton {
+        position:fixed;
+        width:100%;
+        top:40%;
+        left:0;        
+    }
+</style>
 <table align="left" style="border:0">
 	<col width="400">
 	<col width="800">
@@ -88,4 +96,25 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	</td></tr>
 	</table>
  
- 
+ <div class="floatButton">
+<table align="right">
+	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
+	<form name="buyTktIDF" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
+	<input type="hidden" name="os0" value="*Early Bird Pricing* 10 years & older">	
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" value="purchase adults tickets for IDF here">
+	</form>
+		</td></tr>
+	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
+	<form name="buyTktIDF" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="WUPUJRW5J6VDG">
+	<input type="hidden" name="os0" value="*Early Bird Pricing* Kids 5 to 10 years">	
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" value="purchase kids tickets for IDF here">
+	</form>
+		</td></tr>
+	</table>
+	</div>
