@@ -17,15 +17,6 @@ opacity: 1;
 }
 </style>
 <!-- background-image:url("/img/idf2018/alankara_initial .jpg"); -->
-
-<style type="text/css">
-.floatButton {
-        position:fixed;
-        width:100%;
-        top:40%;
-        left:0;        
-    }
-</style>
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
@@ -48,6 +39,7 @@ opacity: 1;
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>	</td></tr>
-</table>
+</form>	
+	</td></tr>
+	</table>
 	
