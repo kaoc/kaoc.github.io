@@ -1,6 +1,5 @@
 ---
 layout : page_auth_test
-
 ---
 <!--<style type="text/css">
 body 
