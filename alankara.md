@@ -33,8 +33,8 @@ opacity: 1;
 	</td></tr>
 	 <tr><td>
 		<select name="os0">
-	<option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
-	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option>
+	<!--<option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
+	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option> -->
 	<option value="10 years & older">10 years & older $12.00 USD</option>
 	<option value="Kids 5 to 10 years">Kids 5 to 10 years $6.00 USD</option>
 </select> 
