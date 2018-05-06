@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Alankara - 19th Oracle Indian Dance Festival 2018
 redirect_url: http://www.colorkerala.org/alankara
 time: 3:00 PM
