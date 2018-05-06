@@ -16,7 +16,7 @@ opacity: 1;
 }
 </style>
 <!-- background-image:url("/img/idf2018/alankara_initial .jpg"); -->
-<!--<table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
+<table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
  <center><img src="/img/idf2018/nataraja.jpg" width="100" height="100" align="center"></center></td></tr>
 <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent">
 	<center><img src="/img/idf2018/alankara_initial .jpg" width="500" height="800"></center>
@@ -33,7 +33,7 @@ opacity: 1;
 	</td></tr>
 	 <tr><td>
 		<select name="os0">
-	<option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
+	<!-- <option value="*Early Bird Pricing* 10 years & older">*Early Bird Pricing* 10 years & older $10.00 USD</option>
 	<option value="*Early Bird Pricing* Kids 5 to 10 years">*Early Bird Pricing* Kids 5 to 10 years $5.00 USD</option> 
 	<option value="10 years & older">10 years & older $12.00 USD</option>
 	<option value="Kids 5 to 10 years">Kids 5 to 10 years $6.00 USD</option> -->
