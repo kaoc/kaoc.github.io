@@ -19,7 +19,7 @@ bigimg:
       <tr><td> Desi Caliente IDF 2018 </td><td> <iframe width="100" height="150" src="https://www.youtube.com/embed/5jai-9D2NB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
       <tr><td> Noopuram IDF 2018 </td><td> <iframe width="100" height="150" src=""https://www.youtube.com/embed/-E-kamqTWgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
       <tr><td> Ghoomer IDF 2018 </td><td> <iframe width="100" height="150" src="https://www.youtube.com/embed/qZptojG5eHQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr> 
-      <tr><td> Taras IDF 2018 </td><td> <iframe width="100" height="150" src="https://www.youtube.com/embed/sSqGwj5idFA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>    
+      <tr><td> Taras IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/sSqGwj5idFA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>    
      </table>
     </td></tr>
     </table>
