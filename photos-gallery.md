@@ -9,8 +9,8 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 
-<!--Indian Dance Festival 2018 (Alankara) Album  
-[![Indian Dance Festival 2018](/img/thumbnail-IDF2018.png)](https://drive.google.com/embeddedfolderview?id=15rMl2cWZLLrFEEZ0OuvA7IOCK7MzCsK2) -->
+Indian Dance Festival 2018 (Alankara) Album  
+[![Indian Dance Festival 2018](/img/thumbnail-IDF2018.png)](https://drive.google.com/embeddedfolderview?id=15rMl2cWZLLrFEEZ0OuvA7IOCK7MzCsK2#grid) 
 
 Indian Dance Festival 2017 (Ritu) Album  
 [![Indian Dance Festival 2017](/img/thumbnail-IDF2017.png)](https://drive.google.com/embeddedfolderview?id=0B_ScqNBjmixOMFY2YXVJcGJVMjA#grid)
