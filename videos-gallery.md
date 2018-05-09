@@ -19,7 +19,10 @@ bigimg:
       <tr><td> Desi Caliente IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/5jai-9D2NB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
       <tr><td> Noopuram IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/-E-kamqTWgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
       <tr><td> Ghoomer IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/qZptojG5eHQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr> 
-      <tr><td> Taras IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sSqGwj5idFA&t=208s" frameborder="0" allowfullscreen></iframe> </td></tr>    
+      <tr><td> Taras IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sSqGwj5idFA&t=208s" frameborder="0" allowfullscreen></iframe> </td></tr>
+      <tr><td> Natyaratna IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/41YfIPlvv6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
+      <tr><td> Dancing Friends IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCBXMjhSI_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
+      <tr><td> Beats of Bollywood IDF 2018 </td><td> <iframe width="560" height="315" src="https://www.youtube.com/embed/YXuPBkK2SG8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </td></tr>
      </table>
     </td></tr>
     </table>
