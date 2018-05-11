@@ -18,6 +18,7 @@ Priya Murali
 **Email:** [president@colorkerala.org](mailto:president@colorkerala.org)
 
 **signup below to receive KAOC communications**
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
