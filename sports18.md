@@ -51,8 +51,8 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Participants should be between 10 and 18 </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent">  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="ch_enb"> click here to register for Tennis </div></td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="chess_reg"><iframe src="https://goo.gl/forms/xI3DpwxZtZ58dXvk2" width="999" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="ch_enb"> click here to register for Chess </div></td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="chess_reg"><iframe src="https://goo.gl/forms/xI3DpwxZtZ58dXvk2" width="999" height="999" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
 		</td></tr>
 	</table>
 	</td></tr>
