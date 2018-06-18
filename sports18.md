@@ -20,7 +20,7 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 	</td></tr>
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 	<strong> <left>Guidelines for VolleyBall. &nbsp; </left></strong><br/>
-	<table id="Volleyball_G" align="center" style="border:0">
+	<table id="Volleyball_G" align="left" style="border:0">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> In a team maximum permitted non KAOC members is 3 </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> In a team maximum permitted players are 6 </td></tr>
