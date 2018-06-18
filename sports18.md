@@ -1,58 +1,155 @@
 ---
 layout : page_auth_test
 ---
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
-$(document).ready(function() {
-$("#volleyball_reg").hide();
-$("#tennis_reg").hide();
-$("#chess_reg").hide();
-$("#vb_enb").click(function(){$("#volleyball_reg").toggle("slow");$("#tennis_reg").hide();$("#chess_reg").hide();});
-$("#tn_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").toggle("slow");$("#chess_reg").hide();});
-$("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide();$("#chess_reg").toggle("slow");})
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type = "text/javascript">
+$(document).ready(function(){
+$("#sel_danc_scl").hide();
+$("#participant_dd_enb").hide();
+$("#chg_par_nm").hide();
+$("#ntrl").hide();
+$(hide).click(function() {
+$("p").toggle(1000);
+});
+$(show).click(function(){
+$("p").show(1000);
+});
+$("#pull").click(function(){
+$("#reel").slideDown("slow");
+});
+$("#pull").dblclick(function(){
+$("#reel").slideUp("slow");
+});
+
+//$("#dnc_sch_nm").html( function (i,origText){return "<select id=\"dnc_sch_nm_txt\"> <option value=\"school1\">school1</option><option value=\"school2\">school2</option></select>"});
+var dnc_sch_vr = document.createElement("dnc_sch_nm_txt");
+dnc_sch_vr.innerHTML="<select id=\"dnc_sch_nm_txt\"> <option value=\"sch1\">sch1</option> <option value=\"sch2\">sch2</option> <option value=\"sch3\">sch3</option> </select>";
+$("#dnc_sch_nm").append(dnc_sch_vr);
+
+function enable_participant(){
+$("#participant_dd_enb").show("slow");
+
+
+var ppt_nm_vr = document.createElement("ppt_nm_txt");
+if ($("#hid_dnc_sch_nm").val() == "sch1")
+{
+ppt_nm_vr.innerHTML="<select id=\"par_nm_txt_sel\"><option value=\"ps1\">ps1</option><option value=\"ps2\">ps2</option><option value=\"ps3\">ps3</option><option value=\"ps4\">ps4</option></select>";
 }
-)	
+else if ($("#hid_dnc_sch_nm").val() == "sch2")
+{
+ppt_nm_vr.innerHTML="<select id=\"par_nm_txt_sel\"><option value=\"ps21\">ps21</option><option value=\"ps22\">ps22</option><option value=\"ps23\">ps23</option><option value=\"ps24\">ps24</option></select>";
+}
+else if ($("#hid_dnc_sch_nm").val() == "sch3")
+{
+ppt_nm_vr.innerHTML="<select id=\"par_nm_txt_sel\"><option value=\"ps31\">ps31</option><option value=\"ps32\">ps32</option><option value=\"ps33\">ps33</option><option value=\"ps34\">ps34</option></select>";
+}
+$("#par_nm_txt").html("");
+$("#par_nm_txt").append(ppt_nm_vr)
+};
+
+$("#dnc_sch_nm").change(function(){
+//alert("change occurred"+$("#dnc_sch_nm_txt").val());
+$("#hid_dnc_sch_nm").val($("#dnc_sch_nm_txt").val());
+$("#dnc_sch_nm_txt").hide();
+$("#dnc_sch_summ").html("<strong>you selected "+$("#hid_dnc_sch_nm").val()+"</strong>");
+$("#sel_danc_scl").show("slow");
+enable_participant();
+$("#par_nm_txt").show();
+$("#ntrl").show("slow");
+});
+
+$("#par_nm_txt").change(function(){
+$("#hid_participant_nm").val($("#par_nm_txt_sel").val());
+$("#par_nm_txt").hide();
+$("#sel_par_nm").html("<strong>pp "+$("#hid_participant_nm").val()+"</strong>");
+$("#sel_par_nm").show();
+$("#chg_par_nm").show("slow");
+
+});
+
+
+$("#sel_danc_scl").click(function(){
+$("#dnc_sch_summ").html("");
+$("#dnc_sch_nm_txt").show();
+$("#participant_dd_enb").hide();
+$("#par_nm_txt_sel").hide();
+$("#chg_par_nm").hide();
+$("#sel_par_nm").hide();
+$("#ntrl").hide("slow");
+});
+
+$("#chg_par_nm").click(function(){
+$("#sel_par_nm").html("");
+$("#par_nm_txt").show();
+
+});
+
+
+});
 </script>
 
-<table id="main table" align="center" style="border:0" onLoad="resetAll()">
-	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-	<strong> <center>WELCOME TO KAOC’s 2<sup>nd</sup> ANNUAL SPORTS EVENTS. &nbsp; </center></strong><br/>
-	</td></tr>
-	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-	<strong> <left>Guidelines for VolleyBall. &nbsp; </left></strong><br/>
-	<table id="Volleyball_G" align="center" style="border:0">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> In a team maximum permitted non KAOC members is 3 </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> In a team maximum permitted players are 6 </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> In a team maximum permitted players are 9 or 10 (incl subs) </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">4</td><td style="border:0;background:transparent"> 5 dollar entry fee for non KAOC members  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be on July (depending on availability of court)  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="vb_enb"> click here to register for Volleyball </div></td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="volleyball_reg"><iframe src="https://goo.gl/forms/5fA5bkLsxohE2w7a2" width="999" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
-		</td></tr>
-	</table>
-	</td></tr>
-	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-	<strong> <left>Guidelines for Tennis. &nbsp; </left></strong><br/>
-	<table id="Tennis_G" align="center" style="border:0">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Only applicable for KAOC members </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> Singles and Doubles available, in case of doubles please provide the partner name while registering </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="tn_enb"> click here to register for Tennis </div></td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="tennis_reg"><iframe src="https://goo.gl/forms/LRZeKTNg5xRhC9oY2" width="999" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
-		</td></tr>
-	</table>
-	</td></tr>
-	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-	<strong> <left>Guidelines for Chess. &nbsp; </left></strong><br/>
-	<table id="Chess_G" align="center" style="border:0">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Participants should be between 10 and 18 </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent">  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="tn_enb"> click here to register for Tennis </div></td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="tennis_reg"><iframe src="https://goo.gl/forms/xI3DpwxZtZ58dXvk2" width="999" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
-		</td></tr>
-	</table>
-	</td></tr>
+<script type="text/javascript" id="signup">
+$(document).ready(function(){
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function(){
+if (this.readyState == 4 && this.state == 200){
+	myFunction(this);
+}
+};
+xhttp.open("GET","test.xml",true);
+xhttp.send();
+
+function myFunction(xml){
+	var xmlDoc = xml.responseXML;
+	var x = xmlDoc.getElementsByTagName("schoolnm")[0].childNodes[0];
+	x.append(" school");
+	document.getElementById("test").innerHTML = x.data;
+}
+
+
+});
+</script>
+<p> I am hidden </p>
+<input type="button" id="hide" value="Hide Text"/>
+<input type="button" id="show" value="Show Text" />
+<table>
+<tr><td style="background:green"> 
+<div id="pull"> pulled the reel </div>
+</td></tr>
+<tr><td  style="background:red"> 
+<div id="reel"> Data Is pulled </div>
+</td></tr>
+</table>
+<input type="hidden" id="hid_dnc_sch_nm" />
+<table>
+<tr><td style="background:transparent">
+<label> Please select the Dance School Name </label>
+</td>
+<td  style="background:transparent">
+<div id="dnc_sch_nm"></div>
+<div id="dnc_sch_summ"></div>
+</td>
+<td>
+<div id="sel_danc_scl">change school</div>
+</td>
+</tr>
+<input type="hidden" id="hid_participant_nm" />
+<tr id="ntrl">
+<div id="participant_dd_enb">
+<td> 
+<label> select participant name </label>
+</td>
+<td>
+<div id="par_nm_txt"></div>
+<div id="sel_par_nm"></div>
+</td>
+<td>
+<div id="chg_par_nm">change participant</div>
+</div>
+</td>
+</tr>
+</table>
+
+<table id="signup">
+<tr><td>Sample value goes here<div id="test"></div></td></tr>
 </table>
