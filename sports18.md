@@ -48,7 +48,7 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 	<strong> <left>Guidelines for Chess. &nbsp; </left></strong><br/>
 	<table id="Chess_G" align="left" style="border:0">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Participants should be below 18 years of age </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Participants should be below 18 years of age. </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> There will be an entry fee for non-KAOC member's kids. </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Tentative Game will be held in September/October.  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="ch_enb"> <font style="color:red">click here to register for Chess</font> </div></td></tr>
