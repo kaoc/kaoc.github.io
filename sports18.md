@@ -56,3 +56,9 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 	</table>
 	</td></tr>
 </table>
+<table>
+  <tr style="border:0;background:transparent">
+   <td style="border:0"> <font size="2"> For any technical issue, please send a mail to <u> webmaster@colorkerala.org </u></font></td></tr>
+  <tr style="border:0;background:transparent">
+    <td style="border:0">  <font size="2">For other queries, please send a mail to <u> sports@colorkerala.org </u></font></td></tr>
+  </table>
