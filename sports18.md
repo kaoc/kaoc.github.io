@@ -34,11 +34,11 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 	</td></tr>
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 	<strong> <left>Guidelines for Tennis. &nbsp; </left></strong><br/>
-	<table id="Tennis_G" align="center" style="border:0">
+	<table id="Tennis_G" align="left" style="border:0">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Only applicable for KAOC members </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> Singles and Doubles available, in case of doubles please provide the partner name while registering </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="tn_enb"> <font style="color:red">click here to register for Tennis </font></div></td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="tennis_reg"><iframe src="https://goo.gl/forms/LRZeKTNg5xRhC9oY2" width="999" height="1010" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
 		</td></tr>
@@ -46,11 +46,10 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 	</td></tr>
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 	<strong> <left>Guidelines for Chess. &nbsp; </left></strong><br/>
-	<table id="Chess_G" align="center" style="border:0">
+	<table id="Chess_G" align="left" style="border:0">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Participants should be between 10 and 18 </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent">  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> Tentative Game will be on July/August on Weekdays as well as Weekends (depending on availability of court)  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="ch_enb"> <font style="color:red">click here to register for Chess</font> </div></td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="chess_reg"><iframe src="https://goo.gl/forms/xI3DpwxZtZ58dXvk2" width="999" height="999" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
 		</td></tr>
