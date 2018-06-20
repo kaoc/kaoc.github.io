@@ -3,7 +3,7 @@ layout: post
 tag: upcoming-event
 title: KAOC 2nd Annual sports Registration
 redirect_url: http://www.colorkerala.org/sports18
-message: To purchase tickets please click here
+message: To Register please click here
 ---
 <script type = "text/javascript">
 function ol(){
