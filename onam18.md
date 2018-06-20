@@ -14,10 +14,10 @@ $("#fs_enb").click(function(){$("#onam_pgm").hide();$("#fshn_shw").toggle("slow"
 
 <table id="main table" align="center" style="border:0" onLoad="resetAll()">
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-	<strong> <center>WELCOME TO KAOC’s 2<sup>nd</sup> ANNUAL SPORTS EVENTS. &nbsp; </center></strong><br/>
+	<strong> <center>WELCOME TO KAOC’s 2018 ONAM EVENT REGISTRATION PORTAL. &nbsp; </center></strong><br/>
 	</td></tr>
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
-	<strong> <left>Guidelines for Participation. &nbsp; </left></strong><br/>
+	<strong> <left>Guidelines for Onam participation & Fashion show. &nbsp; </left></strong><br/>
 	<table id="Onam_reg" align="left" style="border:0">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent">Participation will be based on <bold>First come first serve basis</bold>. </td></tr>
