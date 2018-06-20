@@ -26,7 +26,8 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> In a team maximum permitted players are 10 (incl substitutes). </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> In a team maximum permitted non-KAOC members is 3. </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">4</td><td style="border:0;background:transparent"> 5 dollar entry fee is applicable for non-KAOC members.  </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> Tentative Game will be held in July (depending on availability of court).  </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">5</td><td style="border:0;background:transparent"> While registering please provide the full name of all participants </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">6</td><td style="border:0;background:transparent"> Game will be held in July (depending on availability of court).  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="vb_enb"> <font style="color:red">click here to register for Volleyball</font> </div></td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="volleyball_reg"><iframe src="https://goo.gl/forms/5fA5bkLsxohE2w7a2" width="999" height="999" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
 		</td></tr>
@@ -38,7 +39,7 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Only applicable for KAOC members. </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> Singles and Doubles available, in case of doubles please provide the partner name while registering. </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Tentative Game will be held in July and August on weekdays/weekends (depending on availability of court).  </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Game will be held in July and August on weekdays/weekends (depending on availability of court).  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="tn_enb"> <font style="color:red">click here to register for Tennis </font></div></td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="tennis_reg"><iframe src="https://goo.gl/forms/LRZeKTNg5xRhC9oY2" width="999" height="1010" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
 		</td></tr>
@@ -50,7 +51,7 @@ $("#ch_enb").click(function(){$("#volleyball_reg").hide();$("#tennis_reg").hide(
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent"> Participants should be below 18 years of age. </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> There will be an entry fee for non-KAOC member's kids. </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Tentative Game will be held in September/October.  </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Game will be held in September/October.  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="ch_enb"> <font style="color:red">click here to register for Chess</font> </div></td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="chess_reg"><iframe src="https://goo.gl/forms/xI3DpwxZtZ58dXvk2" width="999" height="999" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>
 		</td></tr>
