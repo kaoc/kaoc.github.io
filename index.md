@@ -32,7 +32,15 @@ bigimg:
 						<strong>Event : {{ post.title }}</strong> </font><br/>				
 				</a>
 				<font size="2px">
-					<strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }} <br/>
+				{% if post.between %}
+					<strong>Between : </strong> {{post.between}} <br/>
+				{% else %}
+					{% if post.endon %}
+						<strong>Last Date  : </strong> {{post.endon}} <br/>
+					{% else %}
+						<strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }} <br/>
+					{% end if %}
+				{% endif %}	
 				</font>	
 				{% if post.time%}
 					<font size="2px">
