@@ -57,8 +57,7 @@ bigimg:
 					<font size="1px"> {{ post.address }} </font><br/>
 						</td></tr></table>	
 				{% endif %} 	
-			</article>
-				<br/><br/>
+			
 				{% if post.message %}
 					<font size="2px">
 						{% if post.redirect_url %}
@@ -69,6 +68,7 @@ bigimg:
 								{{ post.message }} </a><br/>
 					</font>	
 				{% endif %}
+				</article><br/><br/>
 				</td></tr>
   		{% endfor %}
 				</table>
