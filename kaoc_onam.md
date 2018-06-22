@@ -2,7 +2,7 @@
 layout : page_auth_test
 ---
 
-<!--
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 $(document).ready(function() {
@@ -13,7 +13,7 @@ $("#fs_enb").click(function(){$("#onam_pgm").hide();$("#fshn_shw").toggle("slow"
 }
 )	
 </script>
--->
+
 
 <table id="main table" align="center" style="border:0" onLoad="resetAll()">
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
@@ -46,4 +46,3 @@ $("#fs_enb").click(function(){$("#onam_pgm").hide();$("#fshn_shw").toggle("slow"
   <tr style="border:0;background:transparent">
     <td style="border:0">  <font size="2">For other queries, please send a mail to <u> cultural@colorkerala.org</u> </font></td></tr>
   </table>
--- t4
