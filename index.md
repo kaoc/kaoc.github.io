@@ -39,7 +39,7 @@ bigimg:
 						<strong>Last Date  : </strong> {{post.endon}} <br/>
 					{% else %}
 						<strong>When : </strong> {{ post.date | date: "%B %-d, %Y" }} <br/>
-					{% end if %}
+					{% endif %}
 				{% endif %}	
 				</font>	
 				{% if post.time%}
