@@ -3,7 +3,7 @@ layout: post
 tag: upcoming-event
 title: KAOC Sports 2018
 redirect_url: https://www.colorkerala.org/sports18/
-endon: 2018-June-30
+endon: 2018-July-04
 message: click here to register
 ---
 <script type = "text/javascript">
