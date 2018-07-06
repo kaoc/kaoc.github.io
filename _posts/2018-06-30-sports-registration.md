@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: KAOC Sports 2018
 redirect_url: https://www.colorkerala.org/sports18/
 endon: 2018-July-04
