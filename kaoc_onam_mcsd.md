@@ -22,7 +22,7 @@ $("#mcsd_enb").click(function(){$("#mcsd_pgm").toggle("slow");});
 	<table id="Onam_reg" align="left" style="border:0">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">1</td><td style="border:0;background:transparent">Participation will be based on <bold>First come first serve basis</bold>. </td></tr>
-		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> Committee has the discreation to cancel this program and also make changes required </td></tr>
+		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">2</td><td style="border:0;background:transparent"> Committee has the discreation to cancel this program and also make changes on guidelines </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent">3</td><td style="border:0;background:transparent"> Maximum time duration per performance: <br/>
 		spot dubbing – 5 mins (max 2 programs) <br/>
 		Mimicry competition - 10 to 15 minutes (min 2 participant at a time and upto 5 participants at a time). </td></tr>
@@ -33,8 +33,10 @@ $("#mcsd_enb").click(function(){$("#mcsd_pgm").toggle("slow");});
     <tr style="border:0;background:transparent"><td style="border:0;background:transparent">8</td><td style="border:0;background:transparent">For spot dubbing we prefer the move scene with the sound taken off for the actor that you are willing to do the dubbing</td></tr>
     <tr style="border:0;background:transparent"><td style="border:0;background:transparent">9</td><td style="border:0;background:transparent">Spot dubbing needs to have 85% accuracy minimum</td></tr>
     <tr style="border:0;background:transparent"><td style="border:0;background:transparent">10</td><td style="border:0;background:transparent">This show is synonymous to Comedy Utsavam telecasted in Flower's channel</td></tr>
-    <tr style="border:0;background:transparent"><td style="border:0;background:transparent">11</td><td style="border:0;background:transparent">This show is synonymous to Comedy Utsavam telecasted in Flower's channel</td></tr>
-    <tr style="border:0;background:transparent"><td style="border:0;background:transparent">12</td><td style="border:0;background:transparent"> Kindly submit the form or before July 31<sup>st</sup> 2018.<sup>th</sup>.  </td></tr>
+    <tr style="border:0;background:transparent"><td style="border:0;background:transparent">11</td><td style="border:0;background:transparent">Preference will be given to KAOC members first but we welcome registration from who ever interested</td></tr>
+<tr style="border:0;background:transparent"><td style="border:0;background:transparent">12</td><td style="border:0;background:transparent">For Mimicry competition only Malayalam actors/actress can be imitated and that too with a valid scene from a movie</td></tr>
+<tr style="border:0;background:transparent"><td style="border:0;background:transparent">13</td><td style="border:0;background:transparent">For spot dubbing only Malayalam movie scenes can be used </td></tr>
+    <tr style="border:0;background:transparent"><td style="border:0;background:transparent">14</td><td style="border:0;background:transparent"> Kindly submit the form or before July 31<sup>st</sup> 2018.<sup>th</sup>.  </td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2"> <div id="mcsd_enb"> <font style="color:red">click here to register for Mimicry and spot dubbing competition</font> </div></td></tr>
 		<tr style="border:0;background:transparent"><td style="border:0;background:transparent" colspan="2">  <div id="mcsd_pgm"><iframe src="https://goo.gl/forms/Y1jw6Sz6rQbLVOVf1" width="999" height="999" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></td></tr>		
 	</table>
