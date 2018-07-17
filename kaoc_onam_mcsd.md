@@ -13,7 +13,7 @@ $("#mcsd_enb").click(function(){$("#mcsd_pgm").toggle("slow");});
 </script>
 
 
-<table id="main table" align="center" style="border:0" onLoad="resetAll()">
+<table id="main_table" align="center" style="border:0" onLoad="resetAll()">
 	<tr style="border:0;background:transparent"><td style="border:0;background:transparent">
 	<strong> <center>WELCOME TO KAOC’s 2018 ONAM EVENT REGISTRATION PORTAL. &nbsp; </center></strong><br/>
 	</td></tr>
