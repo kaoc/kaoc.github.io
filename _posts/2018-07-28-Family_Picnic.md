@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Annual Family Picnic 2018
 location: NorthRidge Park , Highlands Ranch
 address: 8800 S Broadway, Highlands Ranch, CO 80126
