@@ -18,7 +18,7 @@ opacity: 10;
 
 
 <table align="center" style="border:0"> <tr style="border:0;background:transparent"><td align="center" style="border:0;background:transparent"><br/>
-  </center></td></tr>
+  </td></tr>
 
  <tr style="border:0;background:transparent">
    <td style="border:0"> 
