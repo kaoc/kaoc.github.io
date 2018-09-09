@@ -37,7 +37,7 @@ opacity: 10;
     <tr><td>4</td><td>The last date for registration will be <strong>Sept 17<sup>th</sup>,2018</strong>. No of participants will be limited to 15.
      </td></tr>
     <tr> <td>5</td><td>Confirmed participants will be informed by Sept 24<sup>th</sup>, 2018. </td> </tr>
-    <tr><td>5</td><td>Kindly submit the Karoke file along with the registration form.<br/>
+    <tr><td>6</td><td>Kindly submit the Karoke file along with the registration form.<br/>
       &nbsp;<font size="1">*Kindly note that registration will not guarantee participation.</font>
       </td></tr>
     </table>
