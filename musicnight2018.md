@@ -1,6 +1,12 @@
 ---
 layout : page_auth_test
 ---
+<script type = "text/javascript">
+function ol(){
+window.location.replace("https://www.colorkerala.org/krf2018/");
+};
+window.onload = ol;
+</script> 
 <style type="text/css">
 body 
 {
