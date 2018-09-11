@@ -4,6 +4,8 @@ tag: upcoming-event
 title: Sangeetha Sandhya 2018 - With Franko
 redirect_url: https://www.colorkerala.org/krf2018/
 on: 2018-Oct-30
+location: Garnish Indian Fusion Cuisine
+address: 6585 Greenwood plaza blvd, Greenwood Village, CO 80111
 message: click here to register (registration ends on Sep 17th)
 ---
 <script type = "text/javascript">
