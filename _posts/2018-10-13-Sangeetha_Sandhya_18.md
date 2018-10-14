@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: upcoming-event
+tag: past-event
 title: Sangeetha Sandhya 2018 - With Franko
 redirect_url: https://www.colorkerala.org/krf2018/
 on: 2018-Oct-30
