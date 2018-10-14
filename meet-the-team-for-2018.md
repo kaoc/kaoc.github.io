@@ -18,7 +18,7 @@ bigimg:
 |**Cultural Secretary**        |Preetha Sayuj                        |Cultural@ColorKerala.org      |
 |**Cultural Secretary**        |Sindhya Sudheer                      |Cultural@ColorKerala.org      |
 |**Sports Secretary**          |Unni Sivasankar                      |Sports@ColorKerala.org        |
-|**Magazine Editor**           |Monson Xavier                        |magazine.editor@colorkerala.org@colorkerala.org|
+|**Magazine Editor**           |Monson Xavier                        |magazine.editor@colorkerala.org|
 |**Executive Committee Member**|Anuroopa Pai M                       |Contact@colorkerala.org|
 |**Executive Committee Member**|Fabin Xavier                         |Contact@colorkerala.org|
 |**Web Admin**	               |Sandeep G L                          |Webmaster@ColorKerala.org     |
