@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: past-event
+tag: upcoming-event
 title: Annual KAOC Christmas 2018 
 on: 2018-Dec-15
 location: GrandView High School
