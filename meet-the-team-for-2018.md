@@ -23,7 +23,7 @@ bigimg:
 |**Executive Committee Member**|Fabin Xavier                         |Contact@colorkerala.org|
 |**Web Admin**	               |Sandeep G L                          |Webmaster@ColorKerala.org     |
 
-
+[Balance Sheet 2018](/pdf/2018/financial/Balance_sheet_2018.pdf)
 
 **Team Portfolio**
 <br/>
