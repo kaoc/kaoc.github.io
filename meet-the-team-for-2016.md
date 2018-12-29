@@ -20,3 +20,5 @@ bigimg:
 |**Logistics Coordinator**   |Anthony Olappurath            |info@colorkerala.org          |
 |**Web Admin**	             |Abhir Elandasserry            |webmaster@colorkerala.org     |
 |**Youth Coordinator**	     |Sheila Mathayi                |info@colorkerala.org          |
+
+[Annual report 2016](/pdf/2016/annual_rep/annual_report.pdf)
