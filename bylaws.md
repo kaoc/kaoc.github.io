@@ -176,3 +176,39 @@ The members shall have the following rights:
 <html><p align="center"><b>EFFECTIVE DATES FOR BYLAW INCORPORATION &amp; AMENDMENTS</b></p></html>
 
 1. Saturday, May 27th, 2017 - Bylaws finalized.
+
+
+
+
+
+
+<html><p align="center"><b>ARTICLE XII</b></p></html>
+
+<html><p align="center"><b>AMENDMENTS</b></p></html>
+
+<html><p align="center"><b>FINANCIAL</b></p></html>
+At the end of each Fiscal year, the current Committee would transfer the funds of up to $5,000 to the succeeding team.
+In the event of an excess of $5,000 closing balance for the fiscal year, the excess amount or 20% of the balance, whichever is higher, will be transferred to the Association’s Reserve Fund savings account (separate from the existing checking account). In the event of closing balance being less than $5,000, the year’s Committee will transfer funds amounting to 20% of the total closing balance to the Reserve Fund Saving Account. The remaining funds will be left in the Association’s checking account as a working capital for the succeeding committee.
+This money shall be set aside for long-term investments such as the construction of community building. The money in the Reserve Fund savings account shall be withdrawn only on obtaining written consent via email from 2/3 or more of the respective years’ paid members. The consents obtained should be available for review by any member of KAOC. The signatories of said savings account will be the responsibility of respective year’s President and Treasurer the approval of a  member team, who will be hence referred to as the Board. The responsibility of operating this saving account with full transparency will fall on them. It is also the responsibility of the Board to make sure that each year the balance is transferred to the Reserve fund as per the guidelines mentioned above. 
+
+The said board will have 
+1.	Nine members who will serve a 5-year term. At the end of which, members can continue in the board for one additional term.
+2.	The Board will be an independent entity and will not have any role in the yearly activities of KAOC.
+3.	Members would have held major executive roles (President, Vice-President, Secretary or Treasurer) in KAOC.
+4.	Members should have been a paid member 2 years prior to induction into the Board.
+5.	New members can be nominated only by existing Board members.
+6.	Board members have to be residents of Colorado during the term. 
+7.	Should a Board member be appointed to the Executive Committee of KAOC., he/she will have to resign from the Board.
+
+<html><p align="center"><b>SOCIAL MEDIA</b></p></html>
+Only paid members will have access to KAOC’s FACEBOOK social network group. Only the President, Secretary and Web Administrator will have authority to permit changes, or accept requests to be published on the social media page.
+KAOC Facebook page and IDF page will be accessible to the general public.
+
+
+
+
+<html><p align="center"><b>ARTICLE XIII</b></p></html>
+
+<html><p align="center"><b>EFFECTIVE DATES FOR AMENDMENTS</b></p></html>
+
+Monday, December 31, 2018. Bylaws amended.
