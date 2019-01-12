@@ -1,6 +1,7 @@
+
 <!DOCTYPE html>
-<!-- saved from url=(0055)https://www.colorkerala.org/meet_the_team_for_2019.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 html {
@@ -27,69 +28,36 @@ html {
 }
 img{
 	max-width:150px;
-	margin:5px;
-	text-align:left;
-	border:1px solid gray;
 }
-
-.imgCont{
-	text-align:left;
-	display:inline-block;
-}
-
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  width:420px; 
-  height:182px;
-  display:inline-block;
-  margin:10px;
-  background-color: cornsilk;
-  text-align:left;
+  min-height:230px;
+  max-width:160px; 
+  text-align:center;
+  margin:auto;
 }
 
-p{
-	margin:5px;
-}
 .container {
-	padding: 0 10px;
-    display: inline-block;
-    width: 260px;
-    text-align: right;
-    position: absolute;
-    z-index: 5;
-    margin-top: 50px;
-}
-.logo{
-	margin:20px 20px 36px 50px;
-    background-image: url("/img/2019team/avatar-icon.png");
-	opacity: 0.15;
-	width:230px;
-	height:140px;
-    display: inline-block;
-    vertical-align: top;
-	background-repeat: no-repeat;
-	position:absolute;
-	z-index:3;
+  padding: 0 16px;
 }
 
-.name{
-	font-family: Arial, Helvetica, sans-serif;
-    color: blue;
-    font-size: 12pt;
-    font-weight: bold;
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .title {
-  font-family:"Trebuchet MS", Helvetica, sans-serif;
-  font-size:12pt;
-  font-weight:bold;
+  color: grey;
 }
 
-.email{
-	font-family: 'Comic Sans MS', cursive, sans-serif;
-	color:black;
-	
+.name{
+  color:blue;
+  font-size: 14pt;
+  font-weight: 900;
+  font-family: monospace;
 }
+
 .button {
   border: none;
   outline: 0;
@@ -107,145 +75,122 @@ p{
 }
 </style>
 </head>
-<body data-gr-c-s-loaded="true">
-<div style="text-align:center;font-family: 'Arial Black', Gadget, sans-serif;">
+<body>
+<div align="center">
   <h2>KERALA ASSOCIATION OF COLORADO</h2>
   <h3> 2019 OFFICE BEARERS</h3>
 </div>
 
-<div style="text-align: center;">
-	<div class="card">
-		<div class="imgCont">
-			<img src="/img/2019team/venu_k.jpg" alt="Venu K" style="width:100%">
-		</div>
-		<div class="logo">
-		</div>
-		<div class="container" align="right">
-			<p class="name">VINOD KOZHUMMAL</p>
-			<p class="title">PRESIDENT</p>
-			<p class="email">president@colorkerala.org</p>
-		</div>
-		
-	</div>
+<div class="row">
 
-	<div class="card">
-		<div class="imgCont">
-			<img src="/img/2019team/nisanth.jpg" alt="Nisanth V" style="width:100%">
-		</div>
-		<div class="logo">
-		</div>
-		<div class="container" align="right">
-			<p class="name">NISANTH VELLUVA</p>
-			<p class="title">VICE PRESIDENT</p>
-			<p class="email">vicepresident@colorkerala.org</p>
-		</div>
-	</div>
-	  
-	<div class="card">
-		<div class="imgCont">
-		<img src="/img/2019team/venu_t.jpg" alt="Venu T" style="width:100%">
-		</div>
-		<div class="logo">
-		</div>
-		<div class="container" align="right">
-			<p class="name">VENUPRASAD THOTTATHIL</p>
-			<p class="title">SECRETARY</p>
-			<p class="email">secretary@colorkerala.org</p>
-		</div>
-	</div>
-		
-	<div class="card">
-		<div class="imgCont">
-		<img src="/img/2019team/noImg.jpg" alt="Vinod M" style="width:100%">
-		</div>
-		<div class="logo">
-		</div>
-		<div class="container" align="right">
-			<p class="name">VINOD MOHAN</p>
-			<p class="title">JOINT SECRETARY</p>
-			<p class="email">jointsecretary@colorkerala.org</p>
-		</div>
-	</div>
+  <div class="column">
+    <div class="card">
+      <img src="img/2019team/venu_k.jpg" alt="Venu K" style="width:100%">
+      <div class="container">
+        <p class="name">VINOD KOZHUMMAL</p>
+        <p class="title">PRESIDENT</p>
+       </div>
+    </div>
+  </div>
 
-	<div class="card">
-		<div class="imgCont">
-		<img src="/img/2019team/noImg.jpg" alt="Bipin B" style="width:100%">
-		</div>
-		<div class="logo">
-		</div>
-		<div class="container" align="right">
-			<p class="name">BIPIN BHASKARAN</p>
-			<p class="title">TREASURER</p>
-			<p class="email">treasurer@colorkerala.org</p>
-		</div>
-	</div>
-	
-	<div class="card">
-     <div class="imgCont">
-		<img src="/img/2019team/lekshmi.jpg" alt="Lekshmi G" style="width:100%">
+  <div class="column">
+    <div class="card">
+     <img src="/img/2019team/nisanth.jpg" alt="Nisanth V" style="width:100%">
+      <div class="container">
+        <p class="name">NISANTH VELLUVA</p>
+        <p class="title">VICE PRESIDENT</p>
+       </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/img/2019team/venu_t.jpg" alt="Venu T" style="width:100%">
+      <div class="container">
+        <p class="name">VENUPRASAD THOTTATHIL</p>
+        <p class="title">SECRETARY</p>
      </div>
-	 <div class="logo">
-		</div>
-		<div class="container" align="right">
+    </div>
+    </div>
+    
+    <div class="column">
+    <div class="card">
+      <img src="/img/2019team/noImg.jpg" alt="Vinod M" style="width:100%">
+      <div class="container">
+        <p class="name">VINOD MOHAN</p>
+        <p class="title">JOINT SECRETARY</p>
+     </div>
+    </div>
+    </div>
+    
+
+  <div class="column">
+    <div class="card">
+      <img src="/img/2019team/noImg.jpg" alt="Bipin B" style="width:100%">
+      <div class="container">
+        <p class="name">BIPIN BHASKARAN</p>
+        <p class="title">TREASURER</p>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<div class="row">
+
+  <div class="column">
+    <div class="card">
+     <img src="/img/2019team/lekshmi.jpg" alt="Lekshmi G" style="width:100%">
+      <div class="container">
         <p class="name">LEKSHMI GOPINATHAN</p>
         <p class="title">CULTURAL SECRETARY</p>
-		<p class="email">cultural@colorkerala.org</p>
        </div>
     </div>
-	
-	 <div class="card">
-      <div class="imgCont">
-		<img src="/img/2019team/reshma.jpg" alt="Reshma P" style="width:100%">
-      </div>
-	  <div class="logo">
-		</div>
-		<div class="container" align="right">
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/img/2019team/reshma.jpg" alt="Reshma P" style="width:100%">
+      <div class="container">
         <p class="name">RESHMA PRABHATH</p>
         <p class="title">CULTURAL SECRETARY</p>
-		<p class="email">cultural@colorkerala.org</p>
      </div>
     </div>
-	
-	<div class="card">
-      <div class="imgCont">
-		<img src="/img/2019team/sreejith.jpg" alt="Sreejith R" style="width:100%">
-     </div>
-	 <div class="logo">
-		</div>
-		<div class="container" align="right">
+    </div>
+    
+    <div class="column">
+    <div class="card">
+      <img src="/img/2019team/sreejith.jpg" alt="Sreejith R" style="width:100%">
+      <div class="container">
         <p class="name">SREEJITH RADHAKRISHNAN</p>
         <p class="title">SPORTS SECRETARY</p>
-		<p class="email">sports@colorkerala.org</p>
      </div>
     </div>
-	
-	<div class="card">
-      <div class="imgCont">
-		<img src="/img/2019team/fabin.jpg" alt="Fabin X" style="width:100%">
-     </div>
-	 <div class="logo">
-		</div>
-		<div class="container" align="right">
+    </div>
+    
+
+
+  <div class="column">
+    <div class="card">
+      <img src="/img/2019team/fabin.jpg" alt="Fabin X" style="width:100%">
+      <div class="container">
         <p class="name">FABIN XAVIER</p>
         <p class="title">EXECUTIVE MEMBER</p>
-		<p class="email">contact@colorkerala.org</p>
        </div>
     </div>
-	
-	<div class="card">
-      <div class="imgCont">
-		<img src="/img/2019team/mervin.jpg" alt="Mervin T" style="width:100%">
-    </div> <div class="logo">
-		</div>
-		<div class="container" align="right">
+  </div>
+
+
+    <div class="column">
+    <div class="card">
+      <img src="/img/2019team/mervin.jpg" alt="Mervin T" style="width:100%">
+      <div class="container">
         <p class="name">MERVIN THOMAS</p>
         <p class="title">WEB ADMIN</p>
-		<p class="email">webmaster@colorkerala.org</p>
-
      </div>
     </div>
-	
-</div>	
+    </div>
+    
+  </div>
 
-
-</body></html>
+</body>
+</html>
