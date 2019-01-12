@@ -1,3 +1,14 @@
+---
+layout: page
+title: Meet Our Team
+subtitle: Committee Members for 2018
+bigimg:
+  - "/img/big-imgs/bigimg1.jpg" : ""
+  - "/img/big-imgs/bigimg2.jpg" : ""
+  - "/img/big-imgs/bigimg3.jpg" : ""
+  - "/img/big-imgs/bigimg4.jpg" : ""
+---
+
 <div style="text-align:center;font-family: 'Arial Black', Gadget, sans-serif;">
 
 ## KERALA ASSOCIATION OF COLORADO
