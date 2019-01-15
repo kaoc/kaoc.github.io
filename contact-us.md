@@ -11,7 +11,7 @@ bigimg:
 
 **Contact Info for KAOC President**
 
-Priya Murali
+Vinod Kozhummal
 
 **Address:** PO BOX 3411, Parker, CO 80134
 
