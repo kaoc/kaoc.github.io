@@ -11,7 +11,7 @@ bigimg:
 
 **Contact Info for KAOC President**
 
-Vinod Kozhummal 
+Venu Kozhammal 
 
 **Address:** PO BOX 3411, Parker, CO 80134
 
