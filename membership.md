@@ -20,6 +20,8 @@ Membership is open to all those who are interested in organizing, participating 
 <!---**Membership for 2016 year is now closed!**--->
 **Pay online below via secure www.paypal.com website.**
 
+Please register your details here >> https://tinyurl.com/KAOC2019
+
 Membership **benefits** include:  
 1. **Free admission** to association organized events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
 2. **Free delicious food** during Picnic, Onam and Christmas events  
