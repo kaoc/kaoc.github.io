@@ -16,11 +16,19 @@ Membership is open to all those who are interested in organizing, participating 
 |Individual Membership | $35*   	  |
 |Guest Entry Fee       | Varies per event |
 
->\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using online payment. To avoid this charge members are most welcome to send Check to the mailing address mentioned below
-<!---**Membership for 2016 year is now closed!**--->
+>\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using online payment. To avoid this charge members are most welcome to pay by Check 
+
+**Pay by check:** 
+Make payments to: Kerala Association of Colorado
+Memo: email address/phone number 
+Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
+
+OR 
+
 **Pay online below via secure www.paypal.com website.**
 
-Please register your details here  **https://tinyurl.com/KAOC2019**
+Please do not forget to register your details here  **https://tinyurl.com/KAOC2019**
+(This will help us validate, we have all the right contact information.)
 
 Membership **benefits** include:  
 1. **Free admission** to association organized events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
