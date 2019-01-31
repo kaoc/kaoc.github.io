@@ -22,7 +22,8 @@ We have started the membership drive for the year 2019. Membership is open to al
 |Family Membership     | $70*      	  |
 |Individual Membership | $35*   	  |
 |Guest Entry Fee       | Varies per event |
-<br/>\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using Paypal payment. <br/>To avoid this charge members are most welcome to pay by Check 
+
+\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using Paypal payment. <br/>To avoid this charge members are most welcome to pay by Check 
 
 **Mail a  check:** <br/>
 Make payments to: Kerala Association of Colorado<br/>
