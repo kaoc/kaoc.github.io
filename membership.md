@@ -9,22 +9,24 @@ bigimg:
   - "/img/big-imgs/bigimg4.jpg" : ""
 ---
 Dear Members, <br/>
-We have started the membership drive for the year 2019. Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. Please reach out to a committee member to pay the membership dues for the year.
+We have started the membership drive for the year 2019. Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment. 
 
+1. Pay to a committee member(Square /Check/Cash - Check Preferred).<br/>
+2. Mail a check<br/>
+3. Pay via PayPal.<br/>
+
+**Membership fees**<br/>
 |Membership Type       | Cost             |
 |----------------------|------------------|
 |Family Membership     | $70*      	  |
 |Individual Membership | $35*   	  |
 |Guest Entry Fee       | Varies per event |
+<br/>\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using Paypal payment. <br/>To avoid this charge members are most welcome to pay by Check 
 
->\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using online payment. <br/>To avoid this charge members are most welcome to pay by Check 
-
-**Pay by check:** <br/>
+**Mail a  check:** <br/>
 Make payments to: Kerala Association of Colorado<br/>
 Memo: email address/phone number<br/>
 Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
-
-OR 
 
 **Pay online via secure www.paypal.com website.**
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -41,6 +43,7 @@ OR
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+**Contact Details**
 Please do not forget to register your details here  **https://tinyurl.com/KAOC2019**<br/>
 (This will help us validate, we have all the right contact information.)
 
@@ -52,6 +55,6 @@ Membership **benefits** include:
 5. **Right to vote** in association organized referendums & elections  
 6. **Other discounts** as passed on by association's esteemed sponsors  
 
->Please note that membership expires at the end of calendar year on December 31st, 2019. 
+>Please note that membership expires at the end of calendar year on December 31st, 2019. <br/>
 To save on credit card processing costs, we encourage all members to send checks to KAOC, PO BOX 3411, Parker, CO 80134.
 
