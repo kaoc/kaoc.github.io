@@ -16,12 +16,20 @@ We have started the membership drive for the year 2019. Membership is open to al
 3. Pay via PayPal.<br/>
 
 **Membership fees**
-
-|Membership Type       | Cost             |
-|----------------------|------------------|
-|Family Membership     | $70*      	  |
-|Individual Membership | $35*   	  |
-|Guest Entry Fee       | Varies per event |
+<table>
+	<tr>
+		<td>Membership Type</td><td>Cost</td>
+	</tr>
+	<tr>
+		<td>Family</td><td>$70</td>
+	</tr>
+	<tr>
+		<td>Single</td><td>$35</td>
+	</tr>
+	<tr>
+		<td>Guest Entry Fee</td><td>Varies per event</td>	
+	</tr>
+</table>
 
 \* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using Paypal payment. <br/>To avoid this charge members are most welcome to pay by Check 
 
