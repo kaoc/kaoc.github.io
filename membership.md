@@ -15,7 +15,8 @@ We have started the membership drive for the year 2019. Membership is open to al
 2. Mail a check<br/>
 3. Pay via PayPal.<br/>
 
-**Membership fees**<br/>
+**Membership fees**
+
 |Membership Type       | Cost             |
 |----------------------|------------------|
 |Family Membership     | $70*      	  |
