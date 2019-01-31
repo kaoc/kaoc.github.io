@@ -30,7 +30,7 @@ We have started the membership drive for the year 2019. Membership is open to al
 		<td>Guest Entry Fee</td><td>Varies per event</td>	
 	</tr>
 </table>
-<br/>
+
 >\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using Paypal payment. <br/>To avoid this charge members are most welcome to pay by Check 
 
 **Mail a  check:** <br/>
@@ -53,7 +53,7 @@ Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-**Contact Details**
+**Contact Details**<br/>
 Please do not forget to register your details here  **https://tinyurl.com/KAOC2019**<br/>
 (This will help us validate, we have all the right contact information.)
 
