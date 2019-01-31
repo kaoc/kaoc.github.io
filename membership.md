@@ -19,8 +19,8 @@ Membership is open to all those who are interested in organizing, participating 
 >\* Due to increase in the fees we are charging $2.5 extra for Family and $1.5 extra for Individual while using online payment. To avoid this charge members are most welcome to pay by Check 
 
 **Pay by check:** 
-Make payments to: Kerala Association of Colorado
-Memo: email address/phone number 
+Make payments to: Kerala Association of Colorado--
+Memo: email address/phone number --
 Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 
 OR 
