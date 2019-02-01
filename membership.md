@@ -4,8 +4,8 @@ title: Membership Information
 subtitle: Benefits of becoming a KAOC member!
 bigimg:
   - "/img/big-imgs/col01.jpg" : ""
-  - "/img/big-imgs/ker01.jpg" : ""
-  - "/img/big-imgs/col02.jpg" : ""
+  - "/img/big-imgs/ker03.jpg" : ""
+  - "/img/big-imgs/col03.jpg" : ""
   - "/img/big-imgs/ker02.jpg" : ""
 ---
 Dear Members, <br/>
