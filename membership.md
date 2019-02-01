@@ -55,7 +55,7 @@ Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 </form>
 
 **Contact Details**<br/>
-Please do not forget to register your details here  **https://tinyurl.com/KAOC2019**<br/>
+Please do not forget to register your details **[here](https://tinyurl.com/KAOC2019)**<br/>
 (This will help us validate, we have all the right contact information.)
 
 Membership **benefits** include:  
