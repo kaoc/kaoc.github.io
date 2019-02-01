@@ -3,10 +3,10 @@ layout: page
 title: Membership Information
 subtitle: Benefits of becoming a KAOC member!
 bigimg:
-  - "/img/big-imgs/col01.jpg" : ""
-  - "/img/big-imgs/ker03.jpg" : ""
   - "/img/big-imgs/col03.jpg" : ""
   - "/img/big-imgs/ker02.jpg" : ""
+  - "/img/big-imgs/col05.jpg" : ""
+  - "/img/big-imgs/ker04.jpg" : ""
 ---
 Dear Members, <br/>
 We have started the membership drive for the year 2019. Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment. 
