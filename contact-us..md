@@ -3,10 +3,10 @@ layout: page
 title: Contact Us
 subtitle: Phone, address & email info. below!
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/col08.jpg" : ""
+  - "/img/big-imgs/ker01.jpg" : ""
+  - "/img/big-imgs/ker06.jpg" : ""
+  - "/img/big-imgs/col03.jpg" : ""
 ---
 
 **Contact Info for KAOC President**
