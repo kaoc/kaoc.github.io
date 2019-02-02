@@ -3,10 +3,10 @@ layout: page
 title: Kerala Association of Colorado - Magazine
 subtitle: MileHighKeralam
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/col01.jpg" : ""
+  - "/img/big-imgs/col03.jpg" : ""
+  - "/img/big-imgs/ker02.jpg" : ""
+  - "/img/big-imgs/ker08.jpg" : ""
 
 ---
 
