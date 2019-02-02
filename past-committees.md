@@ -3,10 +3,10 @@ layout: page
 title: Past Committees
 subtitle: Details of KAOC Committees since 2003
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/col05.jpg" : ""
+  - "/img/big-imgs/col06.jpg" : ""
+  - "/img/big-imgs/ker01.jpg" : ""
+  - "/img/big-imgs/ker07.jpg" : ""
 ---
 | Year | President	                                                     | Committee Members                                                   |
 |------|-----------------------------------------------------------------|-------------------------------------------------------------|
