@@ -3,10 +3,10 @@ layout: page
 title: Our Esteemed Sponsors
 subtitle: A BIG Thanks to our sponsors!
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/col02.jpg" : ""
+  - "/img/big-imgs/col04.jpg" : ""
+  - "/img/big-imgs/ker05.jpg" : ""
+  - "/img/big-imgs/ker07.jpg" : ""
 ---
 Major events are the Indian Dance Festival, Onam & Christmas Celebrations. Onam & Christmas Celebrations will have over 500 guests; Indian Dance Festival will have over 1000 guests. 
 
