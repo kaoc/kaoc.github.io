@@ -3,10 +3,10 @@ layout: page
 title: CORPORATION BY-LAWS
 subtitle:
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/ker05.jpg" : ""
+  - "/img/big-imgs/ker08.jpg" : ""
+  - "/img/big-imgs/col02.jpg" : ""
+  - "/img/big-imgs/col04.jpg" : ""
 css: /css/infinite-scrolling-photo-banner.css
 ---
 <html><p align="center"><b>ARTICLE I</b></p></html>
