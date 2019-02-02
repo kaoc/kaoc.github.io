@@ -3,10 +3,10 @@ layout: page
 title: Useful Web Links
 subtitle: 
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/col08.jpg" : ""
+  - "/img/big-imgs/ker02.jpg" : ""
+  - "/img/big-imgs/ker06.jpg" : ""
+  - "/img/big-imgs/ker07.jpg" : ""
 ---
 
 |General Links                                                                        |Kerala Airport Links                                                                 |
