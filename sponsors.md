@@ -36,21 +36,22 @@ To more about sponsorship options, contact Venu Kozhummal at [president@colorker
 <input type="hidden" name="hosted_button_id" value="38E8MVS458QC6">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sponsorship Options">Sponsorship Options</td></tr><tr><td><select name="os0">
-	<option value="Sponsorship Option-1">Sponsorship Option-1 $250.00 USD</option>
-	<option value="Sponsorship Option-2">Sponsorship Option-2 $350.00 USD</option>
-	<option value="Sponsorship Option-3">Sponsorship Option-3 $500.00 USD</option>
-	<option value="Sponsorship Option-4">Sponsorship Option-4 $1,000.00 USD</option>
-	<option value="Silver Sponsor">Silver Sponsor $750.00 USD</option>
-	<option value="Gold sponsor">Gold sponsor $1,000 USD</option>
-	<option value="Platinum sponsor">Platinum sponsor $1,500 USD</option>
-	<option value="Title Sponsor">Title Sponsor $5,000.00 USD</option>
-	
+<option value="Sponsorship Option-1">Sponsorship Option-1 $250.00 USD</option>
+<option value="Sponsorship Option-2">Sponsorship Option-2 $350.00 USD</option>
+<option value="Sponsorship Option-3">Sponsorship Option-3 $500.00 USD</option>
+<option value="Sponsorship Option-4">Sponsorship Option-4 $1,000.00 USD</option>
+<option value="Title sponsor">Title sponsor $5,000.00 USD</option>
+<option value="Platinum sponsor">Platinum sponsor $1,500.00 USD</option>
+<option value="Gold sponsor">Gold sponsor $1,000.00 USD</option>
+<option value="Silver sponsor">Silver sponsor $750.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
 <br>
 <div id="container">
 	{% for image in site.static_files %}
