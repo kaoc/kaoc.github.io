@@ -17,7 +17,7 @@ If you would like to be our sponsors, here are our **sponsorhip options**.
 <table><tr><td>Title sponsor</td><td>$5,000</td></tr><tr><td>Platinum sponsor</td><td>$1,500</td></tr>
 <tr><td>Gold sponsor</td><td>$1,000</td></tr><tr><td>Silver sponsor</td><td>$750</td></tr></table>
 
-**Advertisment options** for IDF are as follows
+**Advertisment options** for IDF(Indian Dance Festival) are as follows
 
 <table><tr><td>Ad on the back of event ticket</td><td>$400</td></tr><tr><td>
 Welcome booklet back cover ad</td><td>$500</td></tr><tr><td>
