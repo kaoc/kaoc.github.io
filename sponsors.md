@@ -14,7 +14,7 @@ Major events are the Indian Dance Festival, Onam & Christmas Celebrations. Onam 
 
 If you would like to be our sponsors, here are our **sponsorhip options**. 
 <br/>
-<table><tr><td>Title sponsor</td><td>$5,000</td></tr><tr><td>Platinum sponsor</td>$1,500</td></tr>
+<table><tr><td>Title sponsor</td><td>$5,000</td></tr><tr><td>Platinum sponsor</td><td>$1,500</td></tr>
 <tr><td>Gold sponsor</td><td>$1,000</td></tr><tr><td>Silver sponsor</td><td>$750</td></tr></table>
 
 **Advertisment options** for IDF are as follows
