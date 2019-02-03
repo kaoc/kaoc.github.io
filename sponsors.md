@@ -12,6 +12,23 @@ Major events are the Indian Dance Festival, Onam & Christmas Celebrations. Onam 
 
 >These events are not possible without the support of **our generous Sponsors below!**
 
+If you would like to be our sponsors, here are our **sponsorhip options**. 
+<br/>
+<table><tr><td>Title sponsor</td><td>$5,000</td></tr><tr><td>Platinum sponsor</td>$1,500</td></tr>
+<tr><td>Gold sponsor</td><td>$1,000</td></tr><tr><td>Silver sponsor</td><td>$750</td></tr></table>
+
+**Advertisment options** for IDF are as follows
+
+<table><tr><td>Ad on the back of event ticket</td><td>$400</td></tr><tr><td>
+Welcome booklet back cover ad</td><td>$500</td></tr><tr><td>
+Welcome booklet inside cover ad</td><td>$350</td></tr><tr><td>
+Welcome booklet full page ad</td><td>$250</td></tr><tr><td>
+booth at the event</td><td>$300</td></tr><tr><td>
+Half page</td><td>$150</td></tr></table>
+
+We also offer **Family Sponsorhip** at $250 to cover the following events (and not limited to)
+<table><tr><td>Arangettam</td></tr><tr><td>Family - Anniversaries</td></tr><tr><td>16th Bday</td></tr><tr><td>Graduation</td></tr></table>
+
 To more about sponsorship options, contact Venu Kozhummal at [president@colorkerala.org](mailto:president@colorkerala.org)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
