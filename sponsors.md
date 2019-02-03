@@ -40,10 +40,10 @@ To more about sponsorship options, contact Venu Kozhummal at [president@colorker
 <option value="Sponsorship Option-2">Sponsorship Option-2 $350.00 USD</option>
 <option value="Sponsorship Option-3">Sponsorship Option-3 $500.00 USD</option>
 <option value="Sponsorship Option-4">Sponsorship Option-4 $1,000.00 USD</option>
-<option value="Title sponsor">Title sponsor $5,000.00 USD</option>
-<option value="Platinum sponsor">Platinum sponsor $1,500.00 USD</option>
-<option value="Gold sponsor">Gold sponsor $1,000.00 USD</option>
 <option value="Silver sponsor">Silver sponsor $750.00 USD</option>
+<option value="Gold sponsor">Gold sponsor $1,000.00 USD</option>
+<option value="Platinum sponsor">Platinum sponsor $1,500.00 USD</option>
+<option value="Title sponsor">Title sponsor $5,000.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
