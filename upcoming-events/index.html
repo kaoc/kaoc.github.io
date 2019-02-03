@@ -7,8 +7,12 @@ bigimg:
   - "/img/big-imgs/ker06.jpg" : ""
   - "/img/big-imgs/ker08.jpg" : ""
 ---
-
-<div class="posts-list">
+<table><tr><td><b>Name of Event</b></td><b>Date</b><td><b>Location</b></td><td><b>Contacts</b></td></tr>
+<tr><td>Music Night</td>6th April<td>Garnish<br/>6585 Greenwood Plaza Blvd,<br/>Greenwood Village, CO 80111</td>
+	<td><VenuPrasad<br/>Lekshmi Gopinathan</td></tr>
+<tr><td>Indian Dance Festival</td>TBF*<td>TBF*</td><td></td></tr>	
+</table>
+<!--div class="posts-list">
   {% for post in site.tags.upcoming-event reversed %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -61,3 +65,4 @@ bigimg:
   {% endif %}
 </ul>
 {% endif %}
+<--!>
