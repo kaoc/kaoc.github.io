@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yuva
-subtitle: Community events organized by KAOC
+subtitle: Youth Programs organized by KAOC
 bigimg:
   - "/img/big-imgs/ker02.jpg" : ""
   - "/img/big-imgs/ker06.jpg" : ""
