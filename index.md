@@ -3,10 +3,10 @@ layout: page
 title: Kerala Association of Colorado
 subtitle: Fresh ideas with traditional values.
 bigimg:
-  - "/img/big-imgs/bigimg1.jpg" : ""
-  - "/img/big-imgs/bigimg2.jpg" : ""
-  - "/img/big-imgs/bigimg3.jpg" : ""
-  - "/img/big-imgs/bigimg4.jpg" : ""
+  - "/img/big-imgs/col04.jpg" : ""
+  - "/img/big-imgs/col08.jpg" : ""
+  - "/img/big-imgs/ker05.jpg" : ""
+  - "/img/big-imgs/ker07.jpg" : ""
 
 ---
 <table align="left" style="border:0">
@@ -92,7 +92,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 <br/>		
  <a href="https://www.colorkerala.org/about-kaoc-history/" > read more </a>
 <br/> <br/> <br/>
-	<a href="https://www.colorkerala.org/ec2018/"> click here to view upcoming events and dates (including tentative) </a>
+	<a href="https://www.colorkerala.org/upcoming-events/"> click here to view all events and dates (including tentative) </a>
 </font>
 
 	</td></tr></table>
