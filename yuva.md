@@ -14,7 +14,7 @@ bigimg:
 YUVA  is an initiative by Kerala Association of Colorado targeting the Youth of our community. It focuses on enhancing their 
 organizational and social skills, which in turn makes the younger generation responsible of the baton of righteousness they would 
 carry on to adulthood. <br/>
-KAOC is inviting the young volunteers to join this program. <br/>
+KAOC is inviting the young volunteers to join this program. <br/><br/>
 <b>Key Responsibilities:</b>
 <ol>
   <li>Support the activities by  KAOC. By volunteering in the planning and executing stages of the programs.</li>
