@@ -30,7 +30,9 @@ navbar-links:
     - Meet the team for 2019: "meet_the_team_for_2019.html"
     - Past Committees: "past-committees"
     - Online Magazine: "milehighkeralam"
-  Events: "upcoming-events"
+  Events:
+    - Event Calendar:  "upcoming-events"
+    
   Gallery: 
     - Photos: "photos-gallery"
     - Videos: "videos-gallery"
