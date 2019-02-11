@@ -13,7 +13,7 @@ css: /css/infinite-scrolling-photo-banner.css
 <body style="font:serif;">
 Dear Members,
 <br/>
- <div style="margin-left:10px">
+ <div style="margin-left:10px;line-height: 1.4">
 KAOC is delighted to announce our very first event for the year - 2019 Family Music Night.<br/>
   Date: <b>Saturday April 6th, 2019</b><br/>
 We have the stage. You have the flair. Come join us and together let's sing, dance and forge a night 
