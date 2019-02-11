@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CORPORATION BY-LAWS
+title: MUSIC NIGHT
 subtitle:
 bigimg:
   - "/img/big-imgs/ker05.jpg" : ""
