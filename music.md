@@ -20,7 +20,7 @@ filled with memories that will live forever.<br/>
 Event free for members. Buffet dinner and drinks are available for purchase.<br/>
 We have limited number of slots available. So please hurry up and register.<br/>
 Please send in your entry by 2/20/19<br/>
-Use the below link to submit your entry<br/>
-https://tinyurl.com/kaoc-music-night<br/>
+  Use the below <a href="https://tinyurl.com/kaoc-music-night">link</a> to submit your entry<br/>
+<br/>
 </body>
 </html>
