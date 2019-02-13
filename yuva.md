@@ -35,4 +35,4 @@ KAOC is inviting the young volunteers to join this program. </p>
   <li>We are looking for 10-12 volunteers</li>
  </ul>
 
-Register here >> https://tinyurl.com/YuvaKAOC
+Register <a href="https://tinyurl.com/YuvaKAOC" style="cursor:pointer"> here </a>
