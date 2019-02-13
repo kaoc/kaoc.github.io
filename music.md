@@ -19,7 +19,7 @@ KAOC is delighted to announce our very first event for the year - 2019 Family Mu
 We have the stage. You have the flair. Come join us and together let's sing, dance and forge a night 
 filled with memories that will live forever.<br/>
 Event free for members. Buffet dinner and drinks are available for purchase.<br/>
-We have limited number of slots available. So please hurry up and register.<br/>
+Limited number of slots available for performance<br/>
 Please send in your entry by 2/20/19<br/>
   Use the below <a href="https://tinyurl.com/kaoc-music-night">link</a> to submit your entry<br/>
 <br/>
