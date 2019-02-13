@@ -4,3 +4,96 @@ bigimg:
    - "/img/big-imgs/idf01.jpg" : ""
    - "/img/big-imgs/idf02.jpg" : ""
 ---
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.column {
+  float: left;
+  width: 20%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+img{
+	max-width:150px;
+	margin:5px;
+	text-align:left;
+	border:1px solid gray;
+}
+.imgCont{
+	text-align:left;
+	display:inline-block;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width:420px; 
+  height:182px;
+  display:inline-block;
+  margin:10px;
+  background-color: cornsilk;
+  text-align:left;
+}
+p{
+	margin:5px;
+}
+.container {
+	padding: 0 10px;
+    display: inline-block;
+    width: 260px;
+    text-align: right;
+    position: absolute;
+    z-index: 5;
+    margin-top: 50px;
+}
+.logo{
+	margin:20px 20px 36px 50px;
+    background-image: url("/img/2019team/avatar-icon.png");
+	opacity: 0.15;
+	width:230px;
+	height:140px;
+    display: inline-block;
+    vertical-align: top;
+	background-repeat: no-repeat;
+	position:absolute;
+	z-index:3;
+}
+.name{
+	font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.title {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size:12pt;
+  font-weight:bold;
+}
+.email{
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+	color:black;
+	font-size:12pt;
+}
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+.button:hover {
+  background-color: #555;
+}
+</style>
+</head>
