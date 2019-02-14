@@ -3,11 +3,9 @@ layout: page
 title: Yuva
 subtitle: Youth Programs organized by KAOC
 bigimg:
-  - "/img/big-imgs/ker02.jpg" : ""
-  - "/img/big-imgs/ker06.jpg" : ""
-  - "/img/big-imgs/ker08.jpg" : ""
-  - "/img/big-imgs/col04.jpg" : ""
-  - "/img/big-imgs/col06.jpg" : ""
+  - "/img/big-imgs/KAOCbanner.jpg" : ""
+  - "/img/big-imgs/Yuva2.jpg" : ""
+ 
 ---
 
 <div align="center" style="text-align:center"><h1>YUVA Program</h1></div>
