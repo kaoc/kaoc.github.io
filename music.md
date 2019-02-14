@@ -3,8 +3,6 @@ layout: page
 title: MUSIC NIGHT
 subtitle:
 bigimg:
-  - "/img/big-imgs/musicnight01.jpg" : ""
-  - "/img/big-imgs/musicnight02.jpg" : ""
   - "/img/big-imgs/musicnight03.jpg" : ""
   - "/img/big-imgs/musicnight04.jpg" : ""
   - "/img/big-imgs/KAOCBanner2.jpg" : ""
