@@ -29,7 +29,7 @@ Half page</td><td>$150</td></tr></table>
 We also offer **Family Sponsorhip** at $250 to cover the following events (and not limited to)
 <table><tr><td>Arangettam</td></tr><tr><td>Family - Anniversaries</td></tr><tr><td>16th Bday</td></tr><tr><td>Graduation</td></tr></table>
 
-To more about sponsorship options, contact Venu Kozhummal at [president@colorkerala.org](mailto:president@colorkerala.org)
+To know more about sponsorship options, contact Venu Kozhummal at [president@colorkerala.org](mailto:president@colorkerala.org)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
