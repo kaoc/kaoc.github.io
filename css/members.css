@@ -1,32 +1,32 @@
-html {
+/*html {
   box-sizing: border-box;
-}
-*, *:before, *:after {
+}*/
+/* *, *:before, *:after {
   box-sizing: inherit;
-}
-.column {
+}*/
+.mem_column {
   float: left;
   width: 20%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
 @media screen and (max-width: 650px) {
-  .column {
+  .mem_column {
     width: 100%;
     display: block;
   }
 }
-img{
+.mem_img{
 	max-width:150px;
 	margin:5px;
 	text-align:left;
 	border:1px solid gray;
 }
-.imgCont{
+.mem_imgCont{
 	text-align:left;
 	display:inline-block;
 }
-.card {
+.mem_card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   width:420px; 
   height:182px;
@@ -35,10 +35,12 @@ img{
   background-color: cornsilk;
   text-align:left;
 }
+/*
 p{
 	margin:5px;
 }
-.container {
+*/
+.mem_container {
 	padding: 0 10px;
     display: inline-block;
     width: 260px;
@@ -47,7 +49,7 @@ p{
     z-index: 5;
     margin-top: 50px;
 }
-.logo{
+.mem_logo{
 	margin:20px 20px 36px 50px;
     background-image: url("/img/2019team/avatar-icon.png");
 	opacity: 0.15;
@@ -59,23 +61,23 @@ p{
 	position:absolute;
 	z-index:3;
 }
-.name{
+.mem_name{
 	font-family: Arial, Helvetica, sans-serif;
     color: blue;
     font-size: 12pt;
     font-weight: bold;
 }
-.title {
+.mem_title {
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   font-size:12pt;
   font-weight:bold;
 }
-.email{
+.mem_email{
 	font-family: 'Comic Sans MS', cursive, sans-serif;
 	color:black;
 	font-size:12pt;
 }
-.button {
+.mem_button {
   border: none;
   outline: 0;
   display: inline-block;
@@ -86,6 +88,6 @@ p{
   cursor: pointer;
   width: 100%;
 }
-.button:hover {
+.mem_button:hover {
   background-color: #555;
 }
