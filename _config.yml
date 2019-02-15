@@ -32,6 +32,7 @@ navbar-links:
     - Online Magazine: "milehighkeralam"
   Events:
     - Event Calendar:  "upcoming-events"
+    - Music Night:  "music"
     
   Gallery: 
     - Photos: "photos-gallery"
