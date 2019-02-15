@@ -8,82 +8,82 @@ layout : page_auth_test
 </div>
 
 <div style="text-align: center;">
-	<div class="card">
-		<div class="imgCont">
+	<div class="mem_card">
+		<div class="mem_imgCont">
 			<img src="/img/2019team/venu_k.jpg" alt="Venu K" style="width:100%">
 		</div>
-		<div class="logo">
+		<div class="mem_logo">
 		</div>
 		<div class="container" align="right">
-			<p class="name">VENU KOZHUMMAL</p>
-			<p class="title">PRESIDENT</p>
-			<p class="email">president@colorkerala.org</p>
+			<p class="mem_name">VENU KOZHUMMAL</p>
+			<p class="mem_title">PRESIDENT</p>
+			<p class="mem_email">president@colorkerala.org</p>
 		</div>
 		
 	</div>
 
-	<div class="card">
-		<div class="imgCont">
+	<div class="mem_card">
+		<div class="mem_imgCont">
 			<img src="/img/2019team/nisanth.jpg" alt="Nisanth V" style="width:100%">
 		</div>
-		<div class="logo">
+		<div class="mem_logo">
 		</div>
 		<div class="container" align="right">
-			<p class="name">NISANTH VELLUVA</p>
-			<p class="title">VICE PRESIDENT</p>
-			<p class="email">vicepresident@colorkerala.org</p>
+			<p class="mem_name">NISANTH VELLUVA</p>
+			<p class="mem_title">VICE PRESIDENT</p>
+			<p class="mem_email">vicepresident@colorkerala.org</p>
 		</div>
 	</div>
 	  
-	<div class="card">
-		<div class="imgCont">
+	<div class="mem_card">
+		<div class="mem_imgCont">
 		<img src="/img/2019team/venu_t.jpg" alt="Venu T" style="width:100%">
 		</div>
-		<div class="logo">
+		<div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-			<p class="name">VENUPRASAD THOTTATHIL</p>
-			<p class="title">SECRETARY</p>
-			<p class="email">secretary@colorkerala.org</p>
+		<div class="mem_container" align="right">
+			<p class="mem_name">VENUPRASAD THOTTATHIL</p>
+			<p class="mem_title">SECRETARY</p>
+			<p class="mem_email">secretary@colorkerala.org</p>
 		</div>
 	</div>
 		
-	<div class="card">
-		<div class="imgCont">
+	<div class="mem_card">
+		<div class="mem_imgCont">
 		<img src="/img/2019team/vinod.jpg" alt="Vinod M" style="width:100%">
 		</div>
-		<div class="logo">
+		<div class="mem_logo">
 		</div>
 		<div class="container" align="right">
-			<p class="name">VINOD MOHAN</p>
-			<p class="title">JOINT SECRETARY</p>
-			<p class="email">jointsecretary@colorkerala.org</p>
+			<p class="mem_name">VINOD MOHAN</p>
+			<p class="mem_title">JOINT SECRETARY</p>
+			<p class="mem_email">jointsecretary@colorkerala.org</p>
 		</div>
 	</div>
 
-	<div class="card">
-		<div class="imgCont">
+	<div class="mem_card">
+		<div class="mem_imgCont">
 		<img src="/img/2019team/bipin.jpg" alt="Bipin B" style="width:100%">
 		</div>
-		<div class="logo">
+		<div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-			<p class="name">BIPIN BHASKARAN</p>
-			<p class="title">TREASURER</p>
-			<p class="email">treasurer@colorkerala.org</p>
+		<div class="mem_container" align="right">
+			<p class="mem_name">BIPIN BHASKARAN</p>
+			<p class="mem_title">TREASURER</p>
+			<p class="mem_email">treasurer@colorkerala.org</p>
 		</div>
 	</div>
 	
-	<div class="card">
-     <div class="imgCont">
+	<div class="mem_card">
+     <div class="mem_imgCont">
 		<img src="/img/2019team/lekshmi.jpg" alt="Lekshmi G" style="width:100%">
      </div>
-	 <div class="logo">
+	 <div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-        <p class="name">LEKSHMI GOPINATHAN</p>
-        <p class="title">CULTURAL SECRETARY</p>
-		<p class="email">cultural@colorkerala.org</p>
+		<div class="mem_container" align="right">
+        <p class="mem_name">LEKSHMI GOPINATHAN</p>
+        <p class="mem_title">CULTURAL SECRETARY</p>
+		<p class="mem_email">cultural@colorkerala.org</p>
        </div>
     </div>
 	
