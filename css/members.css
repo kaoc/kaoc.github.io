@@ -35,11 +35,10 @@
   background-color: cornsilk;
   text-align:left;
 }
-/*
-p{
+
+.mem_p{
 	margin:5px;
 }
-*/
 .mem_container {
 	padding: 0 10px;
     display: inline-block;
