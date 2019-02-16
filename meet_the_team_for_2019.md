@@ -160,8 +160,8 @@ layout : page_auth_test
 
      </div>
     </div>
-	
+<br/><br/>	
 </div>	
-<br/><br/>
+
 </div>
 
