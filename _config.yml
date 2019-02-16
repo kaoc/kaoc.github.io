@@ -33,7 +33,7 @@ navbar-links:
   Events:
     - Event Calendar:  "upcoming-events"
     - Music Night:  "music"
-    
+    - YUVA: "yuva"
   Gallery: 
     - Photos: "photos-gallery"
     - Videos: "videos-gallery"
