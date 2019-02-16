@@ -22,7 +22,7 @@ We have the stage. You have the flair. Come join us and together let's sing, dan
 filled with memories that will live forever.<br/>
 Event free for members. Buffet dinner and drinks are available for purchase.<br/>
 Limited number of slots available for performance<br/>
-Please send in your entry by 2/24/2019<br/>
+Please send in your entry by February 24, 2019<br/>
   Use the below <a href="https://tinyurl.com/kaoc-music-night">link</a> to submit your entry<br/>
 <br/>
  </div>
