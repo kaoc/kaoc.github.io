@@ -2,7 +2,7 @@
 layout : page_auth_test
 ---
 
-
+<div style="width: 150%;margin: -300px;">
 <div style="text-align:center;font-family: 'Arial Black', Gadget, sans-serif;margin-top:100px;">
   <h3> 2019 OFFICE BEARERS</h3>
 </div>
@@ -162,5 +162,5 @@ layout : page_auth_test
     </div>
 	
 </div>	
-
+</div>
 
