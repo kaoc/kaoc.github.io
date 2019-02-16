@@ -11,19 +11,20 @@ bigimg:
 <div align="center" style="text-align:center"><h1>YUVA Program</h1></div>
 <p>YUVA  is an initiative by Kerala Association of Colorado targeting the Youth of our community. It focuses on enhancing their 
 organizational and social skills, which in turn makes the younger generation responsible of the baton of righteousness they would 
-carry on to adulthood. <br/>
-KAOC invites the young volunteers to join this program. </p>
+carry on to adulthood. <br/><br/>
+KAOC invites the young volunteers to join this program. We are looking for a team of 12-15 volunteers. </p>
 <b>Key Responsibilities:</b>
 <ol>
   <li>Support the KAOC by volunteering in the planning and executing stages of the programs.</li>
   <li>Coordinate workshops planned by KAOC.</li>
-  <li>Participating in the volunteer programs conducted by KAOC</li>
+  
  </ol>
 <b>Benefits</b>
-<ol>
-  <li>These opportunities will help the volunteers in enhancing  their organizing skills, soft skills in dealing with and guiding different types of people and developing social skills.</li>
-  <li>Volunteers will be provided with certificate of participation</li>
-</ol>
+<ul>
+  <li>These opportunities will help the volunteers in enhancing  their organization skills, soft skills and social skills.</li>
+  <li>Volunteers will be provided with certificate of participation and volunteer hours.</li>
+  <li>Preferences in attending the workshops conducted by KAOC YUVA team.</li>
+</ul>
 
 <b>Eligibility</b>
 <ul>
