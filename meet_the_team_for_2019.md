@@ -130,7 +130,7 @@ layout : page_auth_test
      </div>
 	 <div class="mem_logo">
 		</div>
-		<div class="container" align="right">
+		<div class="mem_container" align="right">
         <p class="mem_name mem_p">FABIN XAVIER</p>
         <p class="mem_title mem_p">EXECUTIVE MEMBER</p>
 		<p class="mem_email mem_p">contact@colorkerala.org</p>
