@@ -87,76 +87,76 @@ layout : page_auth_test
        		</div>
    	 </div>
 	 <div class="mem_card">
-      <div class="imgCont">
+      <div class="mem_imgCont">
 		<img src="/img/2019team/reshma.jpg" alt="Reshma P" style="width:100%" class="mem_img">
       </div>
-	  <div class="logo">
+	  <div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-        <p class="name">RESHMA PRABHATH</p>
-        <p class="title">CULTURAL SECRETARY</p>
-		<p class="email">cultural@colorkerala.org</p>
+		<div class="mem_container" align="right">
+        		<p class="mem_name mem_p">RESHMA PRABHATH</p>
+        		<p class="mem_title mem_p">CULTURAL SECRETARY</p>
+			<p class="mem_email mem_p">cultural@colorkerala.org</p>
      </div>
     </div>
 	
-	<div class="card">
-      <div class="imgCont">
+	<div class="mem_card">
+      <div class="mem_imgCont">
 		<img src="/img/2019team/sreejith.jpg" alt="Sreejith R" style="width:100%" class="mem_img">
      </div>
-	 <div class="logo">
+	<div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-        <p class="name">SREEJITH RADHAKRISHNAN</p>
-        <p class="title">SPORTS SECRETARY</p>
-		<p class="email">sports@colorkerala.org</p>
+		<div class="mem_container" align="right">
+      			<p class="mem_name mem_p">SREEJITH RADHAKRISHNAN</p>
+        		<p class="mem_title mem_p">SPORTS SECRETARY</p>
+			<p class="mem_email mem_p">sports@colorkerala.org</p>
      </div>
     </div>
-	<div class="card">
-      <div class="imgCont">
+	<div class="mem_card">
+      <div class="mem_imgCont">
 		<img src="/img/2019team/reshma_r.jpg" alt="RESHMA R" style="width:100%" class="mem_img">
      </div>
-	 <div class="logo">
+	 <div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-        <p class="name">RESHMA RANJAN</p>
-        <p class="title">LITERATURE SECRETARY</p>
-		<p class="email">magazine.editor@colorkerala.org</p>
+		<div class="mem_container" align="right">
+        <p class="mem_name mem_p">RESHMA RANJAN</p>
+        <p class="mem_title mem_p">LITERATURE SECRETARY</p>
+		<p class="mem_email mem_p">magazine.editor@colorkerala.org</p>
        </div>
     </div>
 	
-	<div class="card">
-      <div class="imgCont">
+	<div class="mem_card">
+      <div class="mem_imgCont">
 		<img src="/img/2019team/fabin.jpg" alt="Fabin X" style="width:100%" class="mem_img">
      </div>
-	 <div class="logo">
+	 <div class="mem_logo">
 		</div>
 		<div class="container" align="right">
-        <p class="name">FABIN XAVIER</p>
-        <p class="title">EXECUTIVE MEMBER</p>
-		<p class="email">contact@colorkerala.org</p>
+        <p class="mem_name mem_p">FABIN XAVIER</p>
+        <p class="mem_title mem_p">EXECUTIVE MEMBER</p>
+		<p class="mem_email mem_p">contact@colorkerala.org</p>
        </div>
     </div>
-	<div class="card">
-      <div class="imgCont">
+	<div class="mem_card">
+      <div class="mem_imgCont">
 		<img src="/img/2019team/noImg.jpg" alt="Fabin X" style="width:100%" class="mem_img">
      </div>
-	 <div class="logo">
+	 <div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-        <p class="name">AJAN UNNIKRISHNAN</p>
-        <p class="title">EXECUTIVE MEMBER</p>
-		<p class="email">contact@colorkerala.org</p>
+		<div class="mem_container" align="right">
+        <p class="mem_name mem_p">AJAN UNNIKRISHNAN</p>
+        <p class="mem_title mem_p">EXECUTIVE MEMBER</p>
+		<p class="mem_email mem_p">contact@colorkerala.org</p>
        </div>
     </div>
-	<div class="card">
-      <div class="imgCont">
+	<div class="mem_card">
+      <div class="mem_imgCont">
 		<img src="/img/2019team/mervin.jpg" alt="Mervin T" style="width:100%" class="mem_img">
-    </div> <div class="logo">
+    </div> <div class="mem_logo">
 		</div>
-		<div class="container" align="right">
-        <p class="name">MERVIN THOMAS</p>
-        <p class="title">WEB ADMIN</p>
-		<p class="email">webmaster@colorkerala.org</p>
+		<div class="mem_container" align="right">
+        <p class="mem_name mem_p">MERVIN THOMAS</p>
+        <p class="mem_title mem_p">WEB ADMIN</p>
+		<p class="mem_email mem_p">webmaster@colorkerala.org</p>
 
      </div>
     </div>
