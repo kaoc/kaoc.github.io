@@ -21,8 +21,8 @@ KAOC invites the young volunteers to join this program. We are looking for a tea
  </ol>
 <b>Benefits</b>
 <ul>
-  <li>These opportunities will help the volunteers in enhancing  their organization skills, soft skills and social skills.</li>
-  <li>Volunteers will be provided with certificate of participation and volunteer hours.</li>
+  <li>These opportunities will help the volunteers in enhancing  their organization skills, soft skills, and social skills.</li>
+  <li>Volunteers will be provided with a certificate of participation and volunteer hours.</li>
   <li>Preferences in attending the workshops conducted by KAOC YUVA team.</li>
 </ul>
 
