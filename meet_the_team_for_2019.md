@@ -138,7 +138,7 @@ layout : page_auth_test
     </div>
 	<div class="mem_card">
       <div class="mem_imgCont">
-		<img src="/img/2019team/noImg.jpg" alt="Fabin X" style="width:100%" class="mem_img">
+		<img src="/img/2019team/ajan.jpg" alt="Ajan U" style="width:100%" class="mem_img">
      </div>
 	 <div class="mem_logo">
 		</div>
