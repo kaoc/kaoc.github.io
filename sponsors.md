@@ -55,7 +55,7 @@ To know more about sponsorship options, contact Venu Kozhummal at [president@col
 <br>
 <div id="container">
 	{% for image in site.static_files %}
-		{% if image.path contains 'sponsors/2018' %}
+		{% if image.path contains 'sponsors/2019' %}
 			<img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="425" width="275"/>
 		{% endif %}
 	{% endfor %}
