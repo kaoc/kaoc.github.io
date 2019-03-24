@@ -6,7 +6,7 @@ bigimg:
   - "/img/big-imgs/musicnight03.jpg" : ""
   - "/img/big-imgs/musicnight04.jpg" : ""
   - "/img/big-imgs/KAOCBanner2.jpg" : ""
-  - "/img/big-imgs/MUSICNIGHTBanner2.jpg" : ""
+
   
   
 css: /css/infinite-scrolling-photo-banner.css
