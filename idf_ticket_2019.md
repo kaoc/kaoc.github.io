@@ -1,0 +1,39 @@
+---
+layout: page
+title: CORPORATION BY-LAWS
+subtitle:
+bigimg:
+  - "/img/big-imgs/IDFbanner2FBBlasts2.png" : ""
+css: /css/infinite-scrolling-photo-banner.css
+---
+<html>
+<body>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="778CE82TRHJVY">
+
+<img src="img/big-imgs/IDFbanner2FBBlasts2.png">
+<div id="main windows" style="width:800px;margin:auto;top:150px;text-align:center">
+Welcome to 20th Indian Dance Festival - <a href="https://www.colorkerala.org/idf2019/">Sanskriti. </a><br/>
+Add your required options to cart and update the quantity in the cart. 
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="778CE82TRHJVY">
+
+<table style="width:800px">
+<tr><td>
+<!--<input type="hidden" name="on0" value="Quantity can be changed later on PayPal site.">Quantity can be changed later on PayPal site.-->
+</td></tr><tr><td style="text-align:center"><select name="os0" >
+<option value="10 years & older">10 years & older $12.00 USD</option>
+<option value="Kids 5 to 10 years">Kids 5 to 10 years $7.00 USD</option>
+</select> </td></tr>
+</table>
+<br/>
+<br/>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<div>
+</body>
+</html>
