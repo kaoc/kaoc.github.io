@@ -12,12 +12,10 @@ The tickets for IDF 2019 can be obtained from Committee members or from the belo
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="778CE82TRHJVY">
-<table style="width:800px;text-align:center;">
-<tr><td><input type="hidden" name="on0" value="Tickets">Tickets for 20th Indian Dance Festival - Sanskriti<br/></td></tr><tr><td><select name="os0">
+<select name="os0">
 <option value="Adults: 10 years & older">Adults: 10 years & older $12.00 USD</option>
 <option value="Kids: 5 - 10 years">Kids: 5 - 10 years $7.00 USD</option>
-</select> </td></tr>
-</table>
+</select>
 <br/>
 <br/>
 <input type="hidden" name="currency_code" value="USD">
