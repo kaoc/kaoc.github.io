@@ -18,6 +18,8 @@ The tickets for IDF 2019 can be obtained from Committee members or from the belo
 </select>
 <br/>
 <br/>
+  <br/>
+  <br/>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
