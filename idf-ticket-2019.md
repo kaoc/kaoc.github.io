@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Membership Information
-subtitle: Benefits of becoming a KAOC member!
+title: Sanskriti Tickets
+subtitle: 20th Indian Dance Festival
 bigimg:
   - "/img/big-imgs/idf01.jpg" : ""
 ---
