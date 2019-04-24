@@ -29,5 +29,5 @@ Please add the required category and quantity and pay.
 <br/>
 Please keep a copy of the reciept and you can collect the ticket at the ticket counter at event venue. 
 
-Thank you
+Thank you<br/>
 KAOC team
