@@ -22,18 +22,10 @@ The tickets for IDF 2019 can be obtained from Committee members or from the belo
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+<br/>
+Please add the required category and quantity and pay. 
+<br/>
+Please keep a copy of the reciept and you can collect the ticket at the ticket counter at event venue. 
 
-**Contact Details**<br/>
-Please do not forget to register your details **[here](https://tinyurl.com/KAOC2019)**<br/>
-(This will help us validate, we have all the right contact information.)
-
-Membership **benefits** include:  
-1. **Free admission** to association organized events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
-2. **Free delicious food** during Picnic, Onam and Christmas events  
-3. **Access to a great platform** for showcasing talented performances by children & adults  
-4. **Being part of a rich cultural organization** while supporting and helping the Malayalee and Indian Communities  
-5. **Right to vote** in association organized referendums & elections  
-6. **Other discounts** as passed on by association's esteemed sponsors  
-
->Please note that membership expires at the end of calendar year on December 31st, 2019. <br/>
-To save on credit card processing costs, we encourage all members to send checks to KAOC, PO BOX 3411, Parker, CO 80134.
+Thank you
+KAOC team
