@@ -11,7 +11,7 @@ bigimg:
 Hi There, <br/>
 We have not started the membership drive for the year 2020. Please visit us later. Thank You!
 
-[//]: # (Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment. 
+<!-- Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment.
 
 1. Pay to a committee member(Square /Check/Cash - Check Preferred).<br/>
 2. Mail a check<br/>
@@ -59,6 +59,8 @@ Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 **Contact Details**<br/>
 Please do not forget to register your details **[here](https://tinyurl.com/KAOC2019)**<br/>
 (This will help us validate, we have all the right contact information.) )
+
+-->
 
 Membership **benefits** include:  
 1. **Free admission** to association organized events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
