@@ -9,7 +9,9 @@ bigimg:
   - "/img/big-imgs/ker04.jpg" : ""
 ---
 Dear Members, <br/>
-We have not started the membership drive for the year 2020. Please visit us later. Thank You!Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment. 
+We have not started the membership drive for the year 2020. Please visit us later. Thank You!
+
+[//]: # (Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment. )
 
 1. Pay to a committee member(Square /Check/Cash - Check Preferred).<br/>
 2. Mail a check<br/>
