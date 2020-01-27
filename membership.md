@@ -9,9 +9,9 @@ bigimg:
   - "/img/big-imgs/ker04.jpg" : ""
 ---
 Hi there! <br/>
-We have not started the membership drive for the year 2020. Please visit us later. Thank You!
+We have started the membership drive for the year 2020. Please find the details below :
 
-<!-- Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment.
+Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment.
 
 1. Pay to a committee member(Square /Check/Cash - Check Preferred).<br/>
 2. Mail a check<br/>
@@ -23,13 +23,13 @@ We have not started the membership drive for the year 2020. Please visit us late
 		<td>Membership Type</td><td>Cost</td>
 	</tr>
 	<tr>
-		<td>Family</td><td>$70</td>
+		<td>Family</td><td>$95</td>
 	</tr>
 	<tr>
-		<td>Single</td><td>$35</td>
+		<td>Individual</td><td>$55</td>
 	</tr>
 	<tr>
-		<td>Guest Entry Fee</td><td>Varies per event</td>	
+		<td>Sr. Citizen</td><td>$35</td>	
 	</tr>
 </table>
 
@@ -47,8 +47,9 @@ Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 <input type="hidden" name="hosted_button_id" value="6YYL2BXQM3YPJ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Subscription">Subscription</td></tr><tr><td><select name="os0">
-	<option value="Family Membership">Family Membership $72.50 USD</option>
-	<option value="Single Membership">Single Membership $36.50 USD</option>
+	<option value="Family Membership">Family Membership $97.50 USD</option>
+	<option value="Individual Membership">Single Membership $56.50 USD</option>
+	<option value="Sr. Citizen Membership">Sr. Citizen Membership $35.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
@@ -60,7 +61,6 @@ Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 Please do not forget to register your details **[here](https://tinyurl.com/KAOC2019)**<br/>
 (This will help us validate, we have all the right contact information.) )
 
--->
 
 Membership **benefits** include:  
 1. **Free admission** to association organized events like the Music Night, Indian Dance Festival, Picnic, Onam and Christmas  
@@ -70,6 +70,5 @@ Membership **benefits** include:
 5. **Right to vote** in association organized referendums & elections  
 6. **Other discounts** as passed on by association's esteemed sponsors  
 
-<!-- Please note that membership expires at the end of calendar year on December 31st, 2019. <br/>
-To save on credit card processing costs, we encourage all members to send checks to KAOC, PO BOX 3411, Parker, CO 80134. -->
-
+Please note that membership expires at the end of calendar year on December 31st, 2020. <br/>
+To save on credit card processing costs, we encourage all members to send checks to KAOC, PO BOX 3411, Parker, CO 80134.
