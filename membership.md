@@ -45,9 +45,10 @@ Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="6YYL2BXQM3YPJ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Subscription">Subscription</td></tr><tr><td><select name="os0">
-	<option value="Family Membership">Family Membership $72.50 USD</option>
-	<option value="Single Membership">Single Membership $36.50 USD</option>
+<tr><td><input type="hidden" name="on0" value="KAOC Membership Subscription">KAOC Membership Subscription</td></tr><tr><td><select name="os0">
+	<option value=“Family Membership”>Family Membership $95.00 USD</option>
+	<option value=“Individual Membership”>Individual Membership $55.00 USD</option>
+	<option value=“Sr. Citizen Membership”>Sr. Citizen Membership $35.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
