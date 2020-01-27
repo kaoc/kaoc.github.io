@@ -40,20 +40,23 @@ Make payments to: Kerala Association of Colorado<br/>
 Memo: email address/phone number<br/>
 Mailing Address: Treasurer, PO BOX 3411, Parker, CO 80134
 
+
 **Pay online via secure www.paypal.com website.**
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="N37ZT48H4SQVW">
 <table>
 <tr><td><input type="hidden" name="on0" value="Subscription">Subscription</td></tr><tr><td><select name="os0">
-	<option value="Family Membership">Family Membership $72.50 USD</option>
-	<option value="Single Membership">Single Membership $36.50 USD</option>
+	<option value="Family Membership">Family Membership $97.50 USD</option>
+	<option value="Individual Membership">Single Membership $56.50 USD</option>
+	<option value="Sr. Citizen Membership">Sr. Citizen Membership $35.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 <!--**Contact Details**<br/>
 Please do not forget to register your details **[here](https://tinyurl.com/KAOC2019)**<br/>
