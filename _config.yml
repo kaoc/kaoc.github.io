@@ -27,14 +27,14 @@ navbar-links:
     - KAOC History: "about-kaoc-history"
     - Bylaws: "bylaws"    
     #- President's Desk: "presidents-desk"
-    - Meet the team for 2019: "meet_the_team_for_2019.html"
+    #- Meet the team for 2019: "meet_the_team_for_2019.html"
     - Past Committees: "past-committees"
     - Online Magazine: "milehighkeralam"
   Events:
     - Event Calendar:  "upcoming-events"
     - Music Night:  "music"
     - YUVA: "yuva"
-    - MADHURAM MALAYALAM: "madhuram_malayalam"
+    - Madhuram Malyalam: "madhuram_malayalam"
     - Indian Dance Festival: "idf2019"
   Gallery: 
     - Photos: "photos-gallery"
