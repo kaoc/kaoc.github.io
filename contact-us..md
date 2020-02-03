@@ -11,13 +11,13 @@ bigimg:
 
 **Follow us on social media for our latest updates**
 
-Facebook Page : https://www.facebook.com/kerala.association.of.colorado/
+Facebook Page : <a>https://www.facebook.com/kerala.association.of.colorado/</a>
 
-Facebook Group : https://www.facebook.com/groups/ColorKerala/
+Facebook Group : <a>https://www.facebook.com/groups/ColorKerala/</a>
 
-Twitter : https://twitter.com/ColoradoKerala
+Twitter : <a>https://twitter.com/ColoradoKerala</a>
 
-Instagram : https://www.instagram.com/coloradokerala
+Instagram : <a>https://www.instagram.com/coloradokerala</a>
 
 
 **Contact Info for KAOC President**
