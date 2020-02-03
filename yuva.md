@@ -29,7 +29,7 @@ KAOC invites the young volunteers to join this program. We are looking for a tea
 <b>Eligibility</b>
 <ul>
   <li>Age between 12-19 years (flexible if someone is very keen and able)</li>
-  <li>Parents must be the  members of KAOC for the year 2019</li>
+  <li>Parents must be the  members of KAOC for the year 2020</li>
  </ul>
 
-Register <a href="https://tinyurl.com/YuvaKAOC" style="cursor:pointer"> here </a>
+<!--Register <a href="https://tinyurl.com/YuvaKAOC" style="cursor:pointer"> here </a>-->
