@@ -100,7 +100,7 @@ Kerala Association of Colorado (<strong>KAOC</strong>) is a community driven cul
 	<div id="sponsors">
 	    	<marquee behaviour="scroll" direction="up" height="600" scrollamount="3" style="height:600px;width:300px;" width="800px">
 	{% for image in site.static_files %}	    	
-		{% if image.path contains 'sponsors/2019/' %}
+		{% if image.path contains 'sponsors/2020/' %}
 			<div> <a href="{{ site.baseurl }}{{ image.path }}"> <img src="{{ site.baseurl }}{{ image.path }}" style="height:600px;width:250px" align="center"/></a> </div><br/>
 	    	{% endif %}
 	{% endfor %}
