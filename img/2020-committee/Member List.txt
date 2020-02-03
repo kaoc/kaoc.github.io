@@ -1,0 +1,10 @@
+
+    President: Nisanth Velluva, President@ColorKerala.org
+    Vice President: Vinod Mohan, VicePresident@ColorKerala.org
+    Secretary: Lekshmi Gopinathan, Secretary@ColorKerala.org
+    Joint Secretary: Bibin Kuruvilla, JointSecretary@ColorKerala.org
+    Treasurer: Nandakumar Gopalakrishnan, Treasurer@ColorKerala.org
+    Cultural Secretaries: Babitha Bipin, Priya Pandalay, Cultural@ColorKerala.org
+    Sports Secretaries: Sreejith Nair, Biju Somarajan, Sports@ColorKerala.org
+    Yuva & Literature Secretary: Reshma Ranjan, LiteratureSecretary@ColorKerala.org
+    Communication Secretary: Jikku Joyce, Webmaster@ColorKerala.org
