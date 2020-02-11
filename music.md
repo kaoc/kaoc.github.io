@@ -27,7 +27,7 @@ Guidelines for participant registration:<br/>
 <br/>
   <p align="center">
     <img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center">
-  </p
+  </p>
  </div>
 </body>
 </html>
