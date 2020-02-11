@@ -23,7 +23,6 @@ Guidelines for participant registration:<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Participants cannot combine duet and group song timings.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eg: participants can sing duet in a group song, but it will count towards the 7 minute limit.<br/>
 <br/>
-<br/>
 Registration Link : <a href="https://forms.gle/qBKP2CgFfzfFnkYm7">Music Night Participant Registration</a><br/> 
 Please submit your registration by February 21, 2020.<br/>
 <br/>
