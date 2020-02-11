@@ -13,18 +13,17 @@ css: /css/infinite-scrolling-photo-banner.css
 ---
 <html>
 <body style="font:serif;">
-Dear Members,
 <br/>
- <div style="margin-left:10px;line-height:2">
+<div style="margin-left:10px;line-height:2">
 Guidelines for participant registration:<br/>
-  1. Only KAOC members are allowed to perform.<br/>
-  2. Songs do not have to adhere to retro night theme – any can be chosen.<br/>
-  3. Due to overwhelming response, we will have two categories this year : Duet and Group.<br/>
-  4. Time limit for a Duet will be 4 minutes and Group will be 7 minutes.<br/>
-  5. Participants cannot combine duet and group song timings.<br/>
-     Eg: participants can sing duet in a group song, but it will count towards the 7 minute limit.<br/>
-  6. Please submit your registration by February 21, 2020.<br/>
-  7. Registration Link : https://forms.gle/qBKP2CgFfzfFnkYm7<br/>
+  >>>1. Only KAOC members are allowed to perform.<br/>
+  >>>2. Songs do not have to adhere to retro night theme – any can be chosen.<br/>
+  >>>3. Due to overwhelming response, we will have two categories this year : Duet and Group.<br/>
+  >>>4. Time limit for a Duet will be 4 minutes and Group will be 7 minutes.<br/>
+  >>>5. Participants cannot combine duet and group song timings.<br/>
+     >>Eg: participants can sing duet in a group song, but it will count towards the 7 minute limit.<br/>
+  >>>6. Please submit your registration by February 21, 2020.<br/>
+  >>>7. Registration Link : <a>https://forms.gle/qBKP2CgFfzfFnkYm7</a><br/>
  </div>
 </body>
 </html>
