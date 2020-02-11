@@ -25,7 +25,9 @@ Guidelines for participant registration:<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Please submit your registration by February 21, 2020.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Registration Link : <a href="https://forms.gle/qBKP2CgFfzfFnkYm7">Music Night Participant Registration</a><br/>
 <br/>
-  <img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center">
+  <p align="center">
+    <img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center">
+  </p
  </div>
 </body>
 </html>
