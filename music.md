@@ -29,6 +29,7 @@ So come and help us create a snapshot of the style and flair of the golden era o
 <br/>
 <b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font>
 <br/>
+<br/> 
 </center>
 <b>Guidelines for participant registration:</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Only KAOC members are allowed to perform.<br/>
