@@ -15,17 +15,18 @@ css: /css/infinite-scrolling-photo-banner.css
 <body style="font:serif;">
 <br/>
 <div style="margin-left:10px;line-height:2">
-<center>Are you ready to rock the 2020 music night? KAOC cordially invite you to our very special themed night : <br/>
+<center>Are you ready to rock the 2020 music night? <br/>
+KAOC cordially invite you to our very special themed night : <br/>
 <b><font color="#21618C">Akkare Akkare Akkare</font></b><br/>
-The 70's to 90's - the Pinnacle of entertainment.
- 
-Join us in our attempt to scale the impossible heights. Dress up in your favorite decade’s (from 70s, 80s or 90s) styles and try to match the style of our yesteryear heroes. Sing along with the karaoke to the unforgettable tunes. Join our live band and DJ to rock the dance floor with your rockstar moves. But be warned - our photo booth sees all.
-So come and help us create a snapshot of the style and flair of the golden era of entertainment.
- 
-When: Saturday , March 28th 2020 @ 5:30 PM
-Where: Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</center>
-
-
+<font color="#A569BD">The 70's to 90's - the Pinnacle of entertainment.</font><br/>
+<br/> 
+Join us in our attempt to scale the impossible heights. Dress up in your favorite decade’s (from 70s, 80s or 90s) styles and try to match the style of our yesteryear heroes. Sing along with the karaoke to the unforgettable tunes. Join our live band and DJ to rock the dance floor with your rockstar moves. But be warned - our photo booth sees all.<br/>
+<br/>
+So come and help us create a snapshot of the style and flair of the golden era of entertainment.<br/>
+<br/> 
+<b>When:</b><font color="#CB4335"> Saturday , March 28th 2020 @ 5:30 PM</font><br/>
+<b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font></center><br/>
+<br/>
 **Guidelines for participant registration:**<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Only KAOC members are allowed to perform.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Songs do not have to adhere to retro night theme – any can be chosen.<br/>
