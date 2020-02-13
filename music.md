@@ -20,12 +20,13 @@ KAOC cordially invite you to our very special themed night : <br/>
 <b><font color="#21618C" size="40px">Akkare Akkare Akkare</font></b><br/>
 <font color="#A569BD">The 70's to 90's - the Pinnacle of entertainment.</font>
 <br/> 
-Join us in our attempt to scale the impossible heights. Dress up in your favorite decade’s (from 70s, 80s or 90s) styles and try to match the style of our yesteryear heroes. Sing along with the karaoke to the unforgettable tunes. Join our live band and DJ to rock the dance floor with your rockstar moves. But be warned - our photo booth sees all.<br/>
+Join us in our attempt to scale the impossible heights. Dress up in your favorite decade’s (from 70s, 80s or 90s) styles and try to match the style of our yesteryear heroes. Sing along with the karaoke to the unforgettable tunes. Join our live band and DJ to rock the dance floor with your rockstar moves. But be warned - our photo booth sees all.
 <br/>
-So come and help us create a snapshot of the style and flair of the golden era of entertainment.<br/>
-<br/> 
-<b>When:</b><font color="#CB4335"> Saturday , March 28th 2020 @ 5:30 PM</font><br/>
-<b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font></center><br/>
+So come and help us create a snapshot of the style and flair of the golden era of entertainment.
+<br/>
+<b>When:</b><font color="#CB4335"> Saturday , March 28th 2020 @ 5:30 PM</font>
+<br/>
+<b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font></center>
 <br/>
 <b>Guidelines for participant registration:</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Only KAOC members are allowed to perform.<br/>
