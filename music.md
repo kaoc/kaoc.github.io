@@ -27,7 +27,7 @@ So come and help us create a snapshot of the style and flair of the golden era o
 <b>When:</b><font color="#CB4335"> Saturday , March 28th 2020 @ 5:30 PM</font><br/>
 <b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font></center><br/>
 <br/>
-**Guidelines for participant registration:**<br/>
+<b>Guidelines for participant registration:</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Only KAOC members are allowed to perform.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Songs do not have to adhere to retro night theme – any can be chosen.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Due to overwhelming response, we will have two categories this year : Duet and Group.<br/>
@@ -36,7 +36,7 @@ So come and help us create a snapshot of the style and flair of the golden era o
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eg: participants can sing duet in a group song, but it will count towards the 7 minute limit.<br/>
 <br/>
 Registration Link : <a href="https://forms.gle/qBKP2CgFfzfFnkYm7">Music Night Participant Registration</a><br/> 
-Please submit your registration by February 21, 2020.<br/>
+Please submit your registration by <b>February 21, 2020.</b><br/>
 <br/>
   <p align="center">
     <img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center">
