@@ -16,7 +16,7 @@ css: /css/infinite-scrolling-photo-banner.css
 <br/>
 <div style="margin-left:10px;line-height:2">
 <center>Are you ready to rock the 2020 music night? KAOC cordially invite you to our very special themed night : <br/>
- <b>Akkare Akkare Akkare</b><br/>
+<b><font color="#21618C">Akkare Akkare Akkare</font></b><br/>
 The 70's to 90's - the Pinnacle of entertainment.
  
 Join us in our attempt to scale the impossible heights. Dress up in your favorite decade’s (from 70s, 80s or 90s) styles and try to match the style of our yesteryear heroes. Sing along with the karaoke to the unforgettable tunes. Join our live band and DJ to rock the dance floor with your rockstar moves. But be warned - our photo booth sees all.
