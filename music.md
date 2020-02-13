@@ -26,8 +26,9 @@ So come and help us create a snapshot of the style and flair of the golden era o
 <br/>
 <b>When:</b><font color="#CB4335"> Saturday , March 28th 2020 @ 5:30 PM</font>
 <br/>
-<b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font></center>
+<b>Where:</b><font color="#CB4335"> Centennial Event Center @ Naan Curry Grill, 10639 E Briarwood Ave, Centennial CO 80112</font>
 <br/>
+</center>
 <b>Guidelines for participant registration:</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Only KAOC members are allowed to perform.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Songs do not have to adhere to retro night theme – any can be chosen.<br/>
