@@ -12,7 +12,7 @@ css: /css/infinite-scrolling-photo-banner.css
 <body style="font:serif;">
 <br/>
 <div style="margin-left:10px;line-height:2">
-<center>Are you ready to rock the 2020 music night? <br/>
+<!--center>Are you ready to rock the 2020 music night? <br/>
 KAOC cordially invite you to our very special themed night : <br/>
 <b><font color="#21618C" size="40px">Akkare Akkare Akkare</font></b><br/>
 <font color="#4A235A">The 70's to 90's - the Pinnacle of entertainment.</font>
@@ -37,10 +37,11 @@ So come and help us create a snapshot of the style and flair of the golden era o
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eg: participants can sing duet in a group song, but it will count towards the 7 minute limit.<br/>
 <br/>
 Registration Link : <a href="https://forms.gle/qBKP2CgFfzfFnkYm7">Music Night Participant Registration</a><br/> 
-Please submit your registration by <b>February 21, 2020.</b><br/>
+Please submit your registration by <b>February 21, 2020.</b><br/-->
 <br/>
   <p align="center">
-    <img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center">
+    <!--img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center"-->
+    <img src="/img/images_2020/music_night/MusicNightPostponed2020.jpeg.jpg" width="600" height="800" class="center">
   </p>
  </div>
 </body>
