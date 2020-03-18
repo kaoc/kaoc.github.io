@@ -41,7 +41,7 @@ Please submit your registration by <b>February 21, 2020.</b><br/-->
 <br/>
   <p align="center">
     <!--img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center"-->
-    <img src="/img/images_2020/music_night/MusicNightPostponed2020.jpeg.jpg" width="600" height="800" class="center">
+    <img src="/img/images_2020/music_night/MusicNightPostponed2020.jpeg" width="600" height="800" class="center">
   </p>
  </div>
 </body>
