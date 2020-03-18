@@ -3,7 +3,7 @@ layout: page
 title: MUSIC NIGHT
 subtitle:
 bigimg:
-  - "/img/big-imgs/Retro2020cover.png" : ""
+  - "/img/big-imgs/musicnight03.jpg" : ""
  
   
 css: /css/infinite-scrolling-photo-banner.css
