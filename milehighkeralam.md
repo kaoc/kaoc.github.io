@@ -12,4 +12,4 @@ bigimg:
 
 <iframe title="MileHighKeralam- KAOC Magazine - Vol1" src="milehighkerala/MIleHighKeralam_20201231_Vol1.pdf" width="100%" height="500px">
 This browser does not support PDFs. Please download the PDF to view it
-  <a href="milehighkerala/KAOC Mile High Keralam 2020-compressed.pdf">Download PDF </a></iframe>
+  <a href="milehighkerala/MIleHighKeralam_20201231_Vol1.pdf">Download PDF </a></iframe>
