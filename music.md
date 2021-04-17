@@ -41,7 +41,9 @@ Please submit your registration by <b>February 21, 2020.</b><br/-->
 <br/>
   <p align="center">
     <!--img src="/img/images_2020/music_night/Registration_meme.jpg" width="600" height="800" class="center"-->
+    <a href="https://www.youtube.com/watch?v=ZUBbZnMYXbY">
     <img src="/img/images_2020/music_night/music-night-2021.png" class="center">
+      </a>
   </p>
  </div>
 </body>
