@@ -10,7 +10,7 @@ bigimg:
 ---
 Hi there, <br/>
 
-We have started the membership drive for the year 2020.
+We have started the membership drive for the year 2021.
 
 Membership is open to all those who are interested in organizing, participating and enjoying cultural, social and entertainment programs conducted by the association. We have 3 options for you to make the payment.
 
